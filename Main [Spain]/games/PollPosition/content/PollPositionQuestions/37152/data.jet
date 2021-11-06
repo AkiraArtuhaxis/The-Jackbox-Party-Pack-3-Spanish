@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "67",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha usado cuchadores más de 10 veces en su vida?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Una a 10 veces.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Imágenes Satelitales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Nunca he usado un cuchador.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuántas veces en tu vida has usado un cuchador?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Más de 10 veces.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Utensilios novedosos. Uso ocasional.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "518036_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "518034_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

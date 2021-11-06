@@ -1,0 +1,26 @@
+[
+    {
+        "title":"JUGAR",
+        "action":"doPlayGame",
+        "description":"¡Crea una sala y juega!",
+        "value":0
+    },
+    {
+        "title":"ESTADÍSTICAS",
+        "action":"doLeaderboards",
+        "description":"Visualiza datos de tus partidas recientes",
+        "value":1
+    },
+    {
+        "title":"AJUSTES",
+        "action":"doSettings",
+        "description":"Filtro familiar, opciones de público, y más",
+        "value":2
+    },
+    {
+        "title":"VOLVER AL PACK",
+        "action":"doBackToPack",
+        "description":"Salir al Party Pack",
+        "value":3
+    }
+]

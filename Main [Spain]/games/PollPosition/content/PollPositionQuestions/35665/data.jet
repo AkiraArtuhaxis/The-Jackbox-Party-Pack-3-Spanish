@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha entrado y terminado maratones completos de 26,2 millas (42 kilómetros)?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Colibríes espía robóticos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez ingresaste y terminaste un maratón de 26.2 millas (42 kilómetros)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Carrera de larga distancia. Compromiso, resistencia.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "481534_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "481532_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

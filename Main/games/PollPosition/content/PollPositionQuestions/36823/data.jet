@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "27",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas permiten que se les cobre a sus tarjetas de crédito por servicios que ya no usan porque son demasiado vagos para cancelarlos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Se le cobra a tu tarjeta de crédito un servicio que ya no usas porque eres demasiado vago/a para cancelarlo?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Servicios no deseados. Pagos mínimos adeudados.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "512036_3",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "512034_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

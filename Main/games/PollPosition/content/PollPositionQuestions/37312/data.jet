@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "12",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tienen perforaciones en el cuerpo que no sean de las orejas?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de teléfono celular",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes un piercing en el cuerpo, sin incluir las orejas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Punción de carne de moda. No orejeado.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "519722_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "519720_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "62",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas admite sentirse obligada a dar \u201cMe Gusta\u201d a las publicaciones de Facebook de sus amigos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has sentido la obligación de dar \u201cMe Gusta\u201d en las publicaciones de Facebook de tus amigos?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Comportamiento de Facebook. Obligaciones de aprobación.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "481516_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "481514_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

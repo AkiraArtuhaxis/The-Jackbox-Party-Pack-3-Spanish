@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "77",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se sienten cómodas estando desnudas en habitaciones además de sus dormitorios o baños cuando están solas en casa?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Vigilancia encubierta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Te sientes cómodo/a estando desnudo/a en habitaciones fuera de tu dormitorio o baño cuando estás solo/a en casa?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Desnudez en casa. Nivel de comodidad.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "482747_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "482745_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

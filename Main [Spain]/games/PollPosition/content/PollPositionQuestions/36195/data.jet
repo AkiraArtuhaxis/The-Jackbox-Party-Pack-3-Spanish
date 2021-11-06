@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas posee camisetas que representan a equipos deportivos profesionales?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes una camiseta que represente a un equipo deportivo profesional?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Lealtad vestida. Camisetas del equipo.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497565_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

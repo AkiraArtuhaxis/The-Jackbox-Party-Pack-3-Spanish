@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "22",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "10",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué atracción en Walt Disney World considera la mayoría de la gente como la mejor?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la mejor atracción en Walt Disney World?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Montaña Espacial",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Montaña Big Thunder",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Test Track",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Piratas del Caribe",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Es un Mundo Pequeño",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Mansión Embrujada",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Rock \u2018n\u2019 Roller Coaster",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Torre del Terror",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Phone Decryption",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Montaña Splash",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Ride preferences. Orlando-centric.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "524303_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

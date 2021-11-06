@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tienen tatuajes en o cerca de sus traseros o genitales?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes un tatuaje en o cerca de tu trasero o genitales?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Ubicaciones entintadas. Regiones inferiores.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "497924_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497922_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "13",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué variedad de sopa reina sobre todas las demás?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es tu variedad de sopa favorita (gota de huevo, crema de apio, etc.)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "De fideos con pollo",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Picante y amarga",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "De patata al horno",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "De huevo",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "De cebolla francesa",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "De almejas",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "De papa",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "De tomate",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Hidden Home Cam",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "De brócoli con queso cheddar",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "509303_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

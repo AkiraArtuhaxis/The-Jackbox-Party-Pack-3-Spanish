@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "50",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas posee sostenedores de maíz?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tiene sostenedores de maíz? Ya sabes, ¿las manijas que pones en las puntas de la mazorca de maíz?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Utensilios de cocina. Relacionados con el maíz.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "501244_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501242_2",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "49",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha limpiado su historial de Internet en el último mes?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Descifrado de datos electrónicos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Has borrado tu historial de Internet en el mes pasado?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Evitación de espías en Internet. Nociones ingenuas del pueblo.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499960_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499958_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

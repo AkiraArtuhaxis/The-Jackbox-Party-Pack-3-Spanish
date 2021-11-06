@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "52",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha defecado en los aviones?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has defecado en un avión?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Caca presurizada. Cagando en las nubes.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "524626_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

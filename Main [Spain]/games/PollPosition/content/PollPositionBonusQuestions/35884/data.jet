@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "14",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "10",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo define la mayoría de las personas la palabra \u201cvarios\u201d?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuánto es \u201cvarios\u201d?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Cinco (5)",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Diez (10)",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Veinte (20)",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Dos (2)",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Ocho (8)",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Seis (6)",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Cuatro (4)",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Tres (3)",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Population Profiling",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Siete (7)",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Quantity definitions. Communication precision.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "487995_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

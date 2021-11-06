@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "64",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas preferirían ser superhéroes que se encogen a 2 centímetros que los que crecen hasta 15 metros?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Encoger",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué superpoder preferirías tener: crecer hasta 15 metros de altura o encogerte a 2 centímetros de altura?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Crecer",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Alteración dramática del tamaño de los pantalones.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "520261_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "520259_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

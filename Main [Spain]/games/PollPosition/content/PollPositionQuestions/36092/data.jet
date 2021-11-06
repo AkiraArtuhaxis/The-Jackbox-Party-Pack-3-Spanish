@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "46",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha creado nombres chistosos para sus redes Wi-Fi domésticas?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "No tengo Wi-Fi.",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Un nombre sensato.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "El nombre dado.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tipo de nombre usas para tu red Wi-Fi?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Un nombre chistoso.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Redes inalámbricas. Nombres chistosos.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "494808_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "494806_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

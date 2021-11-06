@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "42",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas han enterrado algo en el bosque?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Drone aéreo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has enterrado algo en el bosque?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Escondites secretos. Ubicaciones al aire libre.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "515607_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "515605_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

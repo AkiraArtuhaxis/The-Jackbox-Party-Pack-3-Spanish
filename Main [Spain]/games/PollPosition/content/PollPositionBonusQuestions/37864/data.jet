@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "21",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué película universitaria le gusta más a la gente?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es tu película favorita ambientada en la universidad?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "<i>Colegio de Animales<\/i>",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "<i>Escuela de Genios<\/i>",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "<i>Legalmente Rubia<\/i>",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "<i>Pitch Perfect<\/i>",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "<i>Monsters University<\/i>",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "<i>Aquellos Viejos Tiempos<\/i>",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "<i>PCU<\/i>",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "<i>Van Wilder: Party Liaison<\/i>",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Faked Focus-Group Study",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "<i>Aceptados<\/i>",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "527454_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

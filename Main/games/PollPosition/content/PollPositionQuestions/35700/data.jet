@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "11",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas dentro de los ascensores suelen intentar cerrar la puerta rápidamente cuando la gente corre para llegar en lugar de mantenerla abierta?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Lo cierro rápido.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Security Cam",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cuando alguien corre para tomar un ascensor que se está cerrando en el que ya estás dentro, ¿qué haces normalmente?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Lo mantengo abierto.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Descortesía de desplazamiento vertical. Rechazo de extraño entrante.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "482759_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "482757_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

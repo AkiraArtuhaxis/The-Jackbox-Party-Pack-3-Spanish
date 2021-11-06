@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas paga REGULARMENTE por cosas que cuestan menos de un dólar con tarjetas de crédito?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Ocasionalmente",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Regularmente",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué frecuencia pagas menos de un dólar en una tarjeta de crédito?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Nunca",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Consumismo de microdeudas. Usos descarados del crédito.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "510259_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "510257_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "21",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas NO etiquetan sus cajas de mudanza?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "La mayoría de mis cajas terminan etiquetadas como \u201cmisceláneas.\u201d",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Cámara Hogareña Oculta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "No necesito etiquetar mis cajas.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Cuando te mudas, ¿tienes una categoría \u201cMiscelánea\u201d en tu sistema de etiquetado de cajas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Sep.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Almacenamiento de cartón arrugado. Procesos de etiquetado.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "500249_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "500247_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

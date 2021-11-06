@@ -1,0 +1,153 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "26",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "21",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "Para aquellos que son demasiado cobardes para hacerlo cara a cara, ¿qué otro método se usa con más frecuencia para romper con alguien?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "En 2-3 palabras: ¿Qué otro método para romper con alguien has utilizado además del cara a cara (mensaje de texto, fax, terceros, etc.)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Llamada telefónica",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Ignorar",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Mensaje instantáneo",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Ghosting",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Tercero",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Email",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Ninguno",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Mensaje de texto",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Population Profiling",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Carta",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Relationship termination methods.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "501040_0",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501038_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

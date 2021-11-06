@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "16",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "10",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "Si fueran a morir en un mes, ¿qué es lo primero que la gente tacharía de su lista de deseos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Si fueras a morir en un mes, ¿qué es lo primero que tacharías de tu lista de deseos (en cinco palabras o menos)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Viajar por el mundo",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Renunciar a su empleo",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Viajar en auto",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Casarse",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Viajar a Hawái",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Perder la virginidad",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Viajar a Europa",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Paracaidismo",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "E-Data Decryption",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Viajar a Japón",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501106_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

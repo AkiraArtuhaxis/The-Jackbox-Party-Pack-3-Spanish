@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "19",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas considera que sus firmas son muy legibles?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Algo legible",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Muy legible",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tan legible es tu firma?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Para nada legible",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Capitanes de caligrafía. Autógrafos legibles.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "519018_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "519016_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

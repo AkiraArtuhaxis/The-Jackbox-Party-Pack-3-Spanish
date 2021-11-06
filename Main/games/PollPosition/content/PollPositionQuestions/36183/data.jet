@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Que porcentaje de personas se han ido antes de que termine una pelicula en el cine de lo mala que era?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Operativos de campo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has salido de una película terrible en un cine?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Técnicas de afrontar malas películas. Salidas anticipadas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "497363_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497361_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

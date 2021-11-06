@@ -1,0 +1,79 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "82",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tiene al menos un artículo caducado en el refrigerador en este momento?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Estoy seguro/a que todo sigue fresco.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Cámara Hogareña Oculta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "En este momento, ¿dirías que hay al menos un artículo en tu refrigerador que caducó o no?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Estoy seguro/a que algo caducó.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Contenido del refrigerador. Niveles de frescura.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "485512_3",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "485510_4",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "485513_2",
+            "n": "Intro"
+        }
+    ]
+}

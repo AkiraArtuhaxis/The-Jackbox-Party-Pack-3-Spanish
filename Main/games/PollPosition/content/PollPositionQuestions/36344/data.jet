@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas posee películas protagonizadas por Gerard Depardieu?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes alguna película protagonizada por Gerard Depardieu?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Francófilos cinematográficos. Colecciones de videos.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501123_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "501126_3",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "56",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas suele tomar sopa de pollo cuando tienen un resfriado?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Normalmente tomas sopa de pollo cuando tienes un resfriado?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Consumo de sopa de pollo. Uso de remedios para el resfriado.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499637_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499635_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

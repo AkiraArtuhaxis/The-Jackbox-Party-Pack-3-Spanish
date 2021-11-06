@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tienen una colección de productos de baño que han tomado de los hoteles?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara Hogareña Oculta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes una colección de productos de baño que hayas tomado de los hoteles?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Acumulación de hospitalidad. Geles de baño en miniatura.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "522665_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "522663_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

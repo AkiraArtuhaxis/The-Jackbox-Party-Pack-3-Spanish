@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "85",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas cree que hay aliens en algún lugar del universo?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Crees que hay aliens en algún lugar del universo?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Vida extraterrestre. Sistemas de creencias.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "480316_6",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "480319_1",
+            "n": "Intro"
+        }
+    ]
+}

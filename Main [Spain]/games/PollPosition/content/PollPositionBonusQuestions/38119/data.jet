@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "14",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "11",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la primera palabra en la que la gente piensa cuando escuchan el nombre Dennis Rodman?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la primera palabra en la que piensas cuando escuchas el nombre Dennis Rodman?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Básquetbol",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "¿Quién?",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Fenómeno",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Raro",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Gusano",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Korea",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Loco",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Pelo",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Human Microchip",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Bulls",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "530476_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

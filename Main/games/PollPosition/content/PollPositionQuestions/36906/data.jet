@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas nunca confirman su asistencia a las bodas a las que planean asistir?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "No lo hago.",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Dentro de una o dos semanas.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Software espía",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Un poco antes de la boda...",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Acabas de recibir una invitación de boda y planeas asistir. ¿Qué tan rápido confirmas tu asistencia?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Dentro de unos días.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Descuido de la invitación. La pesadilla del encargado del recuento.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "513919_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "513917_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

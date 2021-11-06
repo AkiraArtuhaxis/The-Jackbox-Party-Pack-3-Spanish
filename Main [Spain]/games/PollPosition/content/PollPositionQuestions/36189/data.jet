@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "76",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de los que bendicen después de un estornudo suelen decir \u201csalud\u201d, en lugar de \u201cgesundheit\u201d u otra cosa, después de que alguien estornuda?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "No digo nada.",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Digo \u201cgesundheit.\u201d",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Rocas falsas de micrófono oculto",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Digo algo más.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Si le dices algo a alguien después de que estornuda, ¿normalmente dices \u201csalud\u201d o \u201cgesundheit\u201d?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Digo \u201csalud.\u201d",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Respondedores de expulsión nasal. Reconocimiento verbal.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "497465_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497463_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

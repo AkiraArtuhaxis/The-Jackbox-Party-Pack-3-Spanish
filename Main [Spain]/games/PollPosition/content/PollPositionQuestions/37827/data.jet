@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "55",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha construido estructuras complicadas con LEGOs?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has construido una estructura complicada con LEGOs?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Arquitectura de ladrillos de plástico. Exceso de interés.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "526886_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "526889_1",
+            "n": "Intro"
+        }
+    ]
+}

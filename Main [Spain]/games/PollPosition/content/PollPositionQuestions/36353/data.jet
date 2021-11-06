@@ -1,0 +1,79 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "18",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas aprendieron sobre sexo de sus padres?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "En algún otro lugar",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Dónde aprendiste sobre el sexo?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Padre/madre/tutor/a/",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Conversaciones familiares incómodas. Partes íntimas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "501278_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501276_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "501279_1",
+            "n": "Intro"
+        }
+    ]
+}

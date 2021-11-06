@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas cree que los alunizajes fueron falsos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Informantes de agencias",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Crees que los alunizajes fueron falsos?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Probabilidad de conspiración. Lunático vs. lógico.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "515819_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "515817_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

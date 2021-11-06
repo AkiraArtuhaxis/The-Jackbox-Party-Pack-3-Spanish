@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ignoran los centavos que ven en el suelo en lugar de recogerlos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Lo recojo porque es dinero gratis.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Lo ignoro.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Cuando ves un centavo en el suelo, ¿qué haces?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Lo recojo por suerte.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Descubrimiento de monedas. El correr de la moneda corriente.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "484058_3",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "484056_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

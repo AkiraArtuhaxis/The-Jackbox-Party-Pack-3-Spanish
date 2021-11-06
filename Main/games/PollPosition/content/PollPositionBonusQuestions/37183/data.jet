@@ -1,0 +1,153 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "11",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "Además de legalizar la marihuana, ¿qué actividad ilegal cree la gente que debería despenalizarse?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué actividad ilegal crees que debería despenalizarse?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Uso / Posesión de drogas",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Menor edad para beber",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Inmigración",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Exceso de velocidad",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Ninguna",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Piratería",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Desnudez / Sexo público",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Prostitución",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Intercepción de telecomunicaciones",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cruzar imprudentemente",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "518340_0",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "518338_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

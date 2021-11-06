@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "15",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "Over age 40",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas mayores de 40 años todavía posee chaquetas de letras de la escuela secundaria?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica Predictiva",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Personas mayores de 40 años: ¿Todavía tienen una chaqueta de letras de la escuela secundaria?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Días de gloria. Recuerdos relacionados con el abrigo.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "520210_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "520208_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "20",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha tenido actividad sexual con otra persona en algún lugar de un restaurante?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has tenido actividad sexual con otra persona en algún lugar de un restaurante?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Travesuras de restaurante. Erótico, insalubre.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499671_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499669_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

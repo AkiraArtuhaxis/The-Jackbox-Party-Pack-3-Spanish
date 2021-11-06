@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "FakinItSettingsWidget",
+    "items": [
+        {
+            "title": "Volumen",
+            "type": "Range",
+            "clip": "FakinItSliderWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Haz del juego uno FUERTE o CALLADO."
+        },
+        {
+            "title": "Pantalla completa",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Hace que el juego tome toda la pantalla."
+        },
+        {
+            "title": "Para toda la familia",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItFamilyFriendly",
+            "description": "Habilitarlo deshabilita el contenido más provocativo."
+        },
+        {
+            "title": "Público",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItAudienceOn",
+            "description": "Habilitarlo permite a no participantes unirse y afectar el juego."
+        },
+        {
+            "title": "Requiere Twitch",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItRequireTwitch",
+            "description": "Requiere que los jugadores hayan iniciado sesión en Twitch."
+        },
+        {
+            "title": "Censura manual",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItCensorable",
+            "description": "Permite al jugador VIP (el primero en unirse) censurar las respuestas de los demás."
+        },
+        {
+            "title": "Inicio solo con mando",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItGamepadStart",
+            "description": "Las partidas solo se pueden iniciar desde el mando, no desde los dispositivos de los jugadores."
+        },
+        {
+            "title": "Código de sala oculto",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItHideRoomCode",
+            "description": "Permite ocultar el código de sala para evitar que los jugadores se unan tempranamente."
+        }
+    ]
+}

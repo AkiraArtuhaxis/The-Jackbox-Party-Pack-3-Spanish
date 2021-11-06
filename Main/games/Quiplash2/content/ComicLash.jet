@@ -1,0 +1,137 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"ComicLash",
+            "label":"Comic01",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":1,
+            "type":"ComicLash",
+            "label":"Comic02",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":2,
+            "type":"ComicLash",
+            "label":"Comic03",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":3,
+            "type":"ComicLash",
+            "label":"Comic04",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":4,
+            "type":"ComicLash",
+            "label":"Comic05",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":5,
+            "type":"ComicLash",
+            "label":"Comic06",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":6,
+            "type":"ComicLash",
+            "label":"Comic07",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":7,
+            "type":"ComicLash",
+            "label":"Comic08",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":8,
+            "type":"ComicLash",
+            "label":"Comic09",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":9,
+            "type":"ComicLash",
+            "label":"Comic10",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":10,
+            "type":"ComicLash",
+            "label":"Comic11",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":11,
+            "type":"ComicLash",
+            "label":"Comic12",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":12,
+            "type":"ComicLash",
+            "label":"Comic13",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":13,
+            "type":"ComicLash",
+            "label":"Comic14",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":14,
+            "type":"ComicLash",
+            "label":"Comic15",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":15,
+            "type":"ComicLash",
+            "label":"Comic16",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":16,
+            "type":"ComicLash",
+            "label":"Comic17",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":17,
+            "type":"ComicLash",
+            "label":"Comic18",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":18,
+            "type":"ComicLash",
+            "label":"Comic19",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":19,
+            "type":"ComicLash",
+            "label":"Comic20",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":20,
+            "type":"ComicLash",
+            "label":"Comic21",
+            "prompt":"¡Completen la viñeta!"
+        },
+        {
+            "id":21,
+            "type":"ComicLash",
+            "label":"Comic22",
+            "prompt":"¡Completen la viñeta!"
+        }
+    ],
+    "episodeid":1
+}

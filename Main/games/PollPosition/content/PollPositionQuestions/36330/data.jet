@@ -1,0 +1,82 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "9",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas no están nada contentas con que se les organice una fiesta sorpresa?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Nada feliz.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Analítica Predictiva",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "En algún lugar en el medio.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Adivina qué? ¡¡¡Es tu FIESTA SORPRESA!!! ¿Cómo te sientes ahora?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "¡Excelente!",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Terror de celebración. Shock y aaah.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "500885_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "72",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas estarían dispuestas, sin preparación, a participar en el programa de TV <i>Jeopardy<\/i>?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica Predictiva",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Tienes la oportunidad de ser un concursante en el programa de TV <i>Jeopardy<\/i>. No hay tiempo para estudiar. ¿Te sumas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Riesgos de humillación televisados. Cocientes de voluntad.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "523897_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "523895_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

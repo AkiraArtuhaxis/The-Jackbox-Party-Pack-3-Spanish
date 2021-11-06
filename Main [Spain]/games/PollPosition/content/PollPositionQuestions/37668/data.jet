@@ -1,0 +1,82 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "42",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha escuchado \u201cLibre Soy\u201d de <i>Frozen<\/i> en su totalidad más de 20 veces?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "10-20 veces",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Descifrado de datos electrónicos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Más de 20 veces",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuántas veces has escuchado la canción de <i>Frozen<\/i> \u201cLibre Soy\u201d en su totalidad?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "0-10 veces",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Himnos incesantes. Capacidad para sentirse libre.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "524724_2",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

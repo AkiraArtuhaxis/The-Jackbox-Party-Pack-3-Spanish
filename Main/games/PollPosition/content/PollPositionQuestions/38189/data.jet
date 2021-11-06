@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "47",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas prefiere usar la cuchara grande en lugar de la cuchara pequeña cuando comen cereal para el desayuno?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "La cuchara pequeña",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Colibríes espía robóticos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tamaño de cuchara prefieres para comer cereales para el desayuno?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "La cuchara grande",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Hábitos de palear cereales. Selección de cucharas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "531364_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "531367_1",
+            "n": "Intro"
+        }
+    ]
+}

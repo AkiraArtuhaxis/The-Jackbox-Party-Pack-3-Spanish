@@ -1,0 +1,761 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 39197,
+            "category": "Estoy pensando en secuestrar a un famoso. ¿Algún consejo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 39196,
+            "category": "¿A qué juego de mesa debemos jugar por la noche?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 39195,
+            "category": "¿Qué película de Disney es la mejor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 39194,
+            "category": "¿Con qué quieres que te entierren?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 39193,
+            "category": "Si todos estuviéramos en una banda, ¿cómo nos llamaríamos?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 39192,
+            "category": "¿Qué debo hacer con todos estos huesos sobrantes?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36978,
+            "category": "¿Cuál es un buen nombre para un alienígena?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36976,
+            "category": "¿Qué es lo más satisfactorio de romper?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36975,
+            "category": "¿Qué es lo mejor para remojar en chocolate?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36973,
+            "category": "¿Qué estado de Estados Unidos te da más miedo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36971,
+            "category": "¿Cuál es la mejor edad?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36942,
+            "category": "¿Cuál es el mejor personaje de cómic?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36937,
+            "category": "¿Qué persona famosa es la más soñadora?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36922,
+            "category": "¿Qué palabra te describe mejor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36896,
+            "category": "¿Qué canción es terrible pero a todos les gusta?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36892,
+            "category": "¿Cuál es tu número de la suerte?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36887,
+            "category": "¿Qué pokémon, sin duda alguna, es el más impresionante?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36878,
+            "category": "¿Qué es lo más tierno del mundo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36864,
+            "category": "¿Cuál es el mejor dulce para acompañar a las palomitas?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36862,
+            "category": "¿Cuál es un buen nombre para un perro?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36858,
+            "category": "¿Qué harás cuando te jubiles?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36857,
+            "category": "¿Cuál es el disfraz de Halloween más ingenioso?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36854,
+            "category": "¿Cuál era tu juguete favorito cuando eras niño?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36852,
+            "category": "¿Quién debería estar en más películas?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36851,
+            "category": "¿Qué equipo deportivo tiene la mejor fanaticada?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36850,
+            "category": "¿Quién es el mejor atleta de todos los tiempos?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36849,
+            "category": "¿Qué programa de televisión merecía ser cancelado antes de tiempo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36840,
+            "category": "¿Quién es tu mejor amigo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36839,
+            "category": "¿Qué es lo mejor de la escuela?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36820,
+            "category": "¿Cuál es el mejor traje de Halloween para un recién nacido?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36809,
+            "category": "¿Qué personaje de dibujos animados es el más sexy?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36808,
+            "category": "¿Cuál es la raza de perro más fea?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36790,
+            "category": "¿Qué personaje de dibujos animados sería el mejor tatuaje?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36786,
+            "category": "¿Cuál es tu ave favorita?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36761,
+            "category": "¿Qué le pasa al mundo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36749,
+            "category": "¿Cuál es la mejor canción de Navidad?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36719,
+            "category": "¿Cuál es el mejor personaje de <i>Star Wars</i>?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36718,
+            "category": "¿Cuál es tu fruta favorita?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36708,
+            "category": "¿Cuál es el mejor país europeo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36686,
+            "category": "¿Cuál era el mejor almuerzo de la escuela?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36685,
+            "category": "¿Cuál es el mejor mes?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36681,
+            "category": "¿Cuál es tu posesión más preciada?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36680,
+            "category": "Si los perros pudieran hablar, ¿qué dirían?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36679,
+            "category": "¿Cuál es la altura ideal para un hombre?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36678,
+            "category": "¿Cuál es el mejor videojuego?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36676,
+            "category": "¿Cuál es la temperatura perfecta?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36673,
+            "category": "¿Cuál es un buen nombre para un gato?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36671,
+            "category": "¿Cuál es el mejor bebestible?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36661,
+            "category": "¿Cuál es el mayor logro de la humanidad?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36656,
+            "category": "¿Cuál es el mejor olor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36655,
+            "category": "Si sólo pudieras llevarte un libro a una isla desierta, ¿cuál sería?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36654,
+            "category": "¿Cuál es el auto de tus sueños?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36652,
+            "category": "¿Dónde está tu lugar feliz?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36647,
+            "category": "¿Qué cadena de comida rápida tiene las mejores papas fritas?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36646,
+            "category": "¿Cuál es la mejor banda de rock de todos los tiempos?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36645,
+            "category": "¿Cuál es tu mejor cualidad?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36641,
+            "category": "¿Qué aplicación es la más útil?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36639,
+            "category": "¿Cuál es el mejor postre?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36638,
+            "category": "¿Quién es el mejor gobernante de todos los tiempos?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36605,
+            "category": "¿Cuál es el mejor sabor de helado?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36588,
+            "category": "¿Cuál es una forma de hacer del mundo un lugar mejor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36555,
+            "category": "¿Cuál es la mejor película de Bill Murray?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36549,
+            "category": "¿Qué ciudad tiene la mejor pizza?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36541,
+            "category": "¿Cuál es la mejor película de deportes?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36537,
+            "category": "¿Cuál es un buen nombre para un pato?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36517,
+            "category": "Hasta ahora, ¿cuál ha sido tu mayor logro en la vida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36514,
+            "category": "¿Qué es lo más importante en la vida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36509,
+            "category": "¿Qué superpoder te gustaría tener?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36507,
+            "category": "Si sólo pudieras ver un animal en el zooógico, ¿cuál sería?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36506,
+            "category": "¿Cuál es el mejor lugar para celebrar una boda destino?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36505,
+            "category": "¿Cuál es el mejor sabor de papas fritas?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36502,
+            "category": "¿Cuál era el mejor dibujo animado que veías el fin de semana?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36501,
+            "category": "¿Cuál es el instrumento musical más sexy?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36498,
+            "category": "¿Cuál es el mejor podcast?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36496,
+            "category": "¿Cuál es el mejor consejo que un progenitor le puede dar a su hijo/hija?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36488,
+            "category": "¿Dónde te ves dentro de cinco años?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36484,
+            "category": "¿Por qué es tan popular Adam Sandler?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36482,
+            "category": "Si te dejo ir... ¿qué es lo primero que vas a hacer diferente con tu vida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36481,
+            "category": "¿Qué es lo que preocupa a la gente pero no debería?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36480,
+            "category": "¿Quién era tu profesor favorito en el colegio?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36471,
+            "category": "¿Quién es la persona viva más sexy?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36470,
+            "category": "¿Cuál es la mejor canción para bailar un lento?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36466,
+            "category": "¿Cuál es la mejor bebida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36460,
+            "category": "¿Cuál es la mejor aerolínea?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36459,
+            "category": "¿Qué puedo decir para que me ames?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36458,
+            "category": "¿Quién mató a Kennedy?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36457,
+            "category": "¿Quién tiene el bigote más bonito?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36456,
+            "category": "¿Cuál es la clave del éxito?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36444,
+            "category": "¿Qué palabra es la más divertida de decir?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36441,
+            "category": "¿Cuál es un buen secreto de belleza?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36439,
+            "category": "¿Cuál es el mejor desayuno?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36435,
+            "category": "¿Cuál es la mejor actividad para una primera cita?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36433,
+            "category": "¿Cuál es el significado de la vida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36430,
+            "category": "¿Cuál es la palabra más tonta que se te ocurre?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36428,
+            "category": "¿Cuál es el trabajo de tus sueños?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36427,
+            "category": "¿Cuál es el secreto para ser feliz?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36420,
+            "category": "¿Qué es lo mejor para gritar a un coche que te corta el paso en el tráfico?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36419,
+            "category": "¿Qué quieres para tu cumpleaños?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36418,
+            "category": "¿Qué canción te lleva siempre a la pista de baile?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36417,
+            "category": "¿Qué quieres para la última comida de tu vida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36416,
+            "category": "¿Cuál es la mejor canción para cantar en el karaoke?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36415,
+            "category": "¿Cuál es tu animal espiritual?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36413,
+            "category": "¿Qué sopa es la mejor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36407,
+            "category": "¿Quién es tu mejor amigo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36406,
+            "category": "¿Qué es lo mejor que se puede hacer un domingo por la tarde?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36397,
+            "category": "¿Qué idioma suena mejor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36394,
+            "category": "¿Cuál es, sin lugar a dudas, el auto más genial?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36393,
+            "category": "¿Cuál es la película más divertida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36392,
+            "category": "¿Quién hace la mejor hamburguesa?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36391,
+            "category": "¿Qué equipo deportivo tiene los mejores uniformes?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36390,
+            "category": "¿Cuál es el mejor juego de mesa?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36389,
+            "category": "¿Cuál es el mejor lugar para ir de vacaciones?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36388,
+            "category": "¿Qué película de horror da más miedo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36387,
+            "category": "¿Qué es ese olor?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36386,
+            "category": "¿Con qué sueñan los cachorros?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36382,
+            "category": "¿Cómo puedo hacer que tu experiencia en la mazmorra sea más agradable?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 36377,
+            "category": "¿Cuál es la mejor canción para hacerlo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32653,
+            "category": "¿Cuál es el mejor dulce?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32652,
+            "category": "¿Qué opinas de todos los que están jugando a este juego ahora mismo?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32651,
+            "category": "Solo escribe algo lindo, por favor.",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32649,
+            "category": "¿Por qué el resto debería perdonarte la vida en este momento?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32647,
+            "category": "¿Por qué eres tan genial, eh?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32646,
+            "category": "¿Cuál es el mejor programa de televisión de todos los tiempos?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32645,
+            "category": "¿Cuál es tu frase típica?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32644,
+            "category": "¿Cuál es la palabra más divertida?",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 32634,
+            "category": "¿Cuál sería, innegablemente, el mejor ingrediente de pizza?",
+            "bumper": ""
+        }
+    ],
+    "episodeid": 1242
+}

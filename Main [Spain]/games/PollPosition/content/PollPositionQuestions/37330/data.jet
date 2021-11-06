@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "29",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tiene actualmente al menos una botella de alcohol valorada en más de 50 dólares en sus hogares?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes actualmente una botella de alcohol que valga más de 50 dólares en tu casa?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Gustos discriminatorios. Embriaguez demasiado cara.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "519970_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "519973_1",
+            "n": "Intro"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "27",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "24",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la primera palabra que aparece en la cabeza de las personas cuando escuchan el nombre Bob Marley?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la primera palabra que se te viene a la cabeza cuando escuchas el nombre Bob Marley?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Marihuana",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Amor",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Alguacil",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Tocando",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Música",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Rastas",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Jamaica",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Reggae",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Hidden Home Cam",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Rastafari",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "528058_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

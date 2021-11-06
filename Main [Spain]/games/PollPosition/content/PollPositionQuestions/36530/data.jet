@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "31",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas actualmente no hablan con amigos o familiares cercanos por estar peleados?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Rocas falsas de micrófono oculto",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Actualmente \u201cno hablas\u201d con un/a amigo/a o familiar con el/la que sueles hablar pero con el/la que estás enojado/a?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Reducción de la comunicación. Contención relacional.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "505480_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "505478_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

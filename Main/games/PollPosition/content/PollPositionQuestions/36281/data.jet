@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas publican al menos una foto de sus comidas por semana en las redes sociales?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Publicas al menos una foto de tu comida por semana en las redes sociales?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Compartir en redes sociales. Documentación de sustento.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499790_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499788_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

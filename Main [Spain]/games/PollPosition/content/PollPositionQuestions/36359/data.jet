@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "31",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha sufrido lesiones por un trampolín?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Microchip Humano",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Has sufrido una lesión relacionada con un trampolín (menor o mayor)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Métricas de rebote. Altas y bajas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501378_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

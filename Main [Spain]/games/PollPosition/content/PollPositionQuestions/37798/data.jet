@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "28",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se han Googleado a sí mismos en los últimos tres meses?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Nunca",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Hace 3-6 meses",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Monitoreo del tráfico de banda ancha",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Hace más de 6 meses",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuándo fue la última vez que te Googleaste a tí mismo?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "En los últimos 3 meses",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Comportamientos de Auto-Googleo. Práctica reciente.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "526460_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "526458_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

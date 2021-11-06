@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Volumen",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Haz del juego uno FUERTE o CALLADO."
+        },
+        {
+            "title": "Pantalla completa",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Haz que la pantalla tome toda la... pantalla."
+        },
+        {
+            "title": "Entrenamiento rápido",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Los jugadores dibujan tres veces en lugar de cuatro, y el tiempo para escribir es más corto."
+        },
+        {
+            "title": "Público",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Habilitarlo permite a no participantes unirse y afectar la partida."
+        },
+        {
+            "title": "Sugerencias del público",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Mientras los jugadores dibujan y escriben, el público puede escribir sugerencias que aparecerán en pantalla."
+        },
+        {
+            "title": "Cronómetros ampliados",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Habilita tiempos más largos."
+        },
+        {
+            "title": "Requiere Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Requiere que los jugadores hayan iniciado sesión en Twitch."
+        },
+        {
+            "title": "Censura manual",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Permite al jugador VIP (el primero en unirse) censurar las respuestas de los demás."
+        },
+        {
+            "title": "Inicio solo con mando",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Las partidas solo se pueden iniciar desde el mando, no desde los dispositivos de los jugadores."
+        },
+        {
+            "title": "Código de sala oculto",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Permite ocultar el código de sala para evitar que los jugadores se unan tempranamente."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "66",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas, al contestar el teléfono y darse cuenta de que es un vendedor telefónico, cuelga inmediatamente?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Intercepción de telecomunicaciones",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cuando contestas el teléfono y te das cuenta de que es un vendedor telefónico, ¿cuelgas inmediatamente?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Respuesta de llamada fría. Despido brusco.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "509373_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "509371_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

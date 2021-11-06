@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "9",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "General Population",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas alguna vez ha tenido nombres de usuario (correo electrónico, Twitter, etc.) con el número 69 en ellos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Descifrado de datos electrónicos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez ha tenido algún tipo de nombre de usuario (correo electrónico, Twitter, etc.) con el número 69 en él?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Humor derivado. Manejos en línea juveniles.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "530682_2",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "530680_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

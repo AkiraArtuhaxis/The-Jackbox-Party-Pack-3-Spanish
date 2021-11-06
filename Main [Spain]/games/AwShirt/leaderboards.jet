@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Estad. sesión",
+            "description": "Estadísticas de tu sesión de juego actual (Se reiniciarán cuando salgas del juego.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Estad. Twitch",
+            "description": "Estadísticas de partidas solo de Twitch (Se guardarán incluso luego de salir del juego.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Jugador"
+    }, {
+        "id": "gamesWon",
+        "name": "Torneos ganados"
+    }, {
+        "id": "roundsWon",
+        "name": "Rondas ganadas"
+    }, {
+        "id": "streaksWon",
+        "name": "Rachas ganadas"
+    }, {
+        "id": "shirtalities",
+        "name": "Prendalities"
+    }]
+}

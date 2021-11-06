@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "58",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha planificado \u201cvacaciones en casa\u201d?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez ha tenido unas \u201cvacaciones en casa\u201d planificadas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Vacaciones alternativas. Retiros internos.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "517096_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "517094_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

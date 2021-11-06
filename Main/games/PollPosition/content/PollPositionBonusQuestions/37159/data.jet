@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "9",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué considera la gente LA moda más molesta de los últimos 10 años (2006 - 2016)?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "En tres palabras o menos, ¿cuál es LA moda más molesta de los últimos 10 años (2006 - 2016)?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Sagging",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Twerking",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "Crocs",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Hipsters",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Hacerse la tabla",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Yolo",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Vaqueros ajustados",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Selfies",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Social Media Data Mining",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Bollos de hombre",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "518153_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

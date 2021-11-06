@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas cuelgan inmediatamente el letrero de \u201cNo Molestar\u201d después de acceder a sus habitaciones de hotel, incluso si no es hora de dormir?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Antes de dormir.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Nunca. Que lo vean todo.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuándo sueles colgar el letrero de No Molestar en la puerta de tu hotel?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Inmediatamente.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Privacidad del hotel. Patrones para colgar carteles.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "510703_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "510701_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

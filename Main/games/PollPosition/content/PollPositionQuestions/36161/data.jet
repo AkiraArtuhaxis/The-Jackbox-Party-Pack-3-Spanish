@@ -1,0 +1,87 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "37",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha comido tater tots en el último mes?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Hace muchos años.",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "En los últimos seis meses.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Informantes de agencias",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "En el último año o dos.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuándo fue la última vez que comiste un tater tot?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "En el último mes.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Almidón cilíndrico frito. Indulgencia reciente.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "496987_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

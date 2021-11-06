@@ -1,0 +1,82 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "28",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas prefiere soda enlatada (en lugar de soda embotellada de dispensers de soda)?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "En una botella",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "De un dispenser de soda",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo prefieres tus gaseosas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "En una lata",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Sistemas de entrega de refrescos. Decisiones difíciles.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "498214_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

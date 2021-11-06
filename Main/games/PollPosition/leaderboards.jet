@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Estadísticas de la sesión",
+            "description": "Estadísticas de la sesión actual (Se reinician cuando cierras el juego.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Estadísticas de Twitch",
+            "description": "Estadísticas de juegos de Twitch (Se guardan aún cuando cierras el juego.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Jugador"
+    }, {
+        "id": "topScore",
+        "name": "Mejor Puntaje"
+    }, {
+        "id": "averageScore",
+        "name": "Puntaje Promedio"
+    }, {
+        "id": "gamesPlayed",
+        "name": "Partidas Jugadas"
+    }, {
+        "id": "averagePercentageOff",
+        "name": "Dif. de % Promedio"
+    }]
+}

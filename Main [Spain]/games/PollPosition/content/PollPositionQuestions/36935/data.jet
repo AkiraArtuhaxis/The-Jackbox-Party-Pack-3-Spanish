@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "11",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha visto siete o más películas de <i>Rápidos y Furiosos<\/i>?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "7 o más",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "2 a 4",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Monitoreo del tráfico de banda ancha",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "5 a 6",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuántas películas de \u201cRápidos y Furiosos\u201d has visto?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "0 a 1",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Entretenimiento automotriz. Relacionados con el Diesel.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "514546_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "514544_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

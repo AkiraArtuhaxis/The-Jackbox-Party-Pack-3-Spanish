@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "34",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha visto la supuesta mejor película jamás realizada, <i>Ciudadano Kane<\/i>?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Vigilancia encubierta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Has visto <i>Ciudadano Kane<\/i>?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Ingesta de cine imprescindible. Películas clásicas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "523159_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "523157_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "523160_1",
+            "n": "Intro"
+        }
+    ]
+}

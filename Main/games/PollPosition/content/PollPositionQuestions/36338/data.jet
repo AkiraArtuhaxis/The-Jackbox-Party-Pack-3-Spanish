@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "48",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas han... ya sabes... defecado en el bosque?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Drone aéreo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has... ya sabes... \u201cdefecado\u201d en el bosque?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Defecación pública. Locales silvestres.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "501023_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "501021_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

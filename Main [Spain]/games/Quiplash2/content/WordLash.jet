@@ -1,0 +1,90 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"WordLash",
+            "quip":"Una nueva serie de humor con esta palabra en el título:"
+        },
+        {
+            "id":1,
+            "type":"WordLash",
+            "quip":"Un nuevo programa de televisión con esta palabra en el título:"
+        },
+        {
+            "id":2,
+            "type":"WordLash",
+            "quip":"Una canción del verano con esta palabra en el título:"
+        },
+        {
+            "id":3,
+            "type":"WordLash",
+            "quip":"Una comedia romántica con esta palabra en el título:"
+        },
+        {
+            "id":4,
+            "type":"WordLash",
+            "quip":"Un clásico de la literatura con esta palabra en el título:"
+        },
+        {
+            "id":5,
+            "type":"WordLash",
+            "quip":"Un nuevo deporte que incluya esta palabra:"
+        },
+        {
+            "id":6,
+            "type":"WordLash",
+            "quip":"Una película ganadora de un Óscar con esta palabra en el título:"
+        },
+        {
+            "id":7,
+            "type":"WordLash",
+            "quip":"Un titular de periódico sensacionalista que incluya esta palabra:"
+        },
+        {
+            "id":8,
+            "type":"WordLash",
+            "quip":"Un nuevo personaje de dibujos con esta palabra en su nombre:"
+        },
+        {
+            "id":9,
+            "type":"WordLash",
+            "quip":"Un nuevo musical con esta palabra en el título:"
+        },
+        {
+            "id":10,
+            "type":"WordLash",
+            "quip":"Un restaurante de comida rápida con esta palabra en su nombre:"
+        },
+        {
+            "id":11,
+            "type":"WordLash",
+            "quip":"Un nuevo videojuego con esta palabra en el título:"
+        },
+        {
+            "id":12,
+            "type":"WordLash",
+            "quip":"Un grupo musical con esta palabra en su nombre:"
+        },
+        {
+            "id":13,
+            "type":"WordLash",
+            "quip":"Un insulto original que incluya esta palabra:"
+        },
+        {
+            "id":14,
+            "type":"WordLash",
+            "quip":"Un golpe de kung-fu que incluya esta palabra:"
+        },
+        {
+            "id":15,
+            "type":"WordLash",
+            "quip":"Una nueva chocolatina con esta palabra en su nombre:"
+        },
+        {
+            "id":16,
+            "type":"WordLash",
+            "quip":"Una nueva web de éxito con esta palabra en su nombre:"
+        }
+    ],
+    "episodeid":1
+}

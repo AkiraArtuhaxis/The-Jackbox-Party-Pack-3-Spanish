@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "18",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas posee un par de Crocs?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara Hogareña Oculta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes un par de Crocs?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Calzado casual. Zuecos de goma.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "500853_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "500851_2",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

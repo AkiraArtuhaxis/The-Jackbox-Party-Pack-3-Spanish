@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "15",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas NUNCA devuelve comida a los restaurantes, incluso si no cumple con sus estándares?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Solo si es especialmente mala.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Puede que no me la coma, pero no la devolveré.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Regresas comida en un restaurante si no cumple con tus estándares?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Todo el tiempo\u2013debería obtener lo que pago.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Descontento culinario. Miedo a represalias.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "518087_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "518085_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

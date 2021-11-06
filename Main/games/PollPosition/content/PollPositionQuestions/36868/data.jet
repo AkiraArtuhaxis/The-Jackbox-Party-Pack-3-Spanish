@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se consideran personas que usan abrigos de cuello alto?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Definitivamente no.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Soy indiferente a los cuellos altos.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Eres una persona de cuello alto?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Definitivamente.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Hábitos de cobertura del cuello. Frecuencia de colocación.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "513009_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "513007_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

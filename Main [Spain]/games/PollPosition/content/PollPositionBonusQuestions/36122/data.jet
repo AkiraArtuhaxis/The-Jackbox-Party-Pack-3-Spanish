@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "27",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "10",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué insignia de superhéroe usaría la mayoría de la gente en una camiseta?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué insignia de superhéroe te gustaría llevar en una camiseta?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Batman",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Iron Man",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "El Hombre Araña",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "La Mujer Maravilla",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Linterna Verde",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Deadpool",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Flash",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Superman",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Predictive Analytics",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Capitán América",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Heroic symbolism. T-shirt wearage.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "496060_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

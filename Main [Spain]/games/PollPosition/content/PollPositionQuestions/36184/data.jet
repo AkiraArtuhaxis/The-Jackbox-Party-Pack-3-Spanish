@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se han lustrado los zapatos en el aeropuerto?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez te has lustrado los zapatos en el aeropuerto?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Pulido de cuero. Específico de la terminal del aeropuerto.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "497380_4",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497378_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

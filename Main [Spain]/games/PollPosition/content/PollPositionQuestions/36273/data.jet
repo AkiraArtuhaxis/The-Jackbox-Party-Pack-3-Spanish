@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "38",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "En un paso de peatones, ¿qué porcentaje de personas siempre, sin excepción, espera una señal de \u201cCamine\u201d antes de cruzar?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Drone aéreo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "En un cruce de peatones, ¿absolutamente siempre esperas una señal de \u201cCamine\u201d antes de cruzar la calle?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Cruce de avenida. Tendencia a cruzar imprudentemente.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499654_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499652_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

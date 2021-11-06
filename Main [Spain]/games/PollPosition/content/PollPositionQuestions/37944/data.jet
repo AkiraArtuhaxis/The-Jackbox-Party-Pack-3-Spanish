@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "76",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas NO sabían que el transporte por carretera de hielo era algo que la gente hacía antes de que se emitiera el reality show <i>Camioneros del Hielo<\/i>?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Monitoreo del tráfico de banda ancha",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Sabías que el transporte por carretera de hielo era una ocupación antes de que saliera al aire el reality show <i>Camioneros del Hielo<\/i>?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Trabajos ocasionales. Carreras árticas desconocidas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "528619_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "528617_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "528620_1",
+            "n": "Intro"
+        }
+    ]
+}

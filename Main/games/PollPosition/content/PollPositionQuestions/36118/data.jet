@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "84",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas son amigos de personas en Facebook a las que nunca han conocido en persona?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Minería de datos de redes sociales",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Eres amigo/a de alguien en Facebook a quien nunca conociste en persona?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Amistades en redes sociales. Virtual vs. físico.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "495994_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "495992_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

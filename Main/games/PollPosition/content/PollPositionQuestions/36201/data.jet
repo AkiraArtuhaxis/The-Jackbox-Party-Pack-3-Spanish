@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "62",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas prefiere la mantequilla de maní suave sobre la crujiente?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Sauve",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Mantequilla de maní crujiente o suave?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Crujiente",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Untables de Sándwich. Opciones de textura.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "497669_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "497667_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

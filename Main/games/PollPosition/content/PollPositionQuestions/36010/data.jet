@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "48",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "Males",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de hombres ha usado colonia en el último mes?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara Hogareña Oculta",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Hombres: ¿Han usado colonia en el último mes?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Enmascaramiento de olores naturales. Tendencia a implementar.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "492978_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "492976_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

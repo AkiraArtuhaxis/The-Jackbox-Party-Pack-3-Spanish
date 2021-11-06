@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "32",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas preferiría limpiar el inodoro que lavar los platos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Limpiar el inodoro",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Si tuvieras que hacer una u otra en este momento, ¿qué tarea preferirías?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Lavar los platos",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Tareas domésticas serviles. Limpieza de inodoros vs. lavado de vajilla.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "499292_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "499290_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

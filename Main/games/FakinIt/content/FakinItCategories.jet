@@ -1,0 +1,34 @@
+{
+    "episodeid": 0,
+    "content": [{
+            "id": 0,
+            "type": "Hands",
+            "name": "manos⠀de⠀la⠀verdad",
+            "duration": 3
+        },
+        {
+            "id": 1,
+            "type": "Pointing",
+            "name": "hay⠀que⠀apuntar",
+            "duration": 3
+        },
+        {
+            "id": 2,
+            "type": "Faces",
+            "name": "cara⠀a⠀cara",
+            "duration": 3
+        },
+        {
+            "id": 3,
+            "type": "Counting",
+            "name": "presión⠀numérica",
+            "duration": 3
+        },
+        {
+            "id": 4,
+            "type": "Input",
+            "name": "a⠀textear",
+            "duration": 90
+        }
+    ]
+}

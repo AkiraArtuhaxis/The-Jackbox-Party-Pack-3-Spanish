@@ -1,0 +1,77 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "21",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas que llaman prefieren el silencio total a la música de espera en el servicio al cliente?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Silencio total",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Intervención de línea telefónica",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cuando te ponen en espera durante una llamada de servicio al cliente, ¿qué prefieres escuchar?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Música de espera",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Multiplicadores de impaciencia. Intolerancia instrumental.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "493180_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

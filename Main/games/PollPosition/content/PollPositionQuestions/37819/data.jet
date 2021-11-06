@@ -1,0 +1,82 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "Females",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de mujeres usan regularmente ropa nueva con etiquetas de precios puestas antes de decidir si las devuelven o no?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "A veces",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Colibríes espía robóticos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Regularmente",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Mujeres: ¿Usan ropa nueva con una etiqueta de precio adjunta antes de decidir si la devuelven o no?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Nunca",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Accesorios de ropa. Etiquetas de precio gastadas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "526757_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

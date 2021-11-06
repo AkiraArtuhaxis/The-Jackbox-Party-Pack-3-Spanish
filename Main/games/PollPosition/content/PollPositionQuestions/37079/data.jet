@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "16",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha llorado escuchando a Adele?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Rocas falsas de micrófono oculto",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has llorado escuchando a Adele?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Cantantes emocionalmente evocadores. Británica.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "517043_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "517046_1",
+            "n": "Intro"
+        }
+    ]
+}

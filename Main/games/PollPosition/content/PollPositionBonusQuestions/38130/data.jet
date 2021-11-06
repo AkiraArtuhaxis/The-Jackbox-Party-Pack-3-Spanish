@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "37",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "12",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "11",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "10",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "6",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "4",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "3",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tipo de tienda o negocio la gente asocia más con los aeropuertos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tipo de tienda o negocio asocias más con los aeropuertos?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Tienda de revistas / libros",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Tienda de aparatos",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "SkyMall",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Tienda de conveniencia",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Restaurante / bar",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Cafetería",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Pastelería",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Tienda libre de impuestos",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Social Media Data Mining",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Tienda de regalos / souvenirs",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Pre-flight purchases.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "530663_2",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

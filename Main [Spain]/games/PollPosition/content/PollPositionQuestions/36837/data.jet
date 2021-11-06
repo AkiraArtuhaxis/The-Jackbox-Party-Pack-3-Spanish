@@ -1,0 +1,88 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas considera que 60 grados Fahrenheit (15 grados Celsius) es el clima de una camiseta?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "80 grados F / 26 C",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "60 grados F / 15 C",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Circuito cerrado de TV",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "70 grados F / 21 C",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es la temperatura más baja para calificar como clima de camiseta?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "50 grados F / 10 C",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Reducción de manga impulsada por temperatura.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "512274_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "512272_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

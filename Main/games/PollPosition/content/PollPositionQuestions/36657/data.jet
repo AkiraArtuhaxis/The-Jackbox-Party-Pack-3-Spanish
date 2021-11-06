@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "91",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas puede recitar sus números de seguro social de memoria?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Biometria",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Puedes recitar tu número de seguro social de memoria?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Identificaciones aún no implantadas debajo de la piel.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "508326_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "508324_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

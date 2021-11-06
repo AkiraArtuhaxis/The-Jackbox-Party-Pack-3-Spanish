@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "N",
+            "v": "28",
+            "n": "Val0"
+        },
+        {
+            "t": "N",
+            "v": "25",
+            "n": "Val1"
+        },
+        {
+            "t": "N",
+            "v": "15",
+            "n": "Val2"
+        },
+        {
+            "t": "N",
+            "v": "8",
+            "n": "Val3"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val4"
+        },
+        {
+            "t": "N",
+            "v": "7",
+            "n": "Val5"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "Val6"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Val8"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué otro planeta de nuestro sistema solar es el favorito de los Terrícolas?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Aparte de la Tierra, ¿qué planeta de nuestro sistema solar es tu favorito?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Saturno",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Mercurio",
+            "n": "Choice7"
+        },
+        {
+            "t": "S",
+            "v": "El Sol",
+            "n": "Choice8"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "Urano",
+            "n": "Choice5"
+        },
+        {
+            "t": "S",
+            "v": "open",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Venus",
+            "n": "Choice6"
+        },
+        {
+            "t": "S",
+            "v": "Plutón",
+            "n": "Choice3"
+        },
+        {
+            "t": "S",
+            "v": "Neptuno",
+            "n": "Choice4"
+        },
+        {
+            "t": "S",
+            "v": "Marte",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Predictive Analytics",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Júpiter",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "539865_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

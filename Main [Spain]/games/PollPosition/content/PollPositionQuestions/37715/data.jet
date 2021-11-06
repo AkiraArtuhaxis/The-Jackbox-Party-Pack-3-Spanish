@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "75",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha visitado un Walmart entre la medianoche y las 4 a.m.?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has visitado un Walmart entre la medianoche y las 4 a.m.?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Horas de clientela raras. Patrones raros.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "525315_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "525313_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "525316_2",
+            "n": "Intro"
+        }
+    ]
+}

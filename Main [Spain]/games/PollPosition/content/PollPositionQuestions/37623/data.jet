@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "20",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas mantienen en exhibición tarjetas de fin de año durante semanas o meses después de Año Nuevo?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Semanas o meses después de Año Nuevo.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Operativos de campo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "No exhibo tarjetas navideñas.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuándo sueles dejar de exhibir tarjetas de fin de año de amigos y familiares?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Poco después de Año Nuevo.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Espíritu navideño. Diciembre y más allá.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "523982_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "523980_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

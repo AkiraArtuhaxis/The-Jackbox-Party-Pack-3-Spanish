@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "16",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas confiaría en que al menos uno de sus padres elegiría excelentes parejas matrimoniales para ellos?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Analítica Predictiva",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Confiarías en que alguno de tus padres elegiría una gran pareja matrimonial para tí?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Mamá y Papá: Gurús del amor.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "482952_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "482950_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

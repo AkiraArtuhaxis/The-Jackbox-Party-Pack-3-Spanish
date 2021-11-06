@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "46",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha escrito en los baños en algún momento de su vida?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de baño",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿En algún momento de tu vida has escrito en la pared de un baño?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Baños publicos. Participación en la desfiguración.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "512975_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "512973_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

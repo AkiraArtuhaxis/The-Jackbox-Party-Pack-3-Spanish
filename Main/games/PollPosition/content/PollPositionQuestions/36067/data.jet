@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "69",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "En su encuentro más reciente de un cabello en un alimento, ¿qué porcentaje de personas continuó comiendo dicho alimento?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "I stopped eating it.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Operativos de campo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "La última vez que encontraste un cabello en un alimento que estabas comiendo, ¿qué hiciste con respecto a ese artículo en particular?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "I kept eating it.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Ricitos de condimento. Niveles de aceptación.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "494359_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "494357_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

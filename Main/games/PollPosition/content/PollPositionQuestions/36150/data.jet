@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "26",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas todavía escuchan música usando iPods?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Colibríes espía robóticos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Utilizas actualmente un iPod para escuchar música?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Reproductores de MP3. Tecnología ligeramente envejecida.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "496802_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "496800_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

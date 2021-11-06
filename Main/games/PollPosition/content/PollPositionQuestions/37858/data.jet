@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "23",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas obtiene más satisfacción al barrer que al aspirar?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Barrer",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Biometria",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué tienes más satisfacción?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Aspirar",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Gratificación del cuidado del suelo. Escobas vs. aspiradoras.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "527354_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "527352_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

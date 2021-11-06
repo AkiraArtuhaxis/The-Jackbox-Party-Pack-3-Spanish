@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "55",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas han votado por concursantes en reality shows?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Monitoreo del tráfico de banda ancha",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez votaste (por mensaje de texto o en línea) por un concursante en un reality show?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Decisión en programas de talentos de TV. Votantes registrados.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "500921_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "500919_3",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

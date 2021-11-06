@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "42",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas son supersticiosas sobre apagar todas las velas de cumpleaños de un soplido?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Informantes de agencias",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cuando apagas velas de cumpleaños, ¿eres supersticioso/a acerca de apagarlas todas de un soplido?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Escenarios de soplidos. Ansiedades de la capacidad pulmonar.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "484064_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "484062_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

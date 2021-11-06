@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "42",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas tiene aplicaciones en sus teléfonos para cadenas de comida rápida?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Descifrado de datos electrónicos",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes una aplicación en tu teléfono para una cadena de comida rápida?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Acceso remoto a alimentos fritos. No esencial.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "494495_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "494493_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

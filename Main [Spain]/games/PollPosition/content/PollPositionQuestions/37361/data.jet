@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "36",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas suelen subir o bajar escaleras mecánicas móviles incluso si NO tienen prisa?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Subo los escalones.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Circuito cerrado de TV",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Cuando no tienes prisa, ¿cómo viajas normalmente en una escalera mecánica en movimiento?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Me paro en un escalón y espero.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Desplazamientos interiores. Caminar vs. pararse.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "520406_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "520409_1",
+            "n": "Intro"
+        }
+    ]
+}

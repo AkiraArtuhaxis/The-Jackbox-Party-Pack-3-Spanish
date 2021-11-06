@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo puedo hacer que tu experiencia en la mazmorra sea más agradable?",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo puedo hacer que tu experiencia en la mazmorra sea más agradable?",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "501825_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

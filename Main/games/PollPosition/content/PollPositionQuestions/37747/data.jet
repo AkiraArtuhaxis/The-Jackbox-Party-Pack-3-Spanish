@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "88",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se les permitió comer cereales azucarados cuando eran niños?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Tus padres te dejaban comer cereal azucarado cuando eras niño/a?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Cereales azucarados. Padres permisivos.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "525808_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "525811_1",
+            "n": "Intro"
+        }
+    ]
+}

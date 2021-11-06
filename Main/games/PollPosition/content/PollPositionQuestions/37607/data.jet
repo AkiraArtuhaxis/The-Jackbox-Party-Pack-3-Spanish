@@ -1,0 +1,77 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "68",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "Entre ropa con cuello redondo y ropa con cuello en V, ¿qué porcentaje de personas prefiere usar ropa con cuello redondo?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Ropa con cuello en V",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Analítica del consumidor",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tipo de ropa prefieres ponerte?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Ropa con cuello redondo",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Formas de camisa. Dilemas de escote.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "523729_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

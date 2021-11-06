@@ -1,0 +1,84 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "27",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas NUNCA levantarán la mano cuando se pidan voluntarios en la audiencia en presentaciones en vivo?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Posiblemente...",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Circuito cerrado de TV",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Nunca.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "En cualquier programa de participación de la audiencia, ¿levantarás la mano cuando se soliciten voluntarios de la audiencia?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Muy probable que sí.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Voluntariado en eventos en vivo. No levantadores de mano.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "528602_6",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "528600_4",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "528603_3",
+            "n": "Intro"
+        }
+    ]
+}

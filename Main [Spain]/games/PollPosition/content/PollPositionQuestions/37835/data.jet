@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "23",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ha comprado Malvaviscos Peeps para su propia merienda no relacionada con la Pascua?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Cámara de seguridad",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has comprado Malvaviscos Peeps, no para Pascua, sino como bocadillos de todos los días?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Delicias con forma de pájaro. Inspiradas en un día festivo.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "527010_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "527008_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "v": "527011_1",
+            "n": "Intro"
+        }
+    ]
+}

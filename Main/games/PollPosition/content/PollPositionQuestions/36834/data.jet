@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "42",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas ama la fondue?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "No la amo.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Microchip Humano",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Soy indiferente a la fondue.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué piensas sobre la fondue?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "La amo.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Alimentos sumergidos. Comedor comunitario.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "512223_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "512221_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

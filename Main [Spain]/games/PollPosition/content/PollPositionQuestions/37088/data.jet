@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "59",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "Females",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de mujeres ha usado anillos en los dedos del pie?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Perfiles de población",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Mujeres: ¿Alguna vez has usado un anillo en el dedo del pie?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Dedos del pie deslumbrados. Opciones de moda.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "517198_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "517196_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

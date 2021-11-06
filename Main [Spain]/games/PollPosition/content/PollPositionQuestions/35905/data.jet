@@ -1,0 +1,83 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "38",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "Females",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "mc",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de mujeres tiene más pares de zapatos de vestir que amigos/as cercanos/as?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Amigos/as cercanos/as.",
+            "n": "Choice1"
+        },
+        {
+            "t": "S",
+            "v": "Falso Estudio En Grupo de Enfoque",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "Están palo a palo.",
+            "n": "Choice2"
+        },
+        {
+            "t": "S",
+            "v": "Mujeres: ¿De cuál tienen más?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Zapatos de vestir.",
+            "n": "Choice0"
+        },
+        {
+            "t": "S",
+            "v": "Bienes fememinos valorados. Zapatos vs. amigas.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "488440_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "488438_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

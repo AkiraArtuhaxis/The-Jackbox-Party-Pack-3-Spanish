@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "5",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas se han lanzado en paracaídas desde un avión?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Drone aéreo",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has saltado de un avión? ¿Ya sabes, con un paracaídas?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "Toma de riesgos. Entusiastas de la gravedad.",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "517249_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "517247_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}

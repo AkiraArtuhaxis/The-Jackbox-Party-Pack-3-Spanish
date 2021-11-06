@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponse"
+        },
+        {
+            "t": "N",
+            "v": "44",
+            "n": "A"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "PollAns"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Target"
+        },
+        {
+            "t": "S",
+            "v": "yn",
+            "n": "Type"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué porcentaje de personas cree que el gobierno estadounidense ha realizado experimentos con aliens en el Área 51?",
+            "n": "QText"
+        },
+        {
+            "t": "S",
+            "v": "Monitoreo del tráfico de banda ancha",
+            "n": "DataMode"
+        },
+        {
+            "t": "S",
+            "v": "¿Crees que el gobierno estadounidense realizó experimentos con aliens en el Área 51?",
+            "n": "PollQ"
+        },
+        {
+            "t": "S",
+            "v": "¡Advertencia! ¡Búsqueda no autorizada!",
+            "n": "ExpResults"
+        },
+        {
+            "t": "A",
+            "v": "518019_1",
+            "n": "Response"
+        },
+        {
+            "t": "A",
+            "v": "518017_1",
+            "n": "Q"
+        },
+        {
+            "t": "A",
+            "n": "Intro"
+        }
+    ]
+}
