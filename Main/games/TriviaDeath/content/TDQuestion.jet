@@ -7270,7 +7270,7 @@
         {
             "x": false,
             "id": 37677,
-            "text": "¿Qué equipo de hockey NO es uno de los \u201cOriginal Six?\u201d de la NHL",
+            "text": "¿Qué equipo de hockey NO es uno de los \u201cOriginal Six\u201d de la NHL?",
             "pic": false,
             "choices": [
                 {
@@ -13087,7 +13087,7 @@
         {
             "x": false,
             "id": 32919,
-            "text": "<i>El problema final<\/i> presentó la supuesta muerte de qué personaje literario?",
+            "text": "¿<i>El problema final<\/i> presentó la supuesta muerte de qué personaje literario?",
             "pic": false,
             "choices": [
                 {
