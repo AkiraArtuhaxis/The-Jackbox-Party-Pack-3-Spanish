@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cowgirl|cow girl",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Esta también es una RESPUESTA realmente aburrida.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de una posición sexual realmente aburrida es el <BLANK> invertido",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "474373_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "474371_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

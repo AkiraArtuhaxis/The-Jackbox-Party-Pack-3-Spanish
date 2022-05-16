@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Si fallaba su tiro, el plan de respaldo de Luke Skywalker para destruir la Estrella de la Muerte era <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "477248_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

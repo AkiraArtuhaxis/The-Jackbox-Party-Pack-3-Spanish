@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "masturbarse",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Oh seguro, ahora que su madera ya no está.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Lo primero que hizo Pinocho después de convertirse en un niño de verdad",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "463571_0f",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "463569_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

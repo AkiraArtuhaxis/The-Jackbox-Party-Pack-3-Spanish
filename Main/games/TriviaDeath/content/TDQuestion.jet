@@ -8194,7 +8194,7 @@
         {
             "x": false,
             "id": 37461,
-            "text": "Quién escribió un libro para niños titulado <i>If Roast Beef Could Fly<\/i>?",
+            "text": "¿Quién escribió un libro para niños titulado <i>If Roast Beef Could Fly<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -17144,17 +17144,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Un rapero británico"
+                    "text": "una rapera británica"
                 },
                 {
-                    "text": "Un rapero canadiense"
+                    "text": "una rapera canadiense"
                 },
                 {
-                    "text": "Un rapero estadounidense"
+                    "text": "una rapera estadounidense"
                 },
                 {
                     "correct": true,
-                    "text": "Un rapero australiano"
+                    "text": "una rapera australiana"
                 }
             ]
         },
@@ -23846,7 +23846,7 @@
                     "text": "<i>Sunday in the Park with George<\/i>"
                 },
                 {
-                    "text": "<i>Dentro del bosque<\/i>"
+                    "text": "<i>En el bosque<\/i>"
                 },
                 {
                     "correct": true,

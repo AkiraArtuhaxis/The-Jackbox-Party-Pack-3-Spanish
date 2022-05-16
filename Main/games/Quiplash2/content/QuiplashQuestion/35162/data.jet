@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Taylor Swift",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Si Taylor Swift lo hiciera, se trataría de su ruptura con Bond y de cómo se está recuperando mejor que nunca... ¡en realidad eso suena genial! ¡Te amo Taylor!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "La peor persona que podría cantar el tema de James Bond",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "476539_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "476537_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

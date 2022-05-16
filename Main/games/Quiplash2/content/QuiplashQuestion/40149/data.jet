@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cama",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "(Voz de Eastwood) “Adelante. Haz mi cama. Por cierto, me lo estoy pasando genial en este cama y desayuno colonial. Mocoso.”",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Línea del primer borrador de la película: “Adelante. Haz mi <BLANK>”",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "542758_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "542756_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

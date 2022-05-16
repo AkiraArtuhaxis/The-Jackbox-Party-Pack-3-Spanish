@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "falta",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Ni siquiera bromees sobre la falta de tocino. Todavía me estoy recuperando del escándalo de fijación de precios de arce vidriado de 2003.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "La única mala palabra que puede decirse después de “tocino”",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "471259_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "471257_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

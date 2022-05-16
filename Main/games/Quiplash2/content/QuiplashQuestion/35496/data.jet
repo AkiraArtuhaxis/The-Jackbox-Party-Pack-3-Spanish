@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "pitufando|pitufando en el pitufo|pitufando alrededor del pitufo|pitufando a todos los pitufos",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "No tengo idea de lo que estás pitufando.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Cómo planea Papá Pitufo pasar su jubilación",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "478871_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "478869_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

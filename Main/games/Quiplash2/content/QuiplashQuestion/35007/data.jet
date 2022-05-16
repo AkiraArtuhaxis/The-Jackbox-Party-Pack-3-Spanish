@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una cosa es tomar su oro, pero la mejor manera de hacer enojar a un duende es <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "475671_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

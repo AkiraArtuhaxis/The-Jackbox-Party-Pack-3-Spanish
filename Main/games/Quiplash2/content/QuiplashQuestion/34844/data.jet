@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una gran cosa que un padre puede decir para asustar a la cita del baile de graduación de su hijo",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "474826_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un buen uso para 50 galones de grasa de tocino",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "467724_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cuidadosamente|muy cuidadosamente",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Una seducción cuidadosa: me recuerda a los libros que mi mamá solía guardar junto a la bañera.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo seduces a un oso?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "466404_2",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "466402_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "abajo de tus pantalones|en tus pantalones|tus pantalones|mis pantalones",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Si poner comida de picnic en tus pantalones está tan mal, entonces supongo que no quieres una rebanada de esta deliciosa sandía que he estado manteniendo caliente todo el día. Más para mí.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El peor lugar para poner ensalada de patata",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "477562_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "477560_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

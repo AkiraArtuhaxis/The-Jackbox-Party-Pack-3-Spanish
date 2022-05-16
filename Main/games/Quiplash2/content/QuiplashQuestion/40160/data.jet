@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "máquina del tiempo|una máquina del tiempo|una TARDIS|una T.A.R.D.I.S.|un delorean|el delorean|maquina del tiempo|una maquina del tiempo|un TARDIS|un T.A.R.D.I.S.",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Si el viaje en el tiempo fuera real, mi yo del futuro habría regresado para evitar que presentara este juego por segunda vez.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una cosa rara de encontrar en una pintura rupestre",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "542813_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "542811_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

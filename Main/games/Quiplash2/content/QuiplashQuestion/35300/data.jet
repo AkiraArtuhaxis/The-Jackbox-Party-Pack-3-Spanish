@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Lo perfecto para gritar y hacer que un jugador de básquetbol pierda un tiro libre",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "477243_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

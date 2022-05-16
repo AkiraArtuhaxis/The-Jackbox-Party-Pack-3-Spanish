@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "a mí|me|mi persona",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Uno de ti es todo lo que puedo lidiar.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "En tu opinión, los científicos deberían trabajar día y noche para clonar <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "475168_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "475166_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

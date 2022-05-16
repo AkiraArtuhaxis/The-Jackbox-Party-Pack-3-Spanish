@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "sin nariz|tu nariz se ha ido|la nariz se ha ido|no tienes nariz|no hay nariz|tu nariz se fue|tu nariz no está",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yo tenía un primo sin nariz. Ahora se supone que debes decir “¿cómo olía?” Y yo digo “¡Terrible!” Jajaja... como sea sigamos adelante.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una señal de que te hicieron una operación de nariz mala",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "472176_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "472174_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

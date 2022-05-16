@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "me tiré un pedo|me tire un pedo|me pedorreé|me pedorree",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Oye, ya sabes lo que dicen: El que lo dijo, lo matriculó.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una mala manera de comenzar tu discurso de despedida sería “Damas y caballeros, yo <BLANK>”",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "475648_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "475646_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

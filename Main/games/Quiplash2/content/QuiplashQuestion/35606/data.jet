@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "De Abajo Hacia Arriba",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "La comida en De Abajo Hacia Arriba está bien, pero el personal es muy descarado. Ja ja...",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de un restaurante de comida rápida donde los trabajadores no usan pantalones",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "480107_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "480105_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

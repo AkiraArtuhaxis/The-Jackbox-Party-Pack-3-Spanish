@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "amor por los cacahuetes|obsesión por los cacahuetes|comer cacahuetes|obsesionado con los cacahuetes|encanto por los maníes|amor por los maníes|obsesión por los maníes|comer maníes|obsesionado con los maníes|encanto por los maníes",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "No es necesario ser el comandante en jefe número 39 para amar los cacahuates. La avellana. ESO es una locura presidencial.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una señal de que te estás transformando lentamente en el expresidente estadounidense Jimmy Carter",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "468078_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "468076_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

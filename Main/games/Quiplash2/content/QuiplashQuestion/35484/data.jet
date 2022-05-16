@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "siempre desaparece|siempre se desaparece|desaparece|sigue desapareciendo",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Claro, puede desaparecer de vez en cuando, pero lo compensa con todas las monedas que encuentra detrás de tu oreja.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "La peor parte de salir con un mago",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "478775_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "478773_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

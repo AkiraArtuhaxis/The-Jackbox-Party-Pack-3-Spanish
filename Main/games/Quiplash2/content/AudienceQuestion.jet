@@ -2,489 +2,3754 @@
     "content": [
         {
             "x": false,
-            "id": 68046,
-            "prompt": "El lugar menos romántico para proponer matrimonio"
+            "id": 21389,
+            "prompt": "Si un genio te ofrece 3 deseos, lo mejor que se puede pedir es: 1) mil millones de dólares, 2) la vida eterna, y 3) <BLANK>"
         },
         {
             "x": false,
-            "id": 68047,
-            "prompt": "Batman no sale de casa sin el batiarco, el batisoplete y..."
+            "id": 21112,
+            "prompt": "Las pirámides serían aún más impresionantes si tuvieran <BLANK>"
         },
         {
             "x": false,
-            "id": 68048,
-            "prompt": "La peor excusa para llegar tarde al trabajo"
+            "id": 21111,
+            "prompt": "Cuál es probablemente el apodo que le da Sam Elliot a su bigote"
         },
         {
             "x": false,
-            "id": 68049,
-            "prompt": "Lo peor que se te puede quedar entre los dientes"
+            "id": 21110,
+            "prompt": "El peor tema para el primer recital de baile de tu hijo"
         },
         {
             "x": false,
-            "id": 68050,
-            "prompt": "¿Por qué están tan ricos los perritos calientes?"
+            "id": 21102,
+            "prompt": "Es decepcionante armar un rompecabezas de mil piezas y darse cuenta de que es solo una imagen de <BLANK>"
         },
         {
             "x": false,
-            "id": 68051,
-            "prompt": "La peor alternativa al papel higiénico"
+            "id": 21096,
+            "prompt": "La peor combinación de dos actores que podrían protagonizar la próxima temporada de <i>Detectives criminales</i> juntos"
         },
         {
             "x": false,
-            "id": 68052,
-            "prompt": "El peor nombre para un caballo de carreras"
+            "id": 21095,
+            "prompt": "Algo que no esperas ver cuando espías a tus vecinos"
         },
         {
             "x": false,
-            "id": 68053,
-            "prompt": "Las dos peores palabras que un piloto puede decirles a los pasajeros"
+            "id": 21092,
+            "prompt": "La peor cosa que se puede encontrar congelada en un cubo de hielo"
         },
         {
             "x": false,
-            "id": 68054,
-            "prompt": "Nunca subirías a una montaña rusa llamada <BLANK>"
-        },
-        {
-            "x": false,
-            "id": 68055,
-            "prompt": "El secreto de la felicidad"
+            "id": 21090,
+            "prompt": "El nombre de una firma de abogados a la que no deberías contratar"
         },
         {
             "x": true,
-            "id": 68056,
-            "prompt": "Nunca se le debe dar alcohol a un <BLANK>"
+            "id": 21089,
+            "prompt": "Algo que sería inapropiado que un detective diga en una escena del crimen"
         },
         {
             "x": false,
-            "id": 68057,
-            "prompt": "La peor parte de vivir en el infierno"
+            "id": 21079,
+            "prompt": "Un experimento que a las ratas sí les gusta que realicen sobre ellas"
         },
         {
             "x": false,
-            "id": 68058,
-            "prompt": "En tu noche de bodas, lo peor que podría decirte tu pareja es que es <BLANK>"
+            "id": 21078,
+            "prompt": "No hay oro al final de un arcoíris. En su lugar, hay <BLANK>"
         },
         {
             "x": false,
-            "id": 68060,
-            "prompt": "Lo primero que harías si ganaras la lotería"
+            "id": 21068,
+            "prompt": "La mejor camiseta para llevar puesta al lado de alguien que lleva una que dice \"Estoy al lado de un estúpido\""
         },
         {
             "x": false,
-            "id": 68061,
-            "prompt": "¿Qué está causando el calentamiento global?"
+            "id": 21050,
+            "prompt": "Lo peor que un cirujano plástico podría decir después de que falló su cirugía: \"Lo siento, accidentalmente <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21335,
+            "prompt": "Una señal de que eres un mal maestro"
+        },
+        {
+            "x": false,
+            "id": 21333,
+            "prompt": "El peor desayuno: panqueques con forma de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21331,
+            "prompt": "Con lo que los osos sueñan durante todo el invierno"
+        },
+        {
+            "x": false,
+            "id": 21328,
+            "prompt": "Una buena señal de que tomaste demasiada cafeína"
+        },
+        {
+            "x": false,
+            "id": 21045,
+            "prompt": "El peor consejo que tu entrenador de boxeo podría darte"
+        },
+        {
+            "x": false,
+            "id": 21044,
+            "prompt": "Lo que podría decir la alarma de un reloj para despertarte"
+        },
+        {
+            "x": false,
+            "id": 21040,
+            "prompt": "Una cosa rara de oír de tu médico: \"Me temo que tiene <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21039,
+            "prompt": "En una encuesta impactante, se descubrió que tres de cada cuatro personas <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21013,
+            "prompt": "Lo más común que escucharías si pudieras leer los pensamientos de las personas"
+        },
+        {
+            "x": false,
+            "id": 21005,
+            "prompt": "El nombre de un peinado que nunca se pondría de moda"
+        },
+        {
+            "x": false,
+            "id": 20996,
+            "prompt": "Un mal nombre para un restaurante italiano"
+        },
+        {
+            "x": false,
+            "id": 20992,
+            "prompt": "Un eslogan realista y honesto de comida rápida"
+        },
+        {
+            "x": false,
+            "id": 20974,
+            "prompt": "La diferencia entre carne de primera y carne de segunda"
+        },
+        {
+            "x": false,
+            "id": 20969,
+            "prompt": "La sala más extraña que podría haber en un aeropuerto sería una específicamente designada para <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20958,
+            "prompt": "Después de la maniobra de Heimlich, la segunda mejor manera de evitar que alguien se atragante"
+        },
+        {
+            "x": false,
+            "id": 20956,
+            "prompt": "Una extraña decisión de casting sería Clint Eastwood como <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20955,
+            "prompt": "Una técnica de seguridad rechazada para cuando te estás incendiando era \"detente, túmbate al piso y <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 20949,
+            "prompt": "Un mal nombre para un hospital"
+        },
+        {
+            "x": false,
+            "id": 20945,
+            "prompt": "¿Dónde está Jimmy Hoffa? "
+        },
+        {
+            "x": false,
+            "id": 20944,
+            "prompt": "Algo que no querrías hacer estando parado en una alineación de policía"
+        },
+        {
+            "x": false,
+            "id": 20939,
+            "prompt": "A lo qué le tiene miedo el coco"
+        },
+        {
+            "x": false,
+            "id": 20935,
+            "prompt": "El nombre menos apetitoso para un restaurante"
+        },
+        {
+            "x": false,
+            "id": 20932,
+            "prompt": "El mayor problema con el que lidia el pueblo de Margaritaville "
+        },
+        {
+            "x": false,
+            "id": 20931,
+            "prompt": "Algo que no deberías poner en un arenero para niños"
+        },
+        {
+            "x": false,
+            "id": 20928,
+            "prompt": "Algo que no deberías decir frente a un loro"
+        },
+        {
+            "x": false,
+            "id": 20925,
+            "prompt": "El secreto más profundo de la Madre Teresa "
         },
         {
             "x": true,
-            "id": 68062,
-            "prompt": "El peor nombre para un modelo de coche"
+            "id": 20923,
+            "prompt": "El nombre de un nuevo movimiento sexy de baile"
         },
         {
             "x": false,
-            "id": 68063,
-            "prompt": "El nombre de una serie protagonizada por un médico vampiro"
+            "id": 20921,
+            "prompt": "Algo divertido para gritar en una verdulería"
         },
         {
             "x": false,
-            "id": 68064,
-            "prompt": "Lo que probablemente hacen los toros cuando nadie mira"
+            "id": 20914,
+            "prompt": "Un atuendo divertido para vestir a la estatua del David"
         },
         {
             "x": false,
-            "id": 68065,
-            "prompt": "¿Por qué sonríe la Mona Lisa?"
+            "id": 20913,
+            "prompt": "Cuál será la nueva tendencia en las bodas del año 2046"
         },
         {
             "x": false,
-            "id": 68066,
-            "prompt": "Lo que nunca deberías echar en una herida"
+            "id": 20912,
+            "prompt": "El discurso original de Kennedy decía, “No preguntes que puede hacer tu país por ti, sino <BLANK>”"
         },
         {
             "x": false,
-            "id": 68067,
-            "prompt": "La auténtica razón por la que se extinguieron los dinosaurios"
+            "id": 20905,
+            "prompt": "Una manera educada de decir \"moco\""
         },
         {
             "x": false,
-            "id": 68069,
-            "prompt": "La carrera más fácil que puedes estudiar"
+            "id": 20900,
+            "prompt": "Un mal nombre para un parque acuático"
         },
         {
             "x": false,
-            "id": 68070,
-            "prompt": "Lo que harías si fueses presidente del Gobierno durante una hora"
+            "id": 20897,
+            "prompt": "El nombre de la lista de reproducción de música que definitivamente pondrá fin a una fiesta"
         },
         {
             "x": false,
-            "id": 68071,
-            "prompt": "La mejor raza de gato que existe"
+            "id": 20895,
+            "prompt": "Un nombre para un pantano realmente aterrador: Pantano <BLANK>"
         },
         {
             "x": false,
-            "id": 68072,
-            "prompt": "Un pésimo nombre para un pirata"
+            "id": 20892,
+            "prompt": "Si realmente, realmente amas algo, déjalo <BLANK>"
         },
         {
             "x": false,
-            "id": 68073,
-            "prompt": "Algo que resulta peligroso hacer mientras conduces"
+            "id": 20890,
+            "prompt": "La parte más difícil de vivir en un submarino"
         },
         {
             "x": false,
-            "id": 68074,
-            "prompt": "La parte mala de ser Batman"
+            "id": 20876,
+            "prompt": "¿Cómo arreglarías TÚ la economía?"
         },
         {
             "x": false,
-            "id": 68075,
-            "prompt": "Los callos en realidad están hechos de..."
+            "id": 20873,
+            "prompt": "Algo divertido para preguntarle al viejo sabio en la cima de la montaña"
+        },
+        {
+            "x": false,
+            "id": 20872,
+            "prompt": "Una frase rechazada para <i>Star Trek</i> en lugar de “El espacio: la frontera final” fue “El espacio: <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 20871,
+            "prompt": "Un lugar con agua en el que definitivamente no deberías nadar"
+        },
+        {
+            "x": false,
+            "id": 20868,
+            "prompt": "Lo que crees que significa la palabra \"pandiculación\""
+        },
+        {
+            "x": false,
+            "id": 20865,
+            "prompt": "Si realmente quieres impresionar a los jueces olímpicos de clavados, prueba una caída que implique <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20862,
+            "prompt": "Algo que probablemente esté en la lista de “Por hacer” de Nicolas Cage"
+        },
+        {
+            "x": false,
+            "id": 20858,
+            "prompt": "El nuevo alimento saludable: Jugo <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20854,
+            "prompt": "Recursos Humanos probablemente recibiría la mayor cantidad de quejas en el día de \"Traiga su <BLANK> al trabajo\""
+        },
+        {
+            "x": false,
+            "id": 20852,
+            "prompt": "Un Caballero de la Mesa Redonda no muy conocido: Sir <BLANK>"
         },
         {
             "x": true,
-            "id": 68076,
-            "prompt": "Una serie que debería tener una versión porno"
+            "id": 20850,
+            "prompt": "La razón más extraña para divorciarse"
         },
         {
             "x": false,
-            "id": 68077,
-            "prompt": "El trágico destino del muñeco de nieve Olaf en una escena eliminada de <i>Frozen<\/i>"
+            "id": 20849,
+            "prompt": "Una cita de Sócrates que nadie se molestó en escribir"
         },
         {
             "x": false,
-            "id": 68078,
-            "prompt": "Lo mejor que le puedes regalar a tu pareja en la tercera edad"
+            "id": 20843,
+            "prompt": "Nuevo requisito en los parques de atracciones: \"Debes ser así de <BLANK> para subirte\""
+        },
+        {
+            "x": false,
+            "id": 20842,
+            "prompt": "El videojuego más aburrido del mundo"
+        },
+        {
+            "x": false,
+            "id": 20841,
+            "prompt": "Probablemente no deberías contratar una empresa de mudanzas llamada <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20837,
+            "prompt": "El peor espectáculo de medio tiempo: Los bailarines <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20836,
+            "prompt": "La combinación más extraña de tres artículos que puedes comprar en la tienda"
+        },
+        {
+            "x": false,
+            "id": 20833,
+            "prompt": "El nombre más desagradable que alguien podría ponerle a su hijo"
+        },
+        {
+            "x": false,
+            "id": 20832,
+            "prompt": "¿Qué hay realmente en la joroba de un camello?"
+        },
+        {
+            "x": false,
+            "id": 20826,
+            "prompt": "El eslogan de camiseta más popular en Misisipi, probablemente"
+        },
+        {
+            "x": false,
+            "id": 20825,
+            "prompt": "El nombre de una dieta realmente extraña que nunca logró ponerse de moda"
+        },
+        {
+            "x": false,
+            "id": 20820,
+            "prompt": "La canción hit del show de Broadway <i>Pedo: El musical</i>"
         },
         {
             "x": true,
-            "id": 68079,
-            "prompt": "Un buen nombre para una chimpancé stripper"
+            "id": 20819,
+            "prompt": "Una buena señal de que tu perro es realmente un estúpido"
         },
         {
             "x": false,
-            "id": 68080,
-            "prompt": "La postura de yoga más difícil que existe"
+            "id": 20818,
+            "prompt": "Lo mejor de ser arrojado a un volcán"
         },
         {
             "x": false,
-            "id": 68081,
-            "prompt": "¿Quién llamaría a tu puerta en plena noche?"
+            "id": 20816,
+            "prompt": "Una agencia gubernamental ridícula que nadie conoce: El Departamento de <BLANK>"
         },
         {
             "x": false,
-            "id": 68082,
-            "prompt": "El mejor nombre falso con el que registrarse en un hotel"
+            "id": 20815,
+            "prompt": "La peor advertencia para leer sobre un medicamento que te acabas de tragar"
         },
         {
             "x": false,
-            "id": 68083,
-            "prompt": "Lo último que te imaginarías haciendo a un burro"
+            "id": 20814,
+            "prompt": "De lo que Pie Grande se queja más con su terapeuta"
         },
         {
             "x": false,
-            "id": 68084,
-            "prompt": "Lo más atrevido que podrías hacer con la antorcha olímpica"
+            "id": 20813,
+            "prompt": "Una excusa para evitar montarse en un toro mecánico"
         },
         {
             "x": false,
-            "id": 68085,
-            "prompt": "Lo último que le dirías a tu madre"
+            "id": 20806,
+            "prompt": "Un cartel extraño para colgar en un dormitorio de la universidad"
         },
         {
             "x": false,
-            "id": 68086,
-            "prompt": "Lo mejor que puedes hacer para que te despidan"
+            "id": 20801,
+            "prompt": "Nunca pagues más de $3 por <BLANK>"
         },
         {
             "x": false,
-            "id": 68087,
-            "prompt": "Así se llaman tus dos pezones"
+            "id": 20799,
+            "prompt": "¿Por qué nunca deberías darle la espalda a un pingüino?"
+        },
+        {
+            "x": true,
+            "id": 20797,
+            "prompt": "El término más apto para todo público para referirse a una erección"
         },
         {
             "x": false,
-            "id": 68088,
+            "id": 20794,
+            "prompt": "Unas animadoras realmente horribles gritarían: “¡<BLANK>!”"
+        },
+        {
+            "x": false,
+            "id": 20785,
+            "prompt": "La razón por la que Plutón ya no es un planeta"
+        },
+        {
+            "x": false,
+            "id": 20778,
+            "prompt": "El día libre perfecto es solo doce horas seguidas de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20774,
+            "prompt": "Algo horrible para mantener en tu boca durante una hora"
+        },
+        {
+            "x": false,
+            "id": 20773,
+            "prompt": "Un nuevo y radical eslogan publicitario para calcetines"
+        },
+        {
+            "x": false,
+            "id": 20772,
+            "prompt": "Una excelente manera de comenzar una conversación con un extraño solitario en el metro"
+        },
+        {
+            "x": false,
+            "id": 20769,
+            "prompt": "El peor casino de Las Vegas: Palacio <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20765,
+            "prompt": "Una extraña pintura para colgar sobre tu cama"
+        },
+        {
+            "x": true,
+            "id": 20762,
+            "prompt": "Una habilidad secreta de las tetas"
+        },
+        {
+            "x": false,
+            "id": 20761,
+            "prompt": "Una foto extraña para guardar en tu billetera"
+        },
+        {
+            "x": false,
+            "id": 20752,
+            "prompt": "Un mal sustituto para una corbata"
+        },
+        {
+            "x": false,
+            "id": 20749,
+            "prompt": "La mejor manera de atrapar un duende"
+        },
+        {
+            "x": false,
+            "id": 20746,
+            "prompt": "¿Por qué el cielo es azul?"
+        },
+        {
+            "x": true,
+            "id": 20744,
+            "prompt": "Algo inapropiado para hacer en el gimnasio"
+        },
+        {
+            "x": false,
+            "id": 20743,
+            "prompt": "¿Qué fue lo que rompió en realidad la Campana de la Libertad?"
+        },
+        {
+            "x": false,
+            "id": 20740,
+            "prompt": "Un texto grosero que enviarías para romper con un Muppet"
+        },
+        {
+            "x": false,
+            "id": 20739,
+            "prompt": "El peor tatuaje que podrías tener en la frente"
+        },
+        {
+            "x": false,
+            "id": 20737,
+            "prompt": "Resulta que el sentido de la vida es <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20736,
+            "prompt": "Las peores cosas con las que hacer malabares"
+        },
+        {
+            "x": true,
+            "id": 20735,
+            "prompt": "Ah, da igual... solo escribí algo obsceno"
+        },
+        {
+            "x": false,
+            "id": 20733,
+            "prompt": "En el futuro, los científicos descubren que el secreto para la eterna juventud es <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20732,
+            "prompt": "Consejos útiles que le darías a Super Mario"
+        },
+        {
+            "x": false,
+            "id": 20731,
+            "prompt": "Una compra sorprendente en el resumen de la tarjeta de crédito de Willy Wonka"
+        },
+        {
+            "x": false,
+            "id": 20730,
+            "prompt": "Algo para lo que no deberías usar una motosierra"
+        },
+        {
+            "x": true,
+            "id": 20727,
+            "prompt": "La frase que el FBI está cansada de vernos escribir en Google"
+        },
+        {
+            "x": false,
+            "id": 20726,
+            "prompt": "¡Consejo para la supervivencia! Haga una fogata frotando <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 20705,
+            "prompt": "Cambia el nombre de cualquier obra literaria famosa para que sea arruinada por la palabra \"culo\""
+        },
+        {
+            "x": false,
+            "id": 20703,
+            "prompt": "La invención futurista que más esperas que exista"
+        },
+        {
+            "x": false,
+            "id": 20700,
+            "prompt": "¿Qué hay realmente en el centro de la Tierra?"
+        },
+        {
+            "x": false,
+            "id": 20694,
+            "prompt": "Un hecho poco conocido: En un episodio de <i>La tribu Brady</i>, la familia tiene que lidiar con <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20685,
+            "prompt": "La forma real de distinguir un caimán de un cocodrilo"
+        },
+        {
+            "x": false,
+            "id": 20683,
+            "prompt": "Una cirugía muy innecesaria"
+        },
+        {
+            "x": false,
+            "id": 20677,
+            "prompt": "Inventa una nueva palabra para el inodoro que suene como si fuera una obra de Shakespeare"
+        },
+        {
+            "x": false,
+            "id": 20675,
+            "prompt": "¡Consejo de Seguridad! No comas media hora antes de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20668,
+            "prompt": "El término médico oficial para la pelusa del ombligo (probablemente)"
+        },
+        {
+            "x": false,
+            "id": 20667,
+            "prompt": "Un gran regalo de broma sería un <BLANK> explosivo"
+        },
+        {
+            "x": true,
+            "id": 20666,
+            "prompt": "El peor juego de mesa para niños sería <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20664,
+            "prompt": "Una terrible idea de vacaciones: Visitar el Museo de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20663,
+            "prompt": "Tal como “bambinazo”, “cuadrangular”, y “vuelacercas”, inventa una nueva expresión para un jonrón en béisbol"
+        },
+        {
+            "x": false,
+            "id": 20661,
+            "prompt": "Lo único que no es mejor cuando se sumerge en chocolate"
+        },
+        {
+            "x": false,
+            "id": 20660,
+            "prompt": "El nombre de una nueva provincia o estado que jamás visitarías"
+        },
+        {
+            "x": false,
+            "id": 20659,
+            "prompt": "Una señal segura de que un vagabundo ha estado viviendo en secreto en tu casa"
+        },
+        {
+            "x": false,
+            "id": 20655,
+            "prompt": "Un mal nombre para una marca de salsa picante"
+        },
+        {
+            "x": false,
+            "id": 20650,
+            "prompt": "Hecho poco conocido: El animal más aterrador del mundo es la cobra <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20647,
+            "prompt": "Los años del 2011 al 2020 serán recordados como \"Los años <BLANK>\""
+        },
+        {
+            "x": false,
+            "id": 20646,
+            "prompt": "Una forma ingeniosa de deshacerse de los piojos"
+        },
+        {
+            "x": true,
+            "id": 20643,
+            "prompt": "Algo que absolutamente no te hace pensar de ninguna manera en un pene"
+        },
+        {
+            "x": false,
+            "id": 20642,
+            "prompt": "Algo sorprendente de escuchar en un documental sobre la naturaleza"
+        },
+        {
+            "x": true,
+            "id": 20641,
+            "prompt": "Lo peor que puedes susurrar en una conversación en la cama"
+        },
+        {
+            "x": false,
+            "id": 20639,
+            "prompt": "Una forma secreta de sacar lo último que queda de kétchup de la botella"
+        },
+        {
+            "x": false,
+            "id": 20638,
+            "prompt": "Lo único que desearías que un político dijera de una vez por todas"
+        },
+        {
+            "x": true,
+            "id": 20637,
+            "prompt": "El secreto para ser un gran besador"
+        },
+        {
+            "x": false,
+            "id": 20636,
+            "prompt": "La persona que más sorprendería que admita ser el Asesino del Zodíaco"
+        },
+        {
+            "x": false,
+            "id": 20629,
+            "prompt": "El nombre de un nuevo programa de juegos que suena terrible"
+        },
+        {
+            "x": false,
+            "id": 20628,
+            "prompt": "Una idea realmente estúpida para una aplicación de teléfono (que aún así te haría ganar millones de dólares)"
+        },
+        {
+            "x": false,
+            "id": 20627,
+            "prompt": "El peor álbum: “<BLANK> canta el blues”"
+        },
+        {
+            "x": true,
+            "id": 20622,
+            "prompt": "Un mal sustituto para la ropa interior"
+        },
+        {
+            "x": false,
+            "id": 20621,
+            "prompt": "El nombre de la próxima banda de chicos de moda"
+        },
+        {
+            "x": false,
+            "id": 20620,
+            "prompt": "Un nombre terrible para un rey"
+        },
+        {
+            "x": false,
+            "id": 20619,
+            "prompt": "Algo que prometes gritar si ganas este juego"
+        },
+        {
+            "x": false,
+            "id": 20618,
+            "prompt": "Una cosa espeluznante para encontrar garabateada en un billete"
+        },
+        {
+            "x": false,
+            "id": 20617,
+            "prompt": "Si no tienes dinero extra, algo extraño para usar como propina para tu mesero"
+        },
+        {
+            "x": false,
+            "id": 20614,
+            "prompt": "Una lección que probablemente no deberían enseñar en <i>Plaza Sésamo</i>"
+        },
+        {
+            "x": true,
+            "id": 20608,
+            "prompt": "Una cosa divertida para escribir en un formulario cuando te pregunta por tu sexo"
+        },
+        {
+            "x": false,
+            "id": 20607,
+            "prompt": "La peor organización benéfica: Salven a <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20442,
+            "prompt": "Un mejor nombre para el juego \"Pato Pato Ñato\""
+        },
+        {
+            "x": false,
+            "id": 20348,
+            "prompt": "¿Por qué cruzó la calle el funerario?"
+        },
+        {
+            "x": true,
+            "id": 20344,
+            "prompt": "La capa número 6.077 del infierno está reservada para <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20326,
+            "prompt": "Algo que nunca deberías intentar calentar en el microondas "
+        },
+        {
+            "x": false,
+            "id": 20324,
+            "prompt": "Algo sorprendente para encontrar dentro de una piñata "
+        },
+        {
+            "x": false,
+            "id": 20305,
+            "prompt": "Algo que harías que un mayordomo hiciera en el momento en que lo contratases"
+        },
+        {
+            "x": false,
+            "id": 20304,
+            "prompt": "Un mal eslogan de una palabra para una campaña presidencial"
+        },
+        {
+            "x": false,
+            "id": 20287,
+            "prompt": "Lo que el gobierno está ocultando al público en el Área 497"
+        },
+        {
+            "x": false,
+            "id": 20267,
+            "prompt": "Lo que revelaron tus análisis de páncreas"
+        },
+        {
+            "x": false,
+            "id": 20237,
+            "prompt": "Una mala manera de eliminar el pelo del pecho"
+        },
+        {
+            "x": false,
+            "id": 20235,
+            "prompt": "Un tema inusual para la lonchera de un niño"
+        },
+        {
+            "x": false,
+            "id": 20223,
+            "prompt": "La nueva atracción turística de Italia: La Torre <BLANK> de Pisa"
+        },
+        {
+            "x": true,
+            "id": 20221,
+            "prompt": "Un tema inapropiado para un conjunto de pijamas para niños"
+        },
+        {
+            "x": false,
+            "id": 20213,
+            "prompt": "El peor tema para una máquina de pinball"
+        },
+        {
+            "x": false,
+            "id": 20204,
+            "prompt": "Inventa un nombre para el espacio entre tus fosas nasales"
+        },
+        {
+            "x": false,
+            "id": 20201,
+            "prompt": "Inventa una palabra para las sustancias acuosas que salen de una botella de kétchup cuando la exprimes por primera vez"
+        },
+        {
+            "x": false,
+            "id": 20187,
+            "prompt": "Un terrible regalo de bodas"
+        },
+        {
+            "x": false,
+            "id": 20185,
+            "prompt": "El nombre para una calle que nunca ves"
+        },
+        {
+            "x": false,
+            "id": 20183,
+            "prompt": "Un juguete sorpresa en una Cajita Infeliz"
+        },
+        {
+            "x": false,
+            "id": 20179,
+            "prompt": "Lo primero que se te viene a la mente en este momento"
+        },
+        {
+            "x": false,
+            "id": 20178,
+            "prompt": "Un arma que debería ser añadida al juego Clue"
+        },
+        {
+            "x": true,
+            "id": 20175,
+            "prompt": "Una revista que nunca debería tener un desnudo como portada"
+        },
+        {
+            "x": false,
+            "id": 20164,
+            "prompt": "Si los animales se hicieran cargo de la exhibición, qué verías en el zoológico humano"
+        },
+        {
+            "x": false,
+            "id": 20160,
+            "prompt": "Un buen reemplazo del disco si se quedan sin discos en un juego de hockey"
+        },
+        {
+            "x": false,
+            "id": 20159,
+            "prompt": "Sería increíble que Chuck Norris peleara contra <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 20148,
+            "prompt": "Inventa un juego para el patio de una escuela con el que los niños nunca deberían jugar en el recreo"
+        },
+        {
+            "x": false,
+            "id": 20143,
+            "prompt": "Otro nombre para Canadá"
+        },
+        {
+            "x": false,
+            "id": 20137,
+            "prompt": "Un mal uso de sopa espesada"
+        },
+        {
+            "x": true,
+            "id": 20132,
+            "prompt": "Un nombre de marca para un medicamento que CAUSA intencionalmente impotencia masculina"
+        },
+        {
+            "x": true,
+            "id": 20131,
+            "prompt": "Otro nombre para una operación de cambio de sexo"
+        },
+        {
+            "x": false,
+            "id": 20129,
+            "prompt": "El mejor nombre para un rapero obeso"
+        },
+        {
+            "x": false,
+            "id": 20128,
+            "prompt": "\"En el 147mo día de Navidad, mi verdadero amor me dio a mí...\""
+        },
+        {
+            "x": false,
+            "id": 20126,
+            "prompt": "Un lugar donde no es probable que veas a Pie Grande"
+        },
+        {
+            "x": false,
+            "id": 20125,
+            "prompt": "Algo que nunca deberías decir como capitán de un equipo de bolos"
+        },
+        {
+            "x": false,
+            "id": 20124,
+            "prompt": "La persona más tonta de la historia de todos los tiempos "
+        },
+        {
+            "x": false,
+            "id": 20121,
+            "prompt": "Otro nombre para el Gran Cañón"
+        },
+        {
+            "x": true,
+            "id": 20118,
+            "prompt": "Un remate para un chiste que haría llorar a los niños"
+        },
+        {
+            "x": false,
+            "id": 20111,
+            "prompt": "Una razón para viajar en el tiempo hasta hace dos semanas"
+        },
+        {
+            "x": false,
+            "id": 20110,
+            "prompt": "Un nombre alternativo para La Mona Lisa"
+        },
+        {
+            "x": true,
+            "id": 20109,
+            "prompt": "Una imagen que haría que el techo de la Capilla Sixtina se viera más rudo"
+        },
+        {
+            "x": true,
+            "id": 20099,
+            "prompt": "Algo que usarían los ciervos como cebo si cazaran a sus cazadores"
+        },
+        {
+            "x": false,
+            "id": 20097,
+            "prompt": "Si nunca hubieras escuchado del término “gran tiburón blanco”, ¿cómo podrías llamarlo cuando veas uno por primera vez?"
+        },
+        {
+            "x": false,
+            "id": 20091,
+            "prompt": "Un club que desearías que hubiera existido en tu secundaria"
+        },
+        {
+            "x": false,
+            "id": 20083,
+            "prompt": "Algo de lo que nunca van a lanzar una serie de estampas conmemorativas"
+        },
+        {
+            "x": false,
+            "id": 20081,
+            "prompt": "Una cosa extraña que un ladrón de bancos exija en una situación de rehenes"
+        },
+        {
+            "x": false,
+            "id": 20074,
+            "prompt": "Algo que no es una buena idea poner en el compartimiento superior de un avión"
+        },
+        {
+            "x": true,
+            "id": 20070,
+            "prompt": "Los Siete Pecados Capitales son lujuria, gula, codicia, envidia, orgullo, ira y pereza. El octavo pecado mortal es..."
+        },
+        {
+            "x": false,
+            "id": 20068,
+            "prompt": "La vida sería mucho mejor si todos viviéramos en <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 20067,
+            "prompt": "Un mal nombre para un pez dorado mascota"
+        },
+        {
+            "x": false,
+            "id": 20059,
+            "prompt": "¿Qué es esa mancha?"
+        },
+        {
+            "x": false,
+            "id": 20057,
+            "prompt": "Algo que te encantaría aplastar con una bola de demolición"
+        },
+        {
+            "x": false,
+            "id": 20046,
+            "prompt": "Algo que probablemente no deberías llevar en un viaje por el desierto del Sahara"
+        },
+        {
+            "x": false,
+            "id": 20041,
+            "prompt": "La peor cosa de tratar de vender puerta a puerta"
+        },
+        {
+            "x": false,
+            "id": 20033,
+            "prompt": "Un evento histórico que sería un mal tema para un restaurante"
+        },
+        {
+            "x": true,
+            "id": 20032,
+            "prompt": "Lo más irritante que puedes pintar en tu furgoneta"
+        },
+        {
+            "x": false,
+            "id": 20026,
+            "prompt": "Algo que rara vez es usado como decoración de autos"
+        },
+        {
+            "x": false,
+            "id": 20009,
+            "prompt": "El nombre del dúo de rap de George W. Bush y Dick Cheney"
+        },
+        {
+            "x": false,
+            "id": 20006,
+            "prompt": "Título de un libro de autoayuda para ratas"
+        },
+        {
+            "x": false,
+            "id": 20001,
+            "prompt": "Lo peor que podrías frotarte en la cara"
+        },
+        {
+            "x": true,
+            "id": 19997,
+            "prompt": "Otro nombre para un termómetro rectal"
+        },
+        {
+            "x": false,
+            "id": 19980,
+            "prompt": "Algo que no quieres encontrar debajo de tu arbol navideño"
+        },
+        {
+            "x": false,
+            "id": 19970,
+            "prompt": "El nombre del apóstol número 13 de Jesús"
+        },
+        {
+            "x": false,
+            "id": 19967,
+            "prompt": "Lo peor para vomitar cuando repentinamente necesitas vomitar"
+        },
+        {
+            "x": true,
+            "id": 19966,
+            "prompt": "Algo divertido de hacer con los cálculos renales después de sacarlos"
+        },
+        {
+            "x": false,
+            "id": 19963,
+            "prompt": "Inventa una palabra que signifique \"inventar una palabra\""
+        },
+        {
+            "x": false,
+            "id": 19959,
+            "prompt": "Como el plutonio o el einsteinio, ¿cómo llamarías al siguiente elemento de la tabla periódica que descubran?"
+        },
+        {
+            "x": false,
+            "id": 19949,
+            "prompt": "Una película que nunca debe convertirse en un paseo en un parque temático"
+        },
+        {
+            "x": false,
+            "id": 19948,
+            "prompt": "Algo divertido de gritar cuando ganas en un juego de bingo, ¡aparte de \"Bingo!\""
+        },
+        {
+            "x": false,
+            "id": 19946,
+            "prompt": "Una empresa o servicio que no debería tener una ventana de acceso directo para conductores"
+        },
+        {
+            "x": false,
+            "id": 19926,
+            "prompt": "El reemplazo de Paul Bunyan para Babe el Buey Azul cuando él muera"
+        },
+        {
+            "x": false,
+            "id": 19907,
+            "prompt": "El peor sabor para un helado"
+        },
+        {
+            "x": false,
+            "id": 19902,
+            "prompt": "El mejor premio que puedes encontrar en una caja de cereales"
+        },
+        {
+            "x": false,
+            "id": 19899,
+            "prompt": "Una buena cosa para dar a los niños en Halloween cuando te quedas sin dulces"
+        },
+        {
+            "x": false,
+            "id": 19891,
+            "prompt": "El peor sabor de sopa: Crema de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19888,
+            "prompt": "Un lugar extraño para celebrar una reunión familiar"
+        },
+        {
+            "x": false,
+            "id": 19884,
+            "prompt": "Algo que te tirarías al espacio, si fueras un astronauta"
+        },
+        {
+            "x": false,
+            "id": 19876,
+            "prompt": "El nombre de esa tienda de quesos que vas a abrir algún día"
+        },
+        {
+            "x": false,
+            "id": 19874,
+            "prompt": "Lo que realmente encontraron en la tumba del rey Tutankamón"
+        },
+        {
+            "x": false,
+            "id": 19871,
+            "prompt": "Un nombre inusual para la guardería de un bebé"
+        },
+        {
+            "x": false,
+            "id": 19870,
+            "prompt": "Un nombre para la suciedad que se acumula entre los dedos de los pies"
+        },
+        {
+            "x": false,
+            "id": 19865,
+            "prompt": "El líquido que sería el peor aderezo para ensaladas"
+        },
+        {
+            "x": false,
+            "id": 19857,
+            "prompt": "Un mejor nombre para la caspa"
+        },
+        {
+            "x": false,
+            "id": 19846,
+            "prompt": "Algo que haría un reemplazo espeluznante para los caballos en un carrusel"
+        },
+        {
+            "x": true,
+            "id": 19845,
+            "prompt": "Crea un nombre para una cadena de comida rápida que solo sirve carne de conejo"
+        },
+        {
+            "x": false,
+            "id": 19843,
+            "prompt": "Cuatro de cada cinco dentistas están de acuerdo en que nunca debes <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19842,
+            "prompt": "Un nombre terrible para tener si te postulas para un cargo público"
+        },
+        {
+            "x": true,
+            "id": 19824,
+            "prompt": "Un nombre para un nuevo cereal que es solo para adultos"
+        },
+        {
+            "x": false,
+            "id": 19822,
+            "prompt": "Lo peor que puedes escuchar durante una cirugía"
+        },
+        {
+            "x": true,
+            "id": 19812,
+            "prompt": "Inventa una mala palabra"
+        },
+        {
+            "x": false,
+            "id": 19801,
+            "prompt": "¿Cómo te gusta?"
+        },
+        {
+            "x": false,
+            "id": 19797,
+            "prompt": "Un mal nombre para una marca de agua embotellada"
+        },
+        {
+            "x": true,
+            "id": 19792,
+            "prompt": "La celebridad que comerías primero si fueras un caníbal, y la guarnición con la que los comerías"
+        },
+        {
+            "x": false,
+            "id": 19789,
+            "prompt": "La primera y la segunda regla del Club de la Pelea son “No se habla del Club de la Pelea”, ¿pero cuál es la 387ma regla del Club de la Pelea?"
+        },
+        {
+            "x": false,
+            "id": 19787,
+            "prompt": "Un camión de comidas terrible sería uno que anda vendiendo solo <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19781,
+            "prompt": "Crea un nuevo postre que contenga el nombre de un estado de Estados Unidos"
+        },
+        {
+            "x": false,
+            "id": 19774,
+            "prompt": "Lo que hace el Oso Smokey cuando no está combatiendo los incendios forestales"
+        },
+        {
+            "x": false,
+            "id": 19771,
+            "prompt": "Un nombre terrible para una funeraria"
+        },
+        {
+            "x": true,
+            "id": 19765,
+            "prompt": "El nombre menos amenazante para un asesino en serie: El <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 19761,
+            "prompt": "Un objeto inusual para golpear a alguien hasta la muerte"
+        },
+        {
+            "x": false,
+            "id": 19759,
+            "prompt": "Combina dos palabras para crear una palabra nueva y divertida"
+        },
+        {
+            "x": true,
+            "id": 19754,
+            "prompt": "El primer miembro del Salón de la Fama de los imbéciles "
+        },
+        {
+            "x": false,
+            "id": 19727,
+            "prompt": "Nunca se sabe cuándo necesitará un seguro de vida. Podrías levantarte mañana y <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19724,
+            "prompt": "Un mejor nombre para el monumento de Washington"
+        },
+        {
+            "x": false,
+            "id": 19719,
+            "prompt": "Un gran lugar para esconder un huevo de pascua"
+        },
+        {
+            "x": false,
+            "id": 19718,
+            "prompt": "Un truco que te gustaría ver hacer a un caniche"
+        },
+        {
+            "x": false,
+            "id": 19712,
+            "prompt": "El ingrediente menos conocido para ponerle a una pizza"
+        },
+        {
+            "x": false,
+            "id": 19711,
+            "prompt": "El peor disfraz de Halloween para un niño pequeño"
+        },
+        {
+            "x": false,
+            "id": 19710,
+            "prompt": "\"¡Noticia de último momento! Un <BLANK> ha ganado las elecciones y se convertirá en el nuevo gobernador de Texas.\" "
+        },
+        {
+            "x": false,
+            "id": 19707,
+            "prompt": "Un mejor nombre para la vejiga humana"
+        },
+        {
+            "x": true,
+            "id": 19705,
+            "prompt": "Un buen nombre para un restaurante que sirve animales con las caras todavía en ellos "
+        },
+        {
+            "x": false,
+            "id": 19692,
+            "prompt": "Una razón para pelear a puñetazos con un koala "
+        },
+        {
+            "x": false,
+            "id": 19691,
+            "prompt": "Un tema para un calendario de escritorio que no se vendería muy bien "
+        },
+        {
+            "x": false,
+            "id": 19690,
+            "prompt": "Hecho poco conocido: el cuarto Rey Mago le dio al niño Jesús el peor regalo de todos: <BLANK> "
+        },
+        {
+            "x": true,
+            "id": 19689,
+            "prompt": "Papá Noel sería más rudo si su trineo fuera conducido por ocho pequeños…"
+        },
+        {
+            "x": false,
+            "id": 19687,
+            "prompt": "Lo peor que podrías poner en una tostadora "
+        },
+        {
+            "x": false,
+            "id": 19679,
+            "prompt": "Inesperadas primeras palabras que tu bebé puede decir"
+        },
+        {
+            "x": true,
+            "id": 19676,
+            "prompt": "Un nombre para un juego de mesa diseñado para dar pesadillas a los niños "
+        },
+        {
+            "x": false,
+            "id": 19499,
+            "prompt": "Un buen nombre para un perro cantante de country"
+        },
+        {
+            "x": true,
+            "id": 19355,
+            "prompt": "¿Qué gritan los espermas mientras nadan?"
+        },
+        {
+            "x": false,
+            "id": 19353,
+            "prompt": "El sonambulismo puede ser un problema, pero no es tan malo como dormir <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19351,
+            "prompt": "Lo más creativo que puedes hacer completamente con mocos"
+        },
+        {
+            "x": false,
+            "id": 19346,
+            "prompt": "Un atuendo desaconsejado para usar en tu primer día en un nuevo trabajo"
+        },
+        {
+            "x": false,
+            "id": 19335,
+            "prompt": "Qué hacer cuando tu paracaídas falla"
+        },
+        {
+            "x": false,
+            "id": 19333,
+            "prompt": "En el futuro, RoboCop se retira de la fuerza policial y se convierte en Robo- <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19330,
+            "prompt": "Algo que la gente solía hacer por diversión antes de la invensión de la electricidad"
+        },
+        {
+            "x": true,
+            "id": 19328,
+            "prompt": "Un antiguo término para \"vagina\""
+        },
+        {
+            "x": true,
+            "id": 19327,
+            "prompt": "El método anticonceptivo más tonto"
+        },
+        {
+            "x": false,
+            "id": 19324,
+            "prompt": "Una verdadera persona rara se quedaría dormida con los sonidos de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19322,
+            "prompt": "La peor pizza es la pizza <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19317,
+            "prompt": "El nombre de una marca de comida para perros que probablemente no deberías comprar"
+        },
+        {
+            "x": true,
+            "id": 19315,
+            "prompt": "El nombre del sitio web que probablemente le puso un virus a tu computadora"
+        },
+        {
+            "x": false,
+            "id": 19299,
+            "prompt": "Piensa en un nombre para una marca genérica de hot dogs que probablemente no deberías comprar"
+        },
+        {
+            "x": true,
+            "id": 19296,
+            "prompt": "Cómo morirá eventualmente Garfield el gato animado"
+        },
+        {
+            "x": false,
+            "id": 19291,
+            "prompt": "El nombre que los cavernícolas probablemente le dieron a la diarrea"
+        },
+        {
+            "x": false,
+            "id": 19288,
+            "prompt": "El crimen más vergonzoso que te atrapen cometiendo"
+        },
+        {
+            "x": false,
+            "id": 19286,
+            "prompt": "Una cosa peculiar para ver en un anuncio de búsqueda de trabajadores sería \"Anuncio de empleo: <BLANK>\""
+        },
+        {
+            "x": true,
+            "id": 19283,
+            "prompt": "Un extraño efecto secundario para escuchar durante un comercial de drogas"
+        },
+        {
+            "x": false,
+            "id": 19281,
+            "prompt": "La peor persona con quien compartir un jacuzzi"
+        },
+        {
+            "x": false,
+            "id": 19268,
+            "prompt": "¿Cómo deberían llamarse los bigotes?"
+        },
+        {
+            "x": true,
+            "id": 19264,
+            "prompt": "Otro uso para los tampones"
+        },
+        {
+            "x": true,
+            "id": 19256,
+            "prompt": "El peor eslogan para una píldora para la disfunción eréctil"
+        },
+        {
+            "x": false,
+            "id": 19250,
+            "prompt": "El nombre de una pintura que Miguel Ángel se avergonzó de haberlo creado"
+        },
+        {
+            "x": false,
+            "id": 19247,
+            "prompt": "Algo inteligente que diría James Bond mientras arroja a alguien de un avión"
+        },
+        {
+            "x": false,
+            "id": 19244,
+            "prompt": "Lo que piensa tu perro cuando te ve desnudo"
+        },
+        {
+            "x": false,
+            "id": 19239,
+            "prompt": "Nadie adivinaría que aquí es donde está enterrado el tesoro"
+        },
+        {
+            "x": false,
+            "id": 19235,
+            "prompt": "El secreto para una cabellera sana"
+        },
+        {
+            "x": false,
+            "id": 19234,
+            "prompt": "Algo extraño de leer en un tapete de bienvenida"
+        },
+        {
+            "x": false,
+            "id": 19233,
+            "prompt": "El secreto de un gran matrimonio"
+        },
+        {
+            "x": false,
+            "id": 19232,
+            "prompt": "¿Qué sucede realmente si miras al sol demasiado tiempo?"
+        },
+        {
+            "x": false,
+            "id": 19231,
+            "prompt": "Todo sabe mejor con <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19223,
+            "prompt": "La peor cosa que podría salir de tu inodoro"
+        },
+        {
+            "x": false,
+            "id": 19222,
+            "prompt": "¡Truco fácil! Reduzca sus facturas de calefacción..."
+        },
+        {
+            "x": false,
+            "id": 19212,
+            "prompt": "El peor consejo que un médico podría dar"
+        },
+        {
+            "x": false,
+            "id": 19206,
+            "prompt": "Algo que un hombre del clima podría gritar si se vuelve loco durante el pronóstico del tiempo"
+        },
+        {
+            "x": false,
+            "id": 19203,
+            "prompt": "Un gran regalo de cumpleaños para tu peor enemigo"
+        },
+        {
+            "x": false,
+            "id": 19197,
+            "prompt": "El peor material para hacer un pijama"
+        },
+        {
+            "x": true,
+            "id": 19196,
+            "prompt": "Algo que una muñeca que habla probablemente NO debería decir cuando tiras de la cuerda"
+        },
+        {
+            "x": false,
+            "id": 19194,
+            "prompt": "El nombre perfecto para una segunda cabeza que brota en tu hombro"
+        },
+        {
+            "x": true,
+            "id": 19191,
+            "prompt": "Consejo: nunca meta la lengua en <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19190,
+            "prompt": "Una nueva palabra para las personas que conducen demasiado lento en el carril rápido"
+        },
+        {
+            "x": false,
+            "id": 19187,
+            "prompt": "Un buen nombre para un cementerio de mascotas"
+        },
+        {
+            "x": false,
+            "id": 19182,
+            "prompt": "Es ilegal gritar \"¡Fuego!\" en un teatro lleno, pero también debería ser ilegal gritar, \"¡<BLANK>!\""
+        },
+        {
+            "x": false,
+            "id": 19174,
+            "prompt": "Los cuatro jinetes no darían tanto miedo si fueran los cuatro hombres <BLANK> del Apocalipsis"
+        },
+        {
+            "x": false,
+            "id": 19168,
+            "prompt": "Algo realmente extraño que decir en tu lecho de muerte"
+        },
+        {
+            "x": false,
+            "id": 19164,
+            "prompt": "Una palabra que debería estar en el diccionario pero no está"
+        },
+        {
+            "x": false,
+            "id": 19157,
+            "prompt": "Una campaña de caridad horrible: <BLANK> para Niños"
+        },
+        {
+            "x": false,
+            "id": 19140,
+            "prompt": "Un pequeño beneficio por ser el presidente del país"
+        },
+        {
+            "x": true,
+            "id": 19139,
+            "prompt": "Lo peor que puedes decirles a los niños sobre la muerte del perro de la familia"
+        },
+        {
+            "x": true,
+            "id": 19138,
+            "prompt": "Una cosa loca para encontrar durante una colonoscopia"
+        },
+        {
+            "x": false,
+            "id": 19137,
+            "prompt": "Lo que hace el conejo de pascua en su tiempo libre"
+        },
+        {
+            "x": false,
+            "id": 19136,
+            "prompt": "Una broma que los jueces de la Corte Suprema probablemente juegan entre ellos"
+        },
+        {
+            "x": false,
+            "id": 19133,
+            "prompt": "El peor aroma ambientador"
+        },
+        {
+            "x": true,
+            "id": 19132,
+            "prompt": "Un nuevo feriado que las compañías inventarían para vender más"
+        },
+        {
+            "x": false,
+            "id": 19130,
+            "prompt": "Sería genial ganar <i>Jeopardy</i> con la frase: \"¿Qué es <BLANK>, Alex?\""
+        },
+        {
+            "x": false,
+            "id": 19128,
+            "prompt": "Una cosa terrible para firmar en el yeso de la pierna rota de tu amigo"
+        },
+        {
+            "x": false,
+            "id": 19127,
+            "prompt": "Una idea para el próximo traje loco de Lady Gaga: un vestido de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19125,
+            "prompt": "Un gran nombre de mascota para un gusano parásito que vive en tu oído"
+        },
+        {
+            "x": false,
+            "id": 19123,
+            "prompt": "Algo que probablemente no deberías intentar vender en eBay"
+        },
+        {
+            "x": false,
+            "id": 19121,
+            "prompt": "Hecho poco conocido: en el transcurso de la vida, una persona promedio come accidentalmente diez <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19112,
+            "prompt": "Así que... ¿de qué era que trataba esa película <i>Birdman</i>?"
+        },
+        {
+            "x": true,
+            "id": 19111,
+            "prompt": "Un nombre de asunto extrañamente atractivo para un correo electrónico en su carpeta de SPAM"
+        },
+        {
+            "x": false,
+            "id": 19106,
+            "prompt": "La peor forma de volar: <BLANK> Airlines"
+        },
+        {
+            "x": false,
+            "id": 19104,
+            "prompt": "Algo que puedes hacer con vello corporal"
+        },
+        {
+            "x": false,
+            "id": 19100,
+            "prompt": "El peor invento que termine con \"en aerosol\""
+        },
+        {
+            "x": false,
+            "id": 19099,
+            "prompt": "El nombre de una especie de dinosaurio que no te gustaría conocer"
+        },
+        {
+            "x": false,
+            "id": 19098,
+            "prompt": "Algo que se escuchó durante la Última Cena"
+        },
+        {
+            "x": false,
+            "id": 19097,
+            "prompt": "Una posible entrada en el diario de sueños de Gary Busey: “Esta noche soñé <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 19094,
+            "prompt": "A veces John Travolta pronuncia muy mal los nombres. ¿Cómo podría pronunciar horriblemente su propio nombre?"
+        },
+        {
+            "x": false,
+            "id": 19092,
+            "prompt": "La peor tienda de juguetes es <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 19091,
+            "prompt": "La mayor queja de la gente en el infierno"
+        },
+        {
+            "x": false,
+            "id": 19088,
+            "prompt": "Lo más raro que puedes comprar en la tienda de regalos del Vaticano"
+        },
+        {
+            "x": false,
+            "id": 19087,
+            "prompt": "Consejo: Nunca comas en un lugar llamado “<BLANK> de Pollo Frito”"
+        },
+        {
+            "x": false,
+            "id": 19086,
+            "prompt": "La mejor parte de ser Donald Trump"
+        },
+        {
+            "x": true,
+            "id": 19084,
+            "prompt": "Una cosa extraña que NO sucede en 50 sombras de Grey (por lo que sabes)"
+        },
+        {
+            "x": false,
+            "id": 19076,
+            "prompt": "El secreto más profundo y oscuro de la reina Isabel"
+        },
+        {
+            "x": false,
+            "id": 19075,
+            "prompt": "Inventa un eslogan para el Consejo de Turismo de Rusia"
+        },
+        {
+            "x": false,
+            "id": 19068,
+            "prompt": "Insultos que escucharías en un encuentro de ajedrez"
+        },
+        {
+            "x": false,
+            "id": 19066,
+            "prompt": "Nueva idea deportiva: <BLANK> profesional"
+        },
+        {
+            "x": false,
+            "id": 19063,
+            "prompt": "Todo el mundo sabe que no existe <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 19062,
+            "prompt": "Algo en que los piratas probablemente no son muy buenos"
+        },
+        {
+            "x": true,
+            "id": 19061,
+            "prompt": "Algo que Godzilla hace cuando está borracho"
+        },
+        {
+            "x": false,
+            "id": 19057,
+            "prompt": "Algo que no deberías rellenar con queso"
+        },
+        {
+            "x": true,
+            "id": 19056,
+            "prompt": "El título del porno más aburrido de la historia"
+        },
+        {
+            "x": false,
+            "id": 19049,
+            "prompt": "Un buen uso para el cortador de uñas de los pies"
+        },
+        {
+            "x": false,
+            "id": 19048,
+            "prompt": "Lo que harías con dos horas libres y un lanzallamas"
+        },
+        {
+            "x": false,
+            "id": 19041,
+            "prompt": "El peor nombre para un vehículo utilitario deportivo"
+        },
+        {
+            "x": false,
+            "id": 19033,
+            "prompt": "Nunca debes compartir <BLANK> con alguien más"
+        },
+        {
+            "x": false,
+            "id": 19030,
+            "prompt": "Necesitas tres cosas para vivir: comida, agua y <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 19027,
+            "prompt": "¿Qué se hace con la piel circuncidada?"
+        },
+        {
+            "x": false,
+            "id": 19026,
+            "prompt": "Lo más asqueroso que puedes encontrar en el fondo de una piscina"
+        },
+        {
+            "x": false,
+            "id": 19025,
+            "prompt": "El sonido que hace un árbol cuando cae y no hay nadie cerca para escucharlo"
+        },
+        {
+            "x": true,
+            "id": 19024,
+            "prompt": "¿Qué piensan los perros cuando ven gente desnuda?"
+        },
+        {
+            "x": false,
+            "id": 19017,
+            "prompt": "Una señal que probablemente no deberías poner en el frente de tu casa"
+        },
+        {
+            "x": false,
+            "id": 19015,
+            "prompt": "Una \"habilidad especial\" inusual para incluir en tu currículum"
+        },
+        {
+            "x": false,
+            "id": 19014,
+            "prompt": "¿Qué dirían los gatos si pudieran hablar?"
+        },
+        {
+            "x": false,
+            "id": 19013,
+            "prompt": "Una cosa extraña para tener como mascota"
+        },
+        {
+            "x": false,
+            "id": 19012,
+            "prompt": "Lo peor de Canadá"
+        },
+        {
+            "x": false,
+            "id": 19010,
+            "prompt": "Un mal título para un libro de autoayuda"
+        },
+        {
+            "x": true,
+            "id": 19008,
+            "prompt": "Nombra la próxima gran enfermedad de transmisión sexual"
+        },
+        {
+            "x": false,
+            "id": 19007,
+            "prompt": "El mejor uso para una albóndiga sobrante"
+        },
+        {
+            "x": false,
+            "id": 19001,
+            "prompt": "Una mala razón para llamar al 911"
+        },
+        {
+            "x": true,
+            "id": 19000,
+            "prompt": "Una cosa inapropiada para decir a través de publicidad aérea"
+        },
+        {
+            "x": false,
+            "id": 18999,
+            "prompt": "Tu primer decreto después de ser nombrado Supremo Gobernante de la Tierra"
+        },
+        {
+            "x": true,
+            "id": 18997,
+            "prompt": "Un buen nombre para un robot sexual"
+        },
+        {
+            "x": false,
+            "id": 18996,
+            "prompt": "La mejor manera de gastar un millón de dólares rápidamente"
+        },
+        {
+            "x": false,
+            "id": 18977,
+            "prompt": "Cómo llamas a un sasquatch bebé"
+        },
+        {
+            "x": false,
+            "id": 18976,
+            "prompt": "¿Qué está pensando un árbol todo el día?"
+        },
+        {
+            "x": false,
+            "id": 18975,
+            "prompt": "Lo peor de ser multimillonario"
+        },
+        {
+            "x": false,
+            "id": 18974,
+            "prompt": "Nunca debes <BLANK> y <BLANK> al mismo tiempo"
+        },
+        {
+            "x": false,
+            "id": 18970,
+            "prompt": "Describe brevemente a tu amigo imaginario"
+        },
+        {
+            "x": false,
+            "id": 18969,
+            "prompt": "Nueva idea para una película: <i>Los Muppets toman <BLANK></i>"
+        },
+        {
+            "x": true,
+            "id": 18955,
+            "prompt": "Un buen nombre para un grupo nudista de ancianos"
+        },
+        {
+            "x": false,
+            "id": 18950,
+            "prompt": "Un rumor completamente falso sobre Alvin de Alvin y las Ardillas"
+        },
+        {
+            "x": false,
+            "id": 18938,
+            "prompt": "Piensa en un nombre para un avestruz loco que resuelve misterios"
+        },
+        {
+            "x": false,
+            "id": 18930,
+            "prompt": "Lo peor que se puede recibir por truco o trato"
+        },
+        {
+            "x": true,
+            "id": 18928,
+            "prompt": "Un lindo nombre para las hemorroides"
+        },
+        {
+            "x": false,
+            "id": 18924,
+            "prompt": "Estados Unidos sigue siendo el número uno en..."
+        },
+        {
+            "x": false,
+            "id": 18922,
+            "prompt": "Un deporte olímpico que nunca llegó: <BLANK> sincronizado"
+        },
+        {
+            "x": false,
+            "id": 18919,
+            "prompt": "Una frase que te gustaría escuchar decir a Morgan Freeman"
+        },
+        {
+            "x": false,
+            "id": 18900,
+            "prompt": "El gobierno debería legalizar..."
+        },
+        {
+            "x": false,
+            "id": 18898,
+            "prompt": "Lo primero que debes hacer si eres atacado por un tiburón"
+        },
+        {
+            "x": false,
+            "id": 18884,
+            "prompt": "Lo peor que puedes encontrar creciendo en tu cuello"
+        },
+        {
+            "x": false,
+            "id": 18881,
+            "prompt": "Un hecho poco conocido sobre el Gigante Verde"
+        },
+        {
+            "x": false,
+            "id": 18877,
+            "prompt": "Nueva idea para un show: <i>La mejor <BLANK> de América</i>"
+        },
+        {
+            "x": true,
+            "id": 18876,
+            "prompt": "La peor canción para poner cuando te desnudas para tu amante"
+        },
+        {
+            "x": false,
+            "id": 18874,
+            "prompt": "¿Qué es blanco y negro y rojo por todas partes?"
+        },
+        {
+            "x": false,
+            "id": 18867,
+            "prompt": "La comida perfecta sería un <BLANK> relleno de <BLANK> relleno de <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 18864,
+            "prompt": "Algo en la habitación de una persona rara"
+        },
+        {
+            "x": false,
+            "id": 18863,
+            "prompt": "El graffiti más aburrido que podías ver en el metro"
+        },
+        {
+            "x": false,
+            "id": 18862,
+            "prompt": "El concurso de belleza que nadie quiere ver: Miss <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18856,
+            "prompt": "La mejor razón para ir a Australia"
+        },
+        {
+            "x": false,
+            "id": 18852,
+            "prompt": "Inventa un término tonto para defecar"
+        },
+        {
+            "x": false,
+            "id": 18849,
+            "prompt": "Nunca termina bien cuando mezclas <BLANK> y <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18846,
+            "prompt": "Nunca olvidas tu primer <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18844,
+            "prompt": "Un eslogan para que todos estén emocionados por el maíz"
+        },
+        {
+            "x": false,
+            "id": 18831,
+            "prompt": "Lo que quieres diga tu lápida"
+        },
+        {
+            "x": true,
+            "id": 18830,
+            "prompt": "Una película que debería tener escenas de desnudez"
+        },
+        {
+            "x": false,
+            "id": 18825,
+            "prompt": "Si solo usamos el 10% de nuestros cerebros, ¿qué está haciendo el otro 90%?"
+        },
+        {
+            "x": false,
+            "id": 18824,
+            "prompt": "Algo que no deberías comprar en una venta de garaje"
+        },
+        {
+            "x": false,
+            "id": 18819,
+            "prompt": "Próximamente en un cine cerca tuyo: Benedict Cumberbatch es <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18818,
+            "prompt": "Hecho poco conocido: el cuerpo humano es aproximadamente 80% <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18814,
+            "prompt": "La peor opción del menú que comience con \"Tenedor libre de\""
+        },
+        {
+            "x": false,
+            "id": 18809,
+            "prompt": "Un cartel que no te gustaría ver en un restaurante de mariscos"
+        },
+        {
+            "x": false,
+            "id": 18807,
+            "prompt": "Algo divertido para gritar durante una ópera"
+        },
+        {
+            "x": false,
+            "id": 18805,
+            "prompt": "Una actividad grupal en un campamento de verano realmente malo"
+        },
+        {
+            "x": false,
+            "id": 18803,
+            "prompt": "La medalla de Boy Scout menos impresionante"
+        },
+        {
+            "x": false,
+            "id": 18802,
+            "prompt": "Un nombre de galletitas de las niñas exploradoras fue rechazado debido a que sonaba demasiado ridículo"
+        },
+        {
+            "x": false,
+            "id": 18800,
+            "prompt": "El peor tono de llamada para un teléfono celular"
+        },
+        {
+            "x": true,
+            "id": 18791,
+            "prompt": "Elige cualquier nombre de ciudad y haz que suene sucio"
+        },
+        {
+            "x": false,
+            "id": 18788,
+            "prompt": "Un gran apodo para tus pelos de la axila"
+        },
+        {
+            "x": false,
+            "id": 18787,
+            "prompt": "\"¡Toc, toc!\" \"¿Quién es?\" <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18784,
+            "prompt": "Un tuit de un cavernícola"
+        },
+        {
+            "x": false,
+            "id": 18783,
+            "prompt": "La peor característica de un automóvil que comienza con “sostenedor”"
+        },
+        {
+            "x": false,
+            "id": 18780,
+            "prompt": "Un mensaje encontrado en una botella flotando en el mar"
+        },
+        {
+            "x": true,
+            "id": 18778,
+            "prompt": "Un artículo en la lista de compras de todos los pervertidos"
+        },
+        {
+            "x": false,
+            "id": 18753,
+            "prompt": "Lo que Chewbacca realmente ha estado gritando todos estos años"
+        },
+        {
+            "x": false,
+            "id": 18751,
+            "prompt": "La mejor manera de sobrevivir a un ataque de oso es <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18750,
+            "prompt": "El título más estereotípico para una canción de country"
+        },
+        {
+            "x": false,
+            "id": 18748,
+            "prompt": "El peor nombre para una funeraria"
+        },
+        {
+            "x": false,
+            "id": 18743,
+            "prompt": "Algo que nunca debería ser \"casero\""
+        },
+        {
+            "x": false,
+            "id": 18742,
+            "prompt": "Una forma rechazada para los mini-malvaviscos con formas"
+        },
+        {
+            "x": false,
+            "id": 18741,
+            "prompt": "Otro uso para los malvaviscos"
+        },
+        {
+            "x": false,
+            "id": 18740,
+            "prompt": "Tres cosas que MacGyver necesita para hacer una bomba"
+        },
+        {
+            "x": false,
+            "id": 18739,
+            "prompt": "Un comentario enojado de Internet en el sitio web de una tienda de mascotas"
+        },
+        {
+            "x": false,
+            "id": 18737,
+            "prompt": "El peor nombre para un artista de rap"
+        },
+        {
+            "x": false,
+            "id": 18735,
+            "prompt": "Otro uso para la salsa"
+        },
+        {
+            "x": true,
+            "id": 18713,
+            "prompt": "La contraseña para el club sexual secreto de la alta sociedad al final de la cuadra"
+        },
+        {
+            "x": false,
+            "id": 18712,
+            "prompt": "Una excelente manera de curar el hipo"
+        },
+        {
+            "x": false,
+            "id": 18702,
+            "prompt": "Algo que no esperarías que dijera una tabla Ouija"
+        },
+        {
+            "x": false,
+            "id": 18700,
+            "prompt": "El mayor secreto que guarda el gobierno"
+        },
+        {
+            "x": false,
+            "id": 18699,
+            "prompt": "Un animal que Noé no debería haber salvado"
+        },
+        {
+            "x": false,
+            "id": 18694,
+            "prompt": "La mejor manera de derrotar al terrorismo es..."
+        },
+        {
+            "x": true,
+            "id": 18692,
+            "prompt": "Sabes que estás realmente borracho cuando..."
+        },
+        {
+            "x": true,
+            "id": 18687,
+            "prompt": "Un estado de Facebook que no desearías que vean tus abuelos"
+        },
+        {
+            "x": true,
+            "id": 18685,
+            "prompt": "La peor forma de eliminar el vello púbico"
+        },
+        {
+            "x": false,
+            "id": 18681,
+            "prompt": "La mejor manera de asustar a un ladrón"
+        },
+        {
+            "x": false,
+            "id": 18680,
+            "prompt": "Lo peor para gritar mientras un golfista profesional le pega a la pelota"
+        },
+        {
+            "x": false,
+            "id": 18675,
+            "prompt": "El undécimo mandamiento: No..."
+        },
+        {
+            "x": true,
+            "id": 18673,
+            "prompt": "El artículo menos popular en el catálogo de Victoria's Secret"
+        },
+        {
+            "x": false,
+            "id": 18669,
+            "prompt": "Una forma completamente equivocada de deletrear \"Jennifer Aniston\""
+        },
+        {
+            "x": true,
+            "id": 18668,
+            "prompt": "Cómo llaman a hacer caca en la Tierra de Oz"
+        },
+        {
+            "x": true,
+            "id": 18667,
+            "prompt": "Lo que hace Santa con un elfo muerto"
+        },
+        {
+            "x": false,
+            "id": 18661,
+            "prompt": "Piensa en un nombre para un aderezo de ensaladas realizado por Lindsay Lohan"
+        },
+        {
+            "x": false,
+            "id": 18659,
+            "prompt": "Piensa en un nombre para una comedia sobre un montón de monjas locas"
+        },
+        {
+            "x": false,
+            "id": 18658,
+            "prompt": "Una buena carrera post-musical para Justin Bieber"
+        },
+        {
+            "x": false,
+            "id": 18656,
+            "prompt": "La mejor manera de saber si un tomate está maduro"
+        },
+        {
+            "x": true,
+            "id": 18653,
+            "prompt": "Un nuevo término para la impotencia"
+        },
+        {
+            "x": false,
+            "id": 18652,
+            "prompt": "Lo mejor de ser realmente tonto"
+        },
+        {
+            "x": false,
+            "id": 18651,
+            "prompt": "Un pensamiento que mantiene a Papá Noel despierto por la noche"
+        },
+        {
+            "x": false,
+            "id": 18644,
+            "prompt": "El peor nombre para una montaña"
+        },
+        {
+            "x": true,
+            "id": 18641,
+            "prompt": "Una atracción turística en el infierno"
+        },
+        {
+            "x": false,
+            "id": 18640,
+            "prompt": "¿Por qué tan serio?"
+        },
+        {
+            "x": false,
+            "id": 18638,
+            "prompt": "La segunda cosa que se dijo en la luna"
+        },
+        {
+            "x": false,
+            "id": 18635,
+            "prompt": "Un nombre para un hotel realmente barato"
+        },
+        {
+            "x": false,
+            "id": 18634,
+            "prompt": "Algo que solo puedes hacer en supermercado si nadie está mirando"
+        },
+        {
+            "x": false,
+            "id": 18621,
+            "prompt": "Un truco que no deberías enseñarle a tu perro"
+        },
+        {
+            "x": false,
+            "id": 18616,
+            "prompt": "Un mal sustituto para un cepillo de dientes"
+        },
+        {
+            "x": false,
+            "id": 18614,
+            "prompt": "La peor palabra que puede venir después de “pedo”"
+        },
+        {
+            "x": false,
+            "id": 18611,
+            "prompt": "El peor nombre para un salón de bronceado"
+        },
+        {
+            "x": false,
+            "id": 18609,
+            "prompt": "Una extraña forma física de saludar a alguien"
+        },
+        {
+            "x": false,
+            "id": 18607,
+            "prompt": "Otro uso para el espagueti cocido"
+        },
+        {
+            "x": false,
+            "id": 18603,
+            "prompt": "Algo divertido para hacer con una compotera de budín"
+        },
+        {
+            "x": false,
+            "id": 18600,
+            "prompt": "Una mala primera línea para tu discurso de inauguración presidencial"
+        },
+        {
+            "x": false,
+            "id": 18598,
+            "prompt": "Lo que realmente pasa si quitas esa etiqueta del colchón"
+        },
+        {
+            "x": false,
+            "id": 18595,
+            "prompt": "El verdadero secreto para vivir hasta los 100 años"
+        },
+        {
+            "x": false,
+            "id": 18590,
+            "prompt": "El nombre de un champú para hippies"
+        },
+        {
+            "x": false,
+            "id": 18589,
+            "prompt": "Un nuevo nombre para los naranjos"
+        },
+        {
+            "x": false,
+            "id": 18583,
+            "prompt": "Algo que le gritarías a los delfines de Mundo Marino para molestarlos"
+        },
+        {
+            "x": false,
+            "id": 18580,
+            "prompt": "El peor nombre para una tienda \"grande y alta\""
+        },
+        {
+            "x": true,
+            "id": 18578,
+            "prompt": "Algo raro de encontrar en la mesita de noche de tus abuelos"
+        },
+        {
+            "x": false,
+            "id": 18575,
+            "prompt": "La peor forma para una galleta de animales"
+        },
+        {
+            "x": false,
+            "id": 18573,
+            "prompt": "Una entrada de trabajo sorprendente en el currículum de Abraham Lincoln"
+        },
+        {
+            "x": false,
+            "id": 18571,
+            "prompt": "Lo primero que diría un cerdo si pudiera hablar"
+        },
+        {
+            "x": false,
+            "id": 18570,
+            "prompt": "Un terrible eslogan deportivo para cuando alguien encesta una pelota de baloncesto"
+        },
+        {
+            "x": false,
+            "id": 18566,
+            "prompt": "El peor material para hacer un muñeco de nieve"
+        },
+        {
+            "x": false,
+            "id": 18554,
+            "prompt": "El titular de las noticias de mañana: \"Los científicos se sorprenden al descubrir que <BLANK>\""
+        },
+        {
+            "x": false,
+            "id": 18553,
+            "prompt": "La peor pregunta que puede hacerse durante un tour por la Casa Blanca"
+        },
+        {
+            "x": false,
+            "id": 18548,
+            "prompt": "Un talento terrible para mostrar en el concurso Miss Universo"
+        },
+        {
+            "x": false,
+            "id": 18547,
+            "prompt": "La mejor manera de saber si alguien está muerto"
+        },
+        {
+            "x": false,
+            "id": 18545,
+            "prompt": "Un mal consejo para los recién graduados"
+        },
+        {
+            "x": false,
+            "id": 18542,
+            "prompt": "Una crítica enojada que le darías a este juego (Quiplash)"
+        },
+        {
+            "x": false,
+            "id": 18539,
+            "prompt": "Un color de crayón rechazado"
+        },
+        {
+            "x": false,
+            "id": 18536,
+            "prompt": "La peor cosa para llevar puesto en tu juicio"
+        },
+        {
+            "x": false,
+            "id": 18535,
+            "prompt": "Un grafiti que podrías encontrar en un jardín de infantes"
+        },
+        {
+            "x": true,
+            "id": 18533,
+            "prompt": "El nombre de un coctel para paisanos"
+        },
+        {
+            "x": false,
+            "id": 18530,
+            "prompt": "La primera señal de que eres viejo"
+        },
+        {
+            "x": false,
+            "id": 18527,
+            "prompt": "Donde van a parar los calcetines perdidos"
+        },
+        {
+            "x": false,
+            "id": 18525,
+            "prompt": "Una frase rechazada para uno de esos dulces de San Valentín"
+        },
+        {
+            "x": false,
+            "id": 18522,
+            "prompt": "Algo que resultaría en que te echen de un Wendy’s"
+        },
+        {
+            "x": false,
+            "id": 18510,
+            "prompt": "Un titular de celebridades que verdaderamente quisieras ver"
+        },
+        {
+            "x": false,
+            "id": 18504,
+            "prompt": "Lo que esperas que encuentre el Rover de Marte"
+        },
+        {
+            "x": false,
+            "id": 18485,
+            "prompt": "Una gran cosa para gritar antes de saltar de un avión"
+        },
+        {
+            "x": false,
+            "id": 18483,
+            "prompt": "En la televisión abierta debería transmitirse una serie de televisión sobre abogados que también son <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18480,
+            "prompt": "Algo a lo que el diablo le teme"
+        },
+        {
+            "x": true,
+            "id": 18479,
+            "prompt": "Lo que diría un mensaje de texto sexual de un perro"
+        },
+        {
+            "x": false,
+            "id": 18472,
+            "prompt": "Sería aterrador leer en un paquete de alimentos que diga: \"Puede contener trozos de <BLANK>\""
+        },
+        {
+            "x": false,
+            "id": 18468,
+            "prompt": "Un aterrador mensaje en una galleta de la fortuna"
+        },
+        {
+            "x": false,
+            "id": 18467,
+            "prompt": "Una propuesta de negocios tan loca que es brillante para proponer en <i>Negociando con tiburones</i>"
+        },
+        {
+            "x": false,
+            "id": 18452,
+            "prompt": "Un regalo que nadie querría: el <BLANK> del mes"
+        },
+        {
+            "x": false,
+            "id": 18428,
+            "prompt": "El título de un nuevo video de YouTube de un gato que seguramente se volvería viral"
+        },
+        {
+            "x": false,
+            "id": 18426,
+            "prompt": "Una forma única de escapar de la prisión"
+        },
+        {
+            "x": false,
+            "id": 18424,
+            "prompt": "El próximo producto que Matthew McConaughey avalaría"
+        },
+        {
+            "x": true,
+            "id": 18422,
+            "prompt": "Un sobrenombre poco conocido para Nueva Orleans"
+        },
+        {
+            "x": true,
+            "id": 18418,
+            "prompt": "El nombre de una versión del café con piernas con servicio masculino"
+        },
+        {
+            "x": true,
+            "id": 18417,
+            "prompt": "Dos personas de la historia que definitivamente deberían tener sexo"
+        },
+        {
+            "x": true,
+            "id": 18416,
+            "prompt": "La mejor manera de morir"
+        },
+        {
+            "x": false,
+            "id": 18415,
+            "prompt": "Un mal eslogan de campaña para un político"
+        },
+        {
+            "x": false,
+            "id": 18414,
+            "prompt": "Un mal lugar para que se estrelle tu nave espacial sería: El planeta <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18408,
+            "prompt": "Una broma divertida para engañar a tu médico"
+        },
+        {
+            "x": false,
+            "id": 18398,
+            "prompt": "La música de hoy necesita más <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18397,
+            "prompt": "Algo que te sorprendería ver salir de un grano que revientas"
+        },
+        {
+            "x": false,
+            "id": 18390,
+            "prompt": "La mejor pregunta para hacerle a Dios cuando te encuentres con él"
+        },
+        {
+            "x": false,
+            "id": 18385,
+            "prompt": "Termina esta oración: \"Cuando sea rico, mi mansión tendrá una habitación llamada la Habitación <BLANK>\""
+        },
+        {
+            "x": false,
+            "id": 18381,
+            "prompt": "Si al principio no tienes éxito..."
+        },
+        {
+            "x": false,
+            "id": 18377,
+            "prompt": "¿Qué tan lejos es demasiado lejos?"
+        },
+        {
+            "x": false,
+            "id": 18374,
+            "prompt": "Lo que le pasó a Amelia Earhart en realidad"
+        },
+        {
+            "x": false,
+            "id": 18371,
+            "prompt": "Con qué sueñan los robots"
+        },
+        {
+            "x": true,
+            "id": 18370,
+            "prompt": "Un gran nombre para tener en una identificación falsa"
+        },
+        {
+            "x": false,
+            "id": 18369,
+            "prompt": "El nombre de algo que le darías a un cerdo muy triste"
+        },
+        {
+            "x": false,
+            "id": 18363,
+            "prompt": "Todos podemos estar de acuerdo en que <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 18360,
+            "prompt": "Toma el nombre de cualquier presidente y conviértelo en algo inapropiado"
+        },
+        {
+            "x": false,
+            "id": 18355,
+            "prompt": "Algo que no deberías comprar en un sitio de compra-venta"
+        },
+        {
+            "x": false,
+            "id": 18352,
+            "prompt": "Una cosa mala que decirle a un policía mientras te escribe una multa por exceso de velocidad"
+        },
+        {
+            "x": false,
+            "id": 18348,
+            "prompt": "¿Qué nuevo sabor de malvavisco debería introducirse en los cereales?"
+        },
+        {
+            "x": false,
+            "id": 18345,
+            "prompt": "La canción perfecta para tararear en el baño"
+        },
+        {
+            "x": false,
+            "id": 18343,
+            "prompt": "Una palabra que nunca debe seguir a \"carne de\""
+        },
+        {
+            "x": false,
+            "id": 18338,
+            "prompt": "Algo actualmente legal que debería prohibirse"
+        },
+        {
+            "x": false,
+            "id": 18336,
+            "prompt": "Piensa en un nombre para una banda de rock compuesta completamente por patos bebé"
+        },
+        {
+            "x": false,
+            "id": 18318,
+            "prompt": "El primer mandamiento en la nueva religión que comenzaste"
+        },
+        {
+            "x": false,
+            "id": 18310,
+            "prompt": "Una manera más rápida de volver a casa desde la Tierra de Oz es chocar tres veces los tacones y decir <BLANK>."
+        },
+        {
+            "x": false,
+            "id": 18309,
+            "prompt": "Tres cosas son seguras en la vida: muerte, impuestos y <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18307,
+            "prompt": "Algo que se vuelve peor al agregarle queso"
+        },
+        {
+            "x": false,
+            "id": 18302,
+            "prompt": "El peor nombre para un campamento de verano"
+        },
+        {
+            "x": false,
+            "id": 18298,
+            "prompt": "La mejor manera de comenzar tu día"
+        },
+        {
+            "x": false,
+            "id": 18296,
+            "prompt": "Una buena mejora que podría hacérsele al Monte Rushmore"
+        },
+        {
+            "x": true,
+            "id": 18286,
+            "prompt": "El pensamiento menos sensual que puedes tener"
+        },
+        {
+            "x": true,
+            "id": 18282,
+            "prompt": "Algo malo para gritar durante misa"
+        },
+        {
+            "x": false,
+            "id": 18281,
+            "prompt": "Inventa una tradición navideña que seguramente se pondría de moda"
+        },
+        {
+            "x": false,
+            "id": 18280,
+            "prompt": "Un lema corto por el que todos deberían vivir"
+        },
+        {
+            "x": false,
+            "id": 18279,
+            "prompt": "Un regalo de cumpleaños que no deberías comprar para tu abuela"
+        },
+        {
+            "x": false,
+            "id": 18278,
+            "prompt": "¿Qué hora es?"
+        },
+        {
+            "x": true,
+            "id": 18273,
+            "prompt": "Un mal lugar para nadar desnudo"
+        },
+        {
+            "x": false,
+            "id": 18271,
+            "prompt": "Un invento de Thomas Edison que no prosperó"
+        },
+        {
+            "x": false,
+            "id": 18269,
+            "prompt": "Dato poco conocido: Un área secreta de la Casa Blanca es la sala <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18265,
+            "prompt": "El otro trabajo del Hada de los Dientes"
+        },
+        {
+            "x": false,
+            "id": 18263,
+            "prompt": "Una secuela de la pintura “Perros jugando al póquer”"
+        },
+        {
+            "x": false,
+            "id": 18260,
+            "prompt": "Un mal trabajo para que lo haga un robot"
+        },
+        {
+            "x": true,
+            "id": 18255,
+            "prompt": "Un nombre pegadizo para un banco de esperma"
+        },
+        {
+            "x": false,
+            "id": 18252,
+            "prompt": "Una buena señal de que tu casa está embrujada"
+        },
+        {
+            "x": false,
+            "id": 18250,
+            "prompt": "Hecho poco conocido: el gobierno permite que la mantequilla de maní contenga hasta un 10% de <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 18245,
+            "prompt": "Toma cualquier restaurante conocido y cambia ligeramente su nombre a algo inapropiado"
+        },
+        {
+            "x": true,
+            "id": 18243,
+            "prompt": "Solo hay una situación en la que asesinar es aceptable y es cuando <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 18241,
+            "prompt": "Lo que la Estatua de la Libertad esconde debajo de esa túnica"
+        },
+        {
+            "x": false,
+            "id": 18239,
+            "prompt": "Qué decir para evitar el servicio de jurado"
+        },
+        {
+            "x": false,
+            "id": 18236,
+            "prompt": "Un nombre rechazado para un barco en la flota naval de EE. UU.: el USS <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18232,
+            "prompt": "Un título rechazado para <i>El bueno, el malo y el feo</i> era <i>El bueno, el malo y el <BLANK></i>"
+        },
+        {
+            "x": false,
+            "id": 18225,
+            "prompt": "Algo que no funcionaría tan bien como esquís"
+        },
+        {
+            "x": false,
+            "id": 18224,
+            "prompt": "Ser enterrado vivo es malo. Peor es ser enterrado vivo con <BLANK>."
+        },
+        {
+            "x": false,
+            "id": 18218,
+            "prompt": "Una forma poco conocida de sacar chicle de tu cabello"
+        },
+        {
+            "x": false,
+            "id": 18216,
+            "prompt": "El récord mundial Guinness más impresionante para romper"
+        },
+        {
+            "x": false,
+            "id": 18210,
+            "prompt": "Los pantalones serían mucho mejores si <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18207,
+            "prompt": "La peor persona de la que recibir un baño de esponja"
+        },
+        {
+            "x": false,
+            "id": 18205,
+            "prompt": "Algo divertido que hacer si te quedas encerrado en un centro comercial durante la noche"
+        },
+        {
+            "x": false,
+            "id": 18200,
+            "prompt": "La gente no respetaría tanto a He-Man si, para ganar su poder, levantara su espada y gritara \"____________________\""
+        },
+        {
+            "x": true,
+            "id": 18198,
+            "prompt": "Un buen nombre para una pastelería erótica"
+        },
+        {
+            "x": false,
+            "id": 18197,
+            "prompt": "Lo peor que puedes decir cuando tratas de adoptar una mascota"
+        },
+        {
+            "x": false,
+            "id": 18189,
+            "prompt": "Una decoración de jardín que sin duda alguna enfurecería a los vecinos"
+        },
+        {
+            "x": true,
+            "id": 18176,
+            "prompt": "La peor persona para narrar el audiolibro de <i>Cincuenta sombras de grey</i>"
+        },
+        {
+            "x": false,
+            "id": 18172,
+            "prompt": "Algo de lo que probablemente encontrarás mucho en el refrigerador de Dios"
+        },
+        {
+            "x": false,
+            "id": 18167,
+            "prompt": "El nombre de un papel higiénico específicamente diseñado para la Reina de Inglaterra"
+        },
+        {
+            "x": false,
+            "id": 18163,
+            "prompt": "El peor secreto familiar que podría revelarse durante una cena"
+        },
+        {
+            "x": false,
+            "id": 18162,
+            "prompt": "Algo divertido para gritar mientras nace un bebé"
+        },
+        {
+            "x": false,
+            "id": 18160,
+            "prompt": "Una marca de agua embotellada vendida en la tierra de Oz"
+        },
+        {
+            "x": false,
+            "id": 18156,
+            "prompt": "Un nombre terrible para un gangster de 1930"
+        },
+        {
+            "x": true,
+            "id": 18153,
+            "prompt": "Algo que no debes susurrarle a tu abuela"
+        },
+        {
+            "x": true,
+            "id": 18152,
+            "prompt": "Inventa un nombre para una película porno muda de la década de 1920"
+        },
+        {
+            "x": false,
+            "id": 18150,
+            "prompt": "Un tema terrible para un baile de graduación"
+        },
+        {
+            "x": false,
+            "id": 18149,
+            "prompt": "Piensa en un nombre para una nueva cerveza comercializada para bebés"
+        },
+        {
+            "x": true,
+            "id": 18147,
+            "prompt": "La peor cosa que podría salir de un pastel de despedida de soltero"
+        },
+        {
+            "x": false,
+            "id": 18145,
+            "prompt": "Algo molesto que podrías decirle al encargado del cable mientras instala tu servicio de televisión"
+        },
+        {
+            "x": false,
+            "id": 18140,
+            "prompt": "El nombre de una tienda de ropa para duendes con sobrepeso"
+        },
+        {
+            "x": false,
+            "id": 18131,
+            "prompt": "Si Dios tiene sentido del humor, da la bienvenida a las personas al cielo diciendo: “<BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 18129,
+            "prompt": "Algo que no funcionaría bien como dip para papitas"
+        },
+        {
+            "x": false,
+            "id": 18128,
+            "prompt": "Nombra una nueva película protagonizada por una cabra parlante que es presidente de los Estados Unidos"
+        },
+        {
+            "x": false,
+            "id": 18127,
             "prompt": "Un nuevo sabor de helado que nadie pediría"
         },
         {
             "x": false,
-            "id": 68089,
-            "prompt": "¿Cuál es el mejor animal para protagonizar una película de guerra?"
+            "id": 18126,
+            "prompt": "Inventa una palabra que describa el sonido de tirarse un pedo dentro de un bol de macarrones con queso"
         },
         {
             "x": false,
-            "id": 68090,
-            "prompt": "Un tema horrible para una fiesta de disfraces"
+            "id": 18125,
+            "prompt": "El nombre de tu nueva empresa de plomería"
+        },
+        {
+            "x": false,
+            "id": 18124,
+            "prompt": "Crea un nombre de un libro para niños de alguien que odia a los niños"
+        },
+        {
+            "x": false,
+            "id": 18123,
+            "prompt": "Nombra una nueva banda de reggae compuesta completamente por pollos"
+        },
+        {
+            "x": false,
+            "id": 18122,
+            "prompt": "Un objeto que NO se encuentra en el bolso de Taylor Swift"
+        },
+        {
+            "x": false,
+            "id": 18121,
+            "prompt": "¿A qué saben los veganos?"
+        },
+        {
+            "x": false,
+            "id": 18120,
+            "prompt": "¿Quién soltó a los perros?"
+        },
+        {
+            "x": false,
+            "id": 18119,
+            "prompt": "La contraseña de Twitter de Ozzy Osbourne, probablemente"
+        },
+        {
+            "x": false,
+            "id": 18118,
+            "prompt": "Una cosa que nunca debes hacer en una primera cita"
+        },
+        {
+            "x": false,
+            "id": 18117,
+            "prompt": "Lo peor que puedes encontrar en tu burrito"
+        },
+        {
+            "x": false,
+            "id": 18116,
+            "prompt": "El nombre más vergonzoso para un perro"
+        },
+        {
+            "x": false,
+            "id": 18115,
+            "prompt": "Los nombres de cada uno de tus pezones"
+        },
+        {
+            "x": false,
+            "id": 18114,
+            "prompt": "El peor nombre para un robot"
+        },
+        {
+            "x": false,
+            "id": 18113,
+            "prompt": "El nombre de un nuevo perfume de Betty White"
+        },
+        {
+            "x": false,
+            "id": 18112,
+            "prompt": "A lo que huelen los eructos de John Goodman"
+        },
+        {
+            "x": false,
+            "id": 18111,
+            "prompt": "Lo más asqueroso que te pondrías en la boca por $18"
+        },
+        {
+            "x": false,
+            "id": 18110,
+            "prompt": "La última persona que considerarías invitar a tu fiesta de cumpleaños"
+        },
+        {
+            "x": false,
+            "id": 18109,
+            "prompt": "El peor título de trabajo que comienza con \"Asistente\""
+        },
+        {
+            "x": false,
+            "id": 18107,
+            "prompt": "Escriba un titular de periódico que realmente llame la atención de las personas"
+        },
+        {
+            "x": false,
+            "id": 18106,
+            "prompt": "Algo que sería divertido tirar de la Torre Eiffel"
+        },
+        {
+            "x": false,
+            "id": 18105,
+            "prompt": "¿De qué lugar crees que realmente proviene la carne que comes?"
+        },
+        {
+            "x": false,
+            "id": 18104,
+            "prompt": "Una broma divertida para hacerle al Papa"
+        },
+        {
+            "x": false,
+            "id": 18103,
+            "prompt": "Piensa en el nombre para un nuevo programa de televisión con la palabra “Nalgón” en él"
+        },
+        {
+            "x": false,
+            "id": 18102,
+            "prompt": "Un buen lugar para esconder mocos"
+        },
+        {
+            "x": false,
+            "id": 18101,
+            "prompt": "Nombra al octavo enanito, que fue removido en el último minuto"
         },
         {
             "x": true,
-            "id": 68091,
-            "prompt": "Lo último que le dirías al oído a tu cuñada"
+            "id": 18100,
+            "prompt": "Si no podemos permitirnos enterrarte o cremarte, ¿qué debemos hacer con tu cuerpo?"
         },
         {
             "x": false,
-            "id": 68092,
-            "prompt": "El peor nombre para un médico de cabecera"
+            "id": 18099,
+            "prompt": "Una buena manera de ser despedido"
         },
         {
             "x": false,
-            "id": 68093,
-            "prompt": "El último lugar del mundo en el que te darías un baño"
+            "id": 18098,
+            "prompt": "El nombre más presidencial que se te ocurra (que no sea el nombre de un presidente)"
+        },
+        {
+            "x": false,
+            "id": 18097,
+            "prompt": "Propón un nombre más atractivo y comercial para la Biblia"
+        },
+        {
+            "x": false,
+            "id": 18096,
+            "prompt": "Lo mejor para usar cuando no tienes papel higiénico"
+        },
+        {
+            "x": false,
+            "id": 18095,
+            "prompt": "Los tres ingredientes en el peor batido de la historia"
+        },
+        {
+            "x": false,
+            "id": 18094,
+            "prompt": "¿Dónde está el mejor lugar para esconderse de los monstruos en las sombras?"
         },
         {
             "x": true,
-            "id": 68094,
-            "prompt": "El bollo industrial más afrodisíaco que existe"
+            "id": 18093,
+            "prompt": "Piensa en el nombre para un nuevo coctel muy varonil"
         },
         {
             "x": false,
-            "id": 68095,
-            "prompt": "Lo mejor que puedes usar para quitarte un chicle del pelo"
+            "id": 18092,
+            "prompt": "Algo que nunca deberías decirle a tu madre"
         },
         {
             "x": false,
-            "id": 68096,
-            "prompt": "La última profesión que debería tener un robot"
+            "id": 18091,
+            "prompt": "El título que se te ocurriría si estuvieras escribiendo la canción de las Olimpiadas"
+        },
+        {
+            "x": false,
+            "id": 18090,
+            "prompt": "Algo que te sorprendería ver hacer a un burro"
+        },
+        {
+            "x": false,
+            "id": 18089,
+            "prompt": "¿Cuántos monos son demasiados monos?"
+        },
+        {
+            "x": false,
+            "id": 18088,
+            "prompt": "Algo que sería un terrible sombrero"
+        },
+        {
+            "x": false,
+            "id": 18087,
+            "prompt": "Nombra tu nueva peluquería"
+        },
+        {
+            "x": false,
+            "id": 18086,
+            "prompt": "El que piensas que es un ingrediente no publicitado en la mayoría de los perritos calientes"
+        },
+        {
+            "x": false,
+            "id": 18085,
+            "prompt": "Un uso alternativo para una banana"
+        },
+        {
+            "x": false,
+            "id": 18084,
+            "prompt": "Nombra la secuela de <i>Titanic</i> si hubiera una. <i>Titanic 2: <BLANK></i>"
+        },
+        {
+            "x": false,
+            "id": 18083,
+            "prompt": "Cambia el nombre de Winnie-the-Pooh a algo más apropiado/descriptivo"
+        },
+        {
+            "x": false,
+            "id": 18082,
+            "prompt": "La cosa que más te sorprendería que un dentista encuentre en tu boca"
+        },
+        {
+            "x": false,
+            "id": 18081,
+            "prompt": "Tal como las alitas de pollo o las croquetas de pollo, un nuevo aperitivo para tu entretenido restaurante temático sería: _____ de pollo"
+        },
+        {
+            "x": false,
+            "id": 18080,
+            "prompt": "Algo inapropiado para hacer en un cementerio"
+        },
+        {
+            "x": false,
+            "id": 18079,
+            "prompt": "Un nombre terrible para un payaso"
         },
         {
             "x": true,
-            "id": 68097,
-            "prompt": "Lo menos sexy en lo que puedes pensar"
+            "id": 18078,
+            "prompt": "Algo que nunca deberías meterte en el trasero"
         },
         {
             "x": false,
-            "id": 68098,
-            "prompt": "Algo que no debería estar hecho de carne"
+            "id": 18077,
+            "prompt": "La cerveza Miller Lite recaudaría mucho dinero si lanzaran una cerveza llamada Miller Lite _____"
         },
         {
             "x": false,
-            "id": 68099,
-            "prompt": "Una broma pesada que le gastarías al Papa"
+            "id": 18072,
+            "prompt": "OK... ¡como quieras! ¡¡¡¿DE QUÉ quieres hablar entonces?!!!"
+        },
+        {
+            "x": false,
+            "id": 18071,
+            "prompt": "El show de medio tiempo del Super Bowl de Katy Perry hubiera sido mejor con <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 18069,
+            "prompt": "Tu frase célebre si estuvieras en uno de esos programas de <i>Amas de Casa Reales</i>"
         },
         {
             "x": true,
-            "id": 68100,
-            "prompt": "Dos personajes históricos que deberían acostarse"
+            "id": 18065,
+            "prompt": "Una buena frase para gritar cada vez que terminas de hacer caca"
         },
         {
             "x": false,
-            "id": 68101,
-            "prompt": "Si no te sale a la primera, tienes que..."
+            "id": 18064,
+            "prompt": "Un buen nombre falso para usar cuando te registras en un hotel"
         },
         {
             "x": false,
-            "id": 68102,
-            "prompt": "El nombre que jamás le pondrías a tu gato"
-        },
-        {
-            "x": false,
-            "id": 68103,
-            "prompt": "A nadie le gustaría estar en el club de <BLANK>"
-        },
-        {
-            "x": false,
-            "id": 68104,
-            "prompt": "Lo mejor que puedes decir al tirarte de un avión"
-        },
-        {
-            "x": false,
-            "id": 68105,
-            "prompt": "La frase más inapropiada para una tarjeta de San Valentín"
-        },
-        {
-            "x": false,
-            "id": 68106,
-            "prompt": "Un grafiti que verías en una guardería"
-        },
-        {
-            "x": false,
-            "id": 68107,
-            "prompt": "El peor color para pintar el baño"
-        },
-        {
-            "x": false,
-            "id": 68108,
-            "prompt": "La noticia más esperada: \u201cLos científicos descubren que Marte está hecho de <BLANK>\u201d"
+            "id": 18061,
+            "prompt": "Una placa que un imbécil en un automóvil costoso colocaría"
         },
         {
             "x": true,
-            "id": 68109,
-            "prompt": "La peor canción que puede sonar mientras te desnudas para tu pareja"
-        },
-        {
-            "x": false,
-            "id": 68110,
-            "prompt": "Nunca se te olvidará tu primer o primera <BLANK>"
-        },
-        {
-            "x": false,
-            "id": 68112,
-            "prompt": "Pocos saben que el cuerpo humano se compone de un 80 % de <BLANK>"
-        },
-        {
-            "x": false,
-            "id": 68113,
-            "prompt": "Lo que tuitearía un cavernícola"
-        },
-        {
-            "x": false,
-            "id": 68114,
-            "prompt": "Lo que Chewbacca lleva gruñendo todos estos años"
-        },
-        {
-            "x": false,
-            "id": 68115,
-            "prompt": "Un uso alternativo para los chupa-chups"
-        },
-        {
-            "x": false,
-            "id": 68116,
-            "prompt": "Un comentario iracundo en la web de una tienda de animales"
-        },
-        {
-            "x": false,
-            "id": 68117,
-            "prompt": "El peor nombre para un rapero"
-        },
-        {
-            "x": false,
-            "id": 68118,
-            "prompt": "Un uso alternativo para la mayonesa"
-        },
-        {
-            "x": false,
-            "id": 68119,
-            "prompt": "La mejor forma de quitarle a alguien el hipo"
-        },
-        {
-            "x": false,
-            "id": 68120,
-            "prompt": "El último mensaje que esperarías recibir de una ouija"
-        },
-        {
-            "x": false,
-            "id": 68121,
-            "prompt": "El secreto mejor guardado de la ONU"
-        },
-        {
-            "x": false,
-            "id": 68122,
-            "prompt": "El undécimo mandamiento es \u201cNo te pondrás...\u201d"
+            "id": 18060,
+            "prompt": "Inventa el nombre de una película que está basada en la primera vez que tuviste sexo"
         },
         {
             "x": true,
-            "id": 68123,
-            "prompt": "Así se dice \u201cmierda\u201d en otros idiomas"
+            "id": 18057,
+            "prompt": "Un gran nombre para una playa nudista en Alaska"
         },
         {
             "x": false,
-            "id": 68124,
-            "prompt": "El nombre de una serie protagonizada por monjas locas de atar"
+            "id": 18056,
+            "prompt": "El nombre de un club de comedia canino con comediantes de stand-up cachorros"
         },
         {
             "x": false,
-            "id": 68125,
-            "prompt": "Lo que hará Justin Bieber cuando deje la música"
+            "id": 18055,
+            "prompt": "¿Qué acecha debajo de tu cama cuando duermes?"
         },
         {
             "x": false,
-            "id": 68126,
-            "prompt": "La mejor parte de ser tonto de remate"
+            "id": 18052,
+            "prompt": "Piensa en un nombre para la pose de yoga más difícil conocida por la humanidad"
         },
         {
             "x": false,
-            "id": 68127,
-            "prompt": "Lo que le quita el sueño a Papá Noel"
-        },
-        {
-            "x": false,
-            "id": 68128,
-            "prompt": "Lo segundo que dijo Neil Armstrong al pisar la Luna"
-        },
-        {
-            "x": false,
-            "id": 68129,
-            "prompt": "El peor sustituto para un cepillo de dientes"
-        },
-        {
-            "x": false,
-            "id": 68130,
-            "prompt": "Lo peor que puedes hacer con un polvorón"
-        },
-        {
-            "x": false,
-            "id": 68131,
-            "prompt": "Lo más raro que encontraron en la tumba de Tutankamón"
-        },
-        {
-            "x": false,
-            "id": 68132,
-            "prompt": "La temática más extraña para una guardería"
-        },
-        {
-            "x": false,
-            "id": 68133,
-            "prompt": "Cuatro de cada cinco dentistas recomiendan <BLANK>"
+            "id": 18050,
+            "prompt": "Un lugar al que no debe ir un dedo"
         },
         {
             "x": true,
-            "id": 68134,
-            "prompt": "El nombre de una marca de cereales para adultos"
-        },
-        {
-            "x": false,
-            "id": 68135,
-            "prompt": "Lo peor que puede decir tu cirujano durante la operación"
-        },
-        {
-            "x": false,
-            "id": 68136,
-            "prompt": "El nombre más inapropiado para una funeraria"
-        },
-        {
-            "x": false,
-            "id": 68137,
-            "prompt": "Un buen motivo para boxear con un canguro"
-        },
-        {
-            "x": false,
-            "id": 68138,
-            "prompt": "Lo peor que puedes hacer estando sonámbulo es <BLANK>"
+            "id": 18049,
+            "prompt": "El mejor lugar para enterrar todos estos cuerpos"
         },
         {
             "x": true,
-            "id": 68139,
-            "prompt": "El peor tema de conversación después de hacer el amor"
+            "id": 18048,
+            "prompt": "Un buen nombre artístico para un chimpancé stripper"
         },
         {
             "x": false,
-            "id": 68140,
-            "prompt": "Por tu seguridad, no comas media hora antes de <BLANK>"
+            "id": 18047,
+            "prompt": "El mejor piropo para solteros de edad avanzada"
         },
         {
             "x": false,
-            "id": 68141,
-            "prompt": "Algún día, los científicos descubrirán que el secreto de la eterna juventud es <BLANK>"
+            "id": 18045,
+            "prompt": "Dame una buena razón por la que no debería darte una nalgada ahora mismo"
         },
         {
             "x": false,
-            "id": 68142,
-            "prompt": "Lo mejor que puedes hacer en un día libre es <BLANK> doce horas seguidas"
+            "id": 18043,
+            "prompt": "La peor manera de escribir Misisipi"
         },
         {
             "x": false,
-            "id": 68143,
-            "prompt": "El nombre más extraño que se te ocurre para una dieta"
+            "id": 18041,
+            "prompt": "A veces, después de un día largo, solo necesitas <BLANK>"
         },
         {
             "x": false,
-            "id": 68144,
-            "prompt": "Lo que le da miedo al hombre del saco"
+            "id": 18040,
+            "prompt": "El terrible destino que le depara a Olaf el muñeco de nieve en la versión extendida de <i>Frozen</i>"
+        },
+        {
+            "x": true,
+            "id": 18037,
+            "prompt": "¿De dónde vienen los bebés?"
         },
         {
             "x": false,
-            "id": 68145,
-            "prompt": "Lo peor que le puedes llamar a un policía mientras te pone una multa"
+            "id": 18035,
+            "prompt": "Sabes que te espera un mal viaje en taxi cuando <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 18031,
+            "prompt": "Algo divertido en lo que pensar mientras tienes sexo mediocre"
+        },
+        {
+            "x": false,
+            "id": 18030,
+            "prompt": "Si te permitieran ponerle de nombre al bebé de otra persona cualquier locura, ¿cómo lo llamarías?"
+        },
+        {
+            "x": false,
+            "id": 18029,
+            "prompt": "La contraseña de Wi-Fi de Miley Cyrus, posiblemente"
+        },
+        {
+            "x": false,
+            "id": 18025,
+            "prompt": "Algo con lo que te gustaría llenar una piscina"
+        },
+        {
+            "x": false,
+            "id": 18023,
+            "prompt": "Una gran línea de apertura para comenzar una conversación con un extraño en una fiesta"
+        },
+        {
+            "x": false,
+            "id": 18021,
+            "prompt": "Lo peor con lo que podrías rellenar un colchón de cama"
+        },
+        {
+            "x": false,
+            "id": 18019,
+            "prompt": "Normalmente lleva bacón, lechuga y tomate, pero inventa un sándwich BLT que no querrías comer"
+        },
+        {
+            "x": false,
+            "id": 18017,
+            "prompt": "La mejor noticia que podrías recibir hoy"
+        },
+        {
+            "x": false,
+            "id": 18016,
+            "prompt": "Inventa unas vacaciones que creas que todos disfrutarían"
+        },
+        {
+            "x": false,
+            "id": 18014,
+            "prompt": "Algo que nunca deberías usar como bufanda"
+        },
+        {
+            "x": false,
+            "id": 18013,
+            "prompt": "Las peores palabras para decir en un discurso de un funeral"
+        },
+        {
+            "x": false,
+            "id": 18008,
+            "prompt": "Están Gryffindor, Ravenclaw, Slytherin, y Hufflepuff, ¿pero cuál es la casa de Hogwarts de la cuál pocos han oído?"
+        },
+        {
+            "x": false,
+            "id": 18007,
+            "prompt": "Un café de Starbucks que nunca debería existir"
+        },
+        {
+            "x": false,
+            "id": 17996,
+            "prompt": "Inventa una penalización de fútbol realmente mala que termine con \"Intencional\""
+        },
+        {
+            "x": false,
+            "id": 17992,
+            "prompt": "Un gran invento novedoso que termina en \"Automático\""
+        },
+        {
+            "x": false,
+            "id": 17991,
+            "prompt": "¿Qué les pasa a estos niños de hoy en día?"
+        },
+        {
+            "x": false,
+            "id": 17988,
+            "prompt": "¿Por qué está inclinada la Torre de Pisa?"
+        },
+        {
+            "x": false,
+            "id": 17986,
+            "prompt": "Inventa una serie de televisión muy mala que comience con “Bebé”"
+        },
+        {
+            "x": false,
+            "id": 17984,
+            "prompt": "Una excelente manera de pasar el rato en el trabajo"
+        },
+        {
+            "x": false,
+            "id": 17982,
+            "prompt": "Lo más difícil de ser Batman"
+        },
+        {
+            "x": false,
+            "id": 17980,
+            "prompt": "Usando solo dos palabras, un nuevo lema estatal para Texas"
+        },
+        {
+            "x": false,
+            "id": 17978,
+            "prompt": "La razón número 1 por la que los pingüinos no pueden volar"
+        },
+        {
+            "x": false,
+            "id": 17977,
+            "prompt": "Algo que no deberías llevar puesto para una entrevista de trabajo"
+        },
+        {
+            "x": false,
+            "id": 17975,
+            "prompt": "Algo que es peligroso hacer mientras conduces"
+        },
+        {
+            "x": false,
+            "id": 17973,
+            "prompt": "Algo que no deberías regalarle a tu media naranja para San Valentín"
+        },
+        {
+            "x": true,
+            "id": 17971,
+            "prompt": "La peor forma de ser asesinado"
+        },
+        {
+            "x": false,
+            "id": 17970,
+            "prompt": "Lo mejor de vivir en un iglú"
+        },
+        {
+            "x": true,
+            "id": 17969,
+            "prompt": "Piensa en un nombre para una cerveza hecha especialmente para monos"
+        },
+        {
+            "x": false,
+            "id": 17964,
+            "prompt": "Un nombre no muy aterrador para un pirata"
+        },
+        {
+            "x": false,
+            "id": 17961,
+            "prompt": "El nombre de una pizzería a la que nunca deberías pedirle una pizza"
+        },
+        {
+            "x": false,
+            "id": 17959,
+            "prompt": "¿Qué es lo primero que harías si pudieras viajar en el tiempo?"
+        },
+        {
+            "x": false,
+            "id": 17956,
+            "prompt": "El nombre del reno que Santa no eligió para tirar de su trineo"
+        },
+        {
+            "x": true,
+            "id": 17955,
+            "prompt": "Un mejor nombre para los testículos"
+        },
+        {
+            "x": true,
+            "id": 17954,
+            "prompt": "Inventa una palabra apta para toda la familia que puedas decir en lugar de una mala palabra real"
+        },
+        {
+            "x": false,
+            "id": 17953,
+            "prompt": "¿Qué harías si te dejaran sólo en la Casa Blanca durante una hora?"
+        },
+        {
+            "x": false,
+            "id": 17952,
+            "prompt": "Piensa en el nombre del libro que vendería un millón de copias, inmediatamente"
+        },
+        {
+            "x": false,
+            "id": 17951,
+            "prompt": "El mejor título para un nuevo himno nacional para Estados Unidos"
+        },
+        {
+            "x": false,
+            "id": 17950,
+            "prompt": "Lo mejor de ir a prisión"
+        },
+        {
+            "x": false,
+            "id": 17949,
+            "prompt": "¿Qué haría que el béisbol fuera más entretenido de ver?"
+        },
+        {
+            "x": false,
+            "id": 17948,
+            "prompt": "Una carrera de grado que no ves en muchas universidades"
+        },
+        {
+            "x": false,
+            "id": 17944,
+            "prompt": "Un dato poco conocido sobre Canadá"
+        },
+        {
+            "x": false,
+            "id": 17943,
+            "prompt": "La mejor manera de mantener el calor en una noche fría de invierno"
+        },
+        {
+            "x": false,
+            "id": 17942,
+            "prompt": "Inventa el nombre de un país que no existe"
+        },
+        {
+            "x": false,
+            "id": 17940,
+            "prompt": "La verdadera razón por la que murieron los dinosaurios"
+        },
+        {
+            "x": false,
+            "id": 17939,
+            "prompt": "Los científicos dicen que fue la erosión, pero todos sabemos que en realidad el Gran Cañón fue hecho por <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 17938,
+            "prompt": "Algo que nunca deberías colocar sobre una herida abierta"
+        },
+        {
+            "x": false,
+            "id": 17937,
+            "prompt": "El nombre de una fuente que nadie usaría"
+        },
+        {
+            "x": true,
+            "id": 17936,
+            "prompt": "Piensa un título para una versión para adultos de cualquier videojuego clásico"
+        },
+        {
+            "x": false,
+            "id": 17935,
+            "prompt": "Lo que quiso decir Frederick D. Roosevelt fue “A lo único que debemos temer es a <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 17934,
+            "prompt": "Un nombre terrible para un crucero"
+        },
+        {
+            "x": false,
+            "id": 17932,
+            "prompt": "¿Por qué sonríe la Mona Lisa?"
+        },
+        {
+            "x": true,
+            "id": 17930,
+            "prompt": "Piensa en un gran título para la próxima comedia sexual adolescente"
+        },
+        {
+            "x": false,
+            "id": 17929,
+            "prompt": "El crimen que cometerías si pudieras salirte con la tuya"
+        },
+        {
+            "x": false,
+            "id": 17928,
+            "prompt": "Algo que las ardillas probablemente hacen cuando nadie las ve"
+        },
+        {
+            "x": false,
+            "id": 17927,
+            "prompt": "Ponle nombre a un drama de televisión sobre un médico vampiro"
+        },
+        {
+            "x": false,
+            "id": 17926,
+            "prompt": "Un nombre para una marca de pañales para adultos"
+        },
+        {
+            "x": false,
+            "id": 17925,
+            "prompt": "¿Qué está causando el calentamiento global?"
+        },
+        {
+            "x": false,
+            "id": 17923,
+            "prompt": "Lo primero que harías después de ganar la lotería"
+        },
+        {
+            "x": false,
+            "id": 17922,
+            "prompt": "Un nombre para un musical de Broadway muy malo"
+        },
+        {
+            "x": false,
+            "id": 17921,
+            "prompt": "En tu noche de bodas, sería horrible descubrir que la persona con la que estás casado es <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 17920,
+            "prompt": "El sabor de confites que por nada no llegó a ser lanzado"
+        },
+        {
+            "x": false,
+            "id": 17919,
+            "prompt": "La peor cosa en la que una bruja malvada te podría convertir"
+        },
+        {
+            "x": false,
+            "id": 17917,
+            "prompt": "Las últimas palabras REALES de Jesús"
+        },
+        {
+            "x": false,
+            "id": 17916,
+            "prompt": "El mayor inconveniente de vivir en el infierno"
+        },
+        {
+            "x": false,
+            "id": 17915,
+            "prompt": "Todos saben que los monos odian <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 17914,
+            "prompt": "Nunca deberías darle alcohol a <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 17913,
+            "prompt": "Nombra una fragancia de velas diseñada específicamente para Kim Kardashian"
+        },
+        {
+            "x": false,
+            "id": 17912,
+            "prompt": "Si al entrenador del equipo ganador le tiran Gatorade sobre su cabeza, ¿qué deberían tirarle al entrenador perdedor?"
+        },
+        {
+            "x": false,
+            "id": 17909,
+            "prompt": "El secreto de una vida feliz"
+        },
+        {
+            "x": false,
+            "id": 17908,
+            "prompt": "Nunca te subirías a una montaña rusa llamada <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 17906,
+            "prompt": "¿Qué dos palabras nunca querrían los pasajeros escuchar a un piloto decir?"
+        },
+        {
+            "x": false,
+            "id": 17905,
+            "prompt": "El peor nombre para un caballo de carreras"
+        },
+        {
+            "x": false,
+            "id": 17904,
+            "prompt": "Piensa en una secuela de tres palabras para el libro “Comer, rezar, amar”"
+        },
+        {
+            "x": false,
+            "id": 17903,
+            "prompt": "¿Qué tatuaje debería ser el próximo que se haga Justin Bieber?"
+        },
+        {
+            "x": false,
+            "id": 17902,
+            "prompt": "Una alternativa más ecológica al papel higiénico"
+        },
+        {
+            "x": false,
+            "id": 17900,
+            "prompt": "¿Con qué sueñan los gatitos?"
+        },
+        {
+            "x": false,
+            "id": 17897,
+            "prompt": "¿Qué hace que los perros calientes sepan tan bien?"
+        },
+        {
+            "x": true,
+            "id": 17895,
+            "prompt": "Lo que hacen los extraterrestres contigo después de la sonda anal"
+        },
+        {
+            "x": false,
+            "id": 17892,
+            "prompt": "Un mejor nombre para Francia"
+        },
+        {
+            "x": false,
+            "id": 17890,
+            "prompt": "Lo peor que puedes encontrar atascado entre tus dientes"
+        },
+        {
+            "x": false,
+            "id": 17888,
+            "prompt": "La peor excusa para llegar tarde al trabajo"
+        },
+        {
+            "x": false,
+            "id": 17887,
+            "prompt": "El poder especial de Superman que nunca le revela a nadie"
+        },
+        {
+            "x": false,
+            "id": 17885,
+            "prompt": "No querrías compartir una celda de prisión con alguien llamado <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 17882,
+            "prompt": "El lugar menos romántico para proponer matrimonio"
+        },
+        {
+            "x": false,
+            "id": 17880,
+            "prompt": "No deberías recibir un masaje en un lugar llamado <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 17878,
+            "prompt": "Cómo se le dice a los genitales de un pavo vegano"
+        },
+        {
+            "x": true,
+            "id": 17877,
+            "prompt": "Una marca para condones extra extra grandes"
         }
     ],
-    "episodeid": 1427
+    "episodeid": 1223
 }

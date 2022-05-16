@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "hoverboards|tablas flotantes|bolas flotantes",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Sí, y con todo ese revolotear no hacen ningún ejercicio. *suspiro* Este es el segway de hámster de nuevo.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Olvídate de las ruedas de hámster, los hámsteres modernos se mueven en <BLANK> de hámster",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "542803_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "542801_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

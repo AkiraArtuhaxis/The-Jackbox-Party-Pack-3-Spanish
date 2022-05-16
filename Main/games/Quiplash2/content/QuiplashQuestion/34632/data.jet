@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "El árbol que toma|El árbol que lo toma de vuelta",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Personalmente, me gusta un árbol que toma lo que quiere. No hay nada más atractivo que la confianza... ¿De qué hablábamos?",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una extraña secuela del libro para niños, <i>El árbol generoso<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "473532_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "473530_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

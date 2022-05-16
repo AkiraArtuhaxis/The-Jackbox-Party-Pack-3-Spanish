@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "orina|pis",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Oye, el fútbol no es un deporte acuático.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Lo que se debe arrojar al entrenador perdedor al final de un partido de fútbol",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "470523_2",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "470521_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

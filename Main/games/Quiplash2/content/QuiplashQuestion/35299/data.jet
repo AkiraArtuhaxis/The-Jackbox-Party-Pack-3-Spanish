@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu muerte|tu propia muerte|tú muriendo|tu muriendo|cómo vas a morir|como vas a morir",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Este dibujo a crayón de mi muerte sería útil si pudiera averiguar qué me estaba matando. ¿Es eso un cuchillo? ¿Un plátano raro? ¡Aprende a dibujar, niño!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Sabes que tienes un hijo con problemas cuando te da un dibujo a crayón de <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "477240_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "477238_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

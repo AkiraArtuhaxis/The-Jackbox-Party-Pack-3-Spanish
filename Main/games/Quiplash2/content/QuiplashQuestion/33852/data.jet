@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "el infierno",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Le voy a decir a Lily Tomlin que escribiste esto.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un título rechazado en la serie <i>El autobús mágico<\/i>: <i>El autobús mágico va a <BLANK><\/i>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "468469_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "468467_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

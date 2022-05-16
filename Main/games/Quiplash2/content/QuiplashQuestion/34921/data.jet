@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "vomitarás|vomitaras|lanzarás|lanzaras",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "\"Vomitarás en el callejón / Vomitarás en la ducha / Vomitarás en las flores premiadas de la Sra. Mulligan\" *suspiro* Esos eran los días.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Después de la secundaria, a los niños les dan el libro “Oh, los lugares a los que irás”. Después de la universidad, deberían darles “Oh, los lugares que <BLANK>”",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "475243_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "475241_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

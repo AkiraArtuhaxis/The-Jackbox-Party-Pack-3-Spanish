@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Inside Out|Intensamente|Intensa-Mente|Del Revés|Del Reves",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "¿Intensamente? Deberías ver a un doctor. Pero termina este juego primero.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué título de película describe mejor el estado de tu trasero en este momento?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "476904_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "476902_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

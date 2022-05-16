@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "ricos|los ricos|el 1%",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Bien, no ayudes a los ricos. Pero no acudas a ellos llorando cuando necesites un nombre para su nueva ala del museo.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El trabajo voluntario más inútil sería ayudar a <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "473328_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "473326_0",
+            "n": "PromptAudio"
+        }
+    ]
+}
