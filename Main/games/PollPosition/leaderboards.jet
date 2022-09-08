@@ -3,12 +3,12 @@
         {
             "id": "session",
             "name": "Estadísticas de la sesión",
-            "description": "Estadísticas de la sesión actual (Se reinician cuando cierras el juego.)"
+            "description": "Estadísticas de la sesión actual (Se reinician cuando cierras el juego)."
         },
         {
             "id": "twitch",
             "name": "Estadísticas de Twitch",
-            "description": "Estadísticas de juegos de Twitch (Se guardan aún cuando cierras el juego.)"
+            "description": "Estadísticas de partidas de Twitch (Se guardan aún cuando cierras el juego)."
         }
     ],
     "columns": [{
