@@ -95459,6 +95459,8 @@ veeduria
 veer
 vega
 vegada
+vegano
+vegana
 vegetabilidad
 vegetable
 vegetacion
@@ -193703,6 +193705,8 @@ veedurias
 veers
 vegas
 vegadas
+veganos
+veganas
 vegetabilidads
 vegetables
 vegetacions

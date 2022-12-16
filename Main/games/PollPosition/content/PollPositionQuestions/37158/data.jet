@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Qué porcentaje de personas, si se lo ofreciera un/a vampiro/a sexy, aprovecharían la oportunidad de convertirse en vampiros?",
+            "v": "¿Qué porcentaje de personas, si se lo ofreciera un/a vampiro/a sexi, aprovecharían la oportunidad de convertirse en vampiros?",
             "n": "QText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Un/a vampiro/a sexy te invita a convertirte en vampiro/a, ¡pero debes decidir ahora! ¿Te sumas?",
+            "v": "Un/a vampiro/a sexi te invita a convertirte en vampiro/a, ¡pero debes decidir ahora! ¿Te sumas?",
             "n": "PollQ"
         },
         {

@@ -327,7 +327,7 @@
         {
             "x": false,
             "id": 35700,
-            "category": "Elevadores",
+            "category": "Ascensores",
             "type": "mc"
         },
         {
@@ -1683,7 +1683,7 @@
         {
             "x": false,
             "id": 35908,
-            "category": "Apliaciones",
+            "category": "Aplicaciones",
             "type": "mc"
         },
         {
@@ -2169,7 +2169,7 @@
         {
             "x": false,
             "id": 35636,
-            "category": "Et",
+            "category": "ET",
             "type": "yn"
         },
         {
@@ -2295,7 +2295,7 @@
         {
             "x": false,
             "id": 37827,
-            "category": "LEGOS",
+            "category": "LEGOs",
             "type": "yn"
         },
         {
@@ -2955,7 +2955,7 @@
         {
             "x": true,
             "id": 36135,
-            "category": "Ropa interior sexy",
+            "category": "Ropa interior sexi",
             "type": "yn"
         },
         {

@@ -62,12 +62,12 @@
         },
         {
             "t": "S",
-            "v": "La mayoría de la gente dice que los músicos más sexys son los que tocan, ¿qué instrumento?",
+            "v": "La mayoría de la gente dice que los músicos más sexis son los que tocan, ¿qué instrumento?",
             "n": "QText"
         },
         {
             "t": "S",
-            "v": "¿Los músicos más sexys son los que tocan qué instrumento?",
+            "v": "¿Los músicos más sexis son los que tocan qué instrumento?",
             "n": "PollQ"
         },
         {

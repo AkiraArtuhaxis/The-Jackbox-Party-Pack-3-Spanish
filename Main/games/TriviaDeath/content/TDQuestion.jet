@@ -214,7 +214,7 @@
         {
             "x": false,
             "id": 41657,
-            "text": "¿Cuál fue el código de habitación que ingresaste para unirte a este juego?",
+            "text": "¿Cuál fue el código de sala que ingresaste para unirte a este juego?",
             "pic": false,
             "choices": [
                 {
@@ -5737,7 +5737,7 @@
         {
             "x": false,
             "id": 39833,
-            "text": "¿Qué tipo de pájaro está descansando en la fecha a mi izquierda?",
+            "text": "¿Qué tipo de pájaro se encuentra apoyado sobre mi cita, a mi izquierda?",
             "pic": true,
             "choices": [
                 {
@@ -11512,7 +11512,7 @@
         {
             "x": false,
             "id": 33888,
-            "text": "¿Viagra se desarrolló originalmente como un tratamiento para qué dolencia?",
+            "text": "¿La viagra se desarrolló originalmente como un tratamiento para qué dolencia?",
             "pic": false,
             "choices": [
                 {
@@ -15197,7 +15197,7 @@
                     "text": "Thor"
                 },
                 {
-                    "text": "Odin"
+                    "text": "Odín"
                 },
                 {
                     "correct": true,
