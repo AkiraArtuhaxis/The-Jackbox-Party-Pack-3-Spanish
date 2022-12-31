@@ -5,11 +5,11 @@
             "x": false,
             "h": false,
             "id": 40487,
-            "category":"lo último que han enviado a tu casa",
+            "category": "lo último que han enviado a tu casa",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"lo último que le diste a alguien como regalo",
+                    "v": "lo último que le diste a alguien como regalo",
                     "x": false,
                     "h": false,
                     "id": 0
@@ -21,7 +21,7 @@
                     "id": 1
                 },
                 {
-                    "v":"algo que has tirado por el inodoro pero que probablemente no deberías haber tirado",
+                    "v": "algo que has tirado por el inodoro pero que probablemente no deberías haber tirado",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -32,23 +32,23 @@
             "x": false,
             "h": false,
             "id": 40486,
-            "category":"una habilidad que desearías tener",
+            "category": "una habilidad que desearías tener",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una cosa en la que crees que eres excelente",
+                    "v": "una cosa en la que crees que eres excelente",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"algo por lo que has ganado un trofeo",
+                    "v": "algo por lo que has ganado un trofeo",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"algo que nunca debe hacerse desnudo",
+                    "v": "algo que nunca debe hacerse desnudo",
                     "x": true,
                     "h": false,
                     "id": 2
@@ -59,17 +59,17 @@
             "x": false,
             "h": false,
             "id": 40485,
-            "category":"un animal que te asusta",
+            "category": "un animal que te asusta",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"la comida más extraña que hayas comido",
+                    "v": "el animal más exótico que has comido",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"el tipo de animal más reciente del que compartiste/recibiste un lindo video",
+                    "v": "el tipo de animal más reciente del que compartiste/recibiste un lindo video",
                     "x": false,
                     "h": false,
                     "id": 1
@@ -80,17 +80,17 @@
             "x": false,
             "h": false,
             "id": 40482,
-            "category":"tu comida favorita para el desayuno",
+            "category": "tu comida favorita para el desayuno",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo en lo que te encantaría enrollarte",
+                    "v": "algo en lo que te encantaría enrollarte",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"algo que a una pareja potencial le debe encantar para que esté contigo",
+                    "v": "una comida que a una pareja potencial le debe encantar para que esté contigo",
                     "x": true,
                     "h": true,
                     "id": 1
@@ -101,17 +101,17 @@
             "x": false,
             "h": false,
             "id": 40479,
-            "category":"tu actividad al aire libre favorita",
+            "category": "tu actividad al aire libre favorita",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo vergonzoso para estar haciendo cuando mueres",
+                    "v": "algo vergonzoso para estar haciendo cuando mueres",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"algo divertido para hacer un sábado por la noche",
+                    "v": "algo divertido para hacer un sábado por la noche",
                     "x": false,
                     "h": false,
                     "id": 1
@@ -122,23 +122,23 @@
             "x": false,
             "h": false,
             "id": 40478,
-            "category":"un alimento por el que vale la pena pagar mucho dinero",
+            "category": "un alimento por el que vale la pena pagar mucho dinero",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un alimento que has vomitado",
+                    "v": "un alimento que has vomitado",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el último bocadillo que comiste",
+                    "v": "el último bocadillo que comiste",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"una comida que te da náuseas",
+                    "v": "una comida que te da náuseas",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -149,17 +149,17 @@
             "x": false,
             "h": false,
             "id": 40477,
-            "category":"un buen elemento para tener en un refugio antinuclear",
+            "category": "un buen elemento para tener en un refugio antinuclear",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"tu última compra impulsiva",
+                    "v": "tu última compra impulsiva",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un regalo que recibiste en tu último cumpleaños",
+                    "v": "un regalo que recibiste en tu último cumpleaños",
                     "x": false,
                     "h": false,
                     "id": 1
@@ -170,23 +170,23 @@
             "x": true,
             "h": false,
             "id": 40476,
-            "category":"algo que gritarías mientras haces el amor",
+            "category": "algo que gritarías mientras haces el amor",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo que dirías en la iglesia",
+                    "v": "algo que dirías en la iglesia",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"la frase más común que escribes",
+                    "v": "la frase más común que escribes",
                     "x": true,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"lo que le gritas a la televisión durante un partido de fútbol",
+                    "v": "lo que le gritas a la televisión durante un partido de fútbol",
                     "x": true,
                     "h": true,
                     "id": 2
@@ -197,23 +197,23 @@
             "x": false,
             "h": false,
             "id": 40475,
-            "category":"un instrumento que te gustaría tocar",
+            "category": "un instrumento que te gustaría tocar",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un instrumento que nadie se ve bien tocando",
+                    "v": "un instrumento que nadie se ve bien tocando",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un instrumento que al menos puedes tocar",
+                    "v": "un instrumento que al menos puedes tocar",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un instrumento en Pedro y el lobo",
+                    "v": "un instrumento en Pedro y el lobo",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -224,17 +224,17 @@
             "x": false,
             "h": false,
             "id": 40408,
-            "category":"una película que veías mucho cuando eras más joven",
+            "category": "una película que veías mucho cuando eras más joven",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una película que verías para ayudarte a ser romántico",
+                    "v": "una película que verías para ayudarte a ser romántico",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"una película que citas todo el tiempo",
+                    "v": "una película que citas todo el tiempo",
                     "x": false,
                     "h": false,
                     "id": 1
@@ -245,17 +245,17 @@
             "x": false,
             "h": false,
             "id": 40407,
-            "category":"el nombre de la calle en la que vives",
+            "category": "el nombre de la calle donde se encuentra el lugar al que más disfrutas ir",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el peor nombre que has escuchado que alguien le haya dado a su hijo/a",
+                    "v": "el nombre de la calle donde se encuentra tu escuela o lugar de trabajo",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"el apellido de tu cantante favorito/a",
+                    "v": "una calle de tu ciudad que tiene mucho tráfico",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -266,41 +266,41 @@
             "x": false,
             "h": false,
             "id": 40405,
-            "category":"el trabajo que querías cuando eras niño/a",
+            "category": "el trabajo que querías cuando eras niño/a",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un trabajo lucrativo",
+                    "v": "un trabajo lucrativo",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un buen trabajo si quieres postularte para un cargo",
+                    "v": "un buen trabajo si quieres postularte para un cargo",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un trabajo peligroso",
+                    "v": "un trabajo peligroso",
                     "x": false,
                     "h": true,
                     "id": 2
                 },
                 {
-                    "v":"un trabajo que no existirá en 100 años",
+                    "v": "un trabajo que no existirá en 100 años",
                     "x": false,
                     "h": false,
                     "id": 3
                 },
                 {
-                    "v":"tu segunda elección profesional",
+                    "v": "tu segunda elección de carrera profesional",
                     "x": false,
                     "h": false,
                     "id": 4
                 },
                 {
-                    "v":"un trabajo que tus padres desearían que tuvieras",
+                    "v": "un trabajo que tus padres desearían que tuvieras",
                     "x": false,
                     "h": false,
                     "id": 5
@@ -311,35 +311,35 @@
             "x": false,
             "h": false,
             "id": 40404,
-            "category":"una revista que siempre ves en el consultorio de tu médico",
+            "category": "una revista que siempre ves en el consultorio de tu médico",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una revista a la que deseas suscribirte",
+                    "v": "una revista a la que deseas suscribirte",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"una revista que lee tu mamá",
+                    "v": "una revista que lee tu mamá",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"tu revista favorita cuando eras niño/a",
+                    "v": "la última revista que has leído",
                     "x": false,
                     "h": true,
                     "id": 2
                 },
                 {
-                    "v":"una revista que te sorprende que todavía exista",
+                    "v": "una revista que te sorprende que todavía exista",
                     "x": false,
                     "h": false,
                     "id": 3
                 },
                 {
-                    "v":"una revista que comprarías \u201csolo por las fotos\u201d ",
+                    "v": "una revista que comprarías “solo por las fotos” ",
                     "x": true,
                     "h": true,
                     "id": 4
@@ -350,17 +350,17 @@
             "x": false,
             "h": false,
             "id": 40394,
-            "category":"tu primer auto",
+            "category": "tu primer auto",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un auto realmente patético",
+                    "v": "un auto realmente patético",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el auto de tus sueños",
+                    "v": "el auto de tus sueños",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -371,17 +371,17 @@
             "x": false,
             "h": false,
             "id": 40385,
-            "category":"tu verdura favorita",
+            "category": "tu verdura favorita",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una fruta",
+                    "v": "la verdura que menos te gusta",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"una comida que te gusta conseguir en el estadio de béisbol",
+                    "v": "una verdura que cultivarías en tu jardín",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -392,29 +392,29 @@
             "x": true,
             "h": false,
             "id": 40381,
-            "category":"un eufemismo para el sexo",
+            "category": "un eufemismo para el sexo",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"tu canción favorita de los 80'",
+                    "v": "tu canción favorita de los 80'",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un apodo para un home run",
+                    "v": "un apodo para un home run",
                     "x": true,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"probablemente un movimiento de lucha libre",
+                    "v": "probablemente un movimiento de lucha libre",
                     "x": true,
                     "h": false,
                     "id": 2
                 },
                 {
-                    "v":"tu estilo de baile",
+                    "v": "tu estilo de baile",
                     "x": true,
                     "h": true,
                     "id": 3
@@ -425,23 +425,23 @@
             "x": false,
             "h": false,
             "id": 40376,
-            "category":"un país que deseas visitar",
+            "category": "un país que deseas visitar",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un país que te da miedo visitar",
+                    "v": "un país que te da miedo visitar",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el país que visitaste más recientemente",
+                    "v": "el país que visitaste más recientemente",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"un país de Europa",
+                    "v": "un país de Europa",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -452,17 +452,17 @@
             "x": false,
             "h": false,
             "id": 40372,
-            "category":"tu deporte olímpico favorito",
+            "category": "tu deporte olímpico favorito",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un deporte que jugabas en la escuela secundaria",
+                    "v": "un deporte que jugabas en la escuela secundaria",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"una divertida actividad familiar",
+                    "v": "un deporte divertido para jugar en familia",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -473,17 +473,17 @@
             "x": false,
             "h": false,
             "id": 40367,
-            "category":"el color principal de la camisa/blusa que estás usando en este momento",
+            "category": "el color principal de la camisa/blusa que estás usando en este momento",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el color de ojos más sexy",
+                    "v": "el color de ojos más sexi",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un color que describe tu estado de ánimo en este momento",
+                    "v": "un color que describe tu estado de ánimo en este momento",
                     "x": false,
                     "h": false,
                     "id": 1
@@ -494,17 +494,17 @@
             "x": true,
             "h": false,
             "id": 40362,
-            "category":"un hábito que encuentras muy atractivo en una pareja",
+            "category": "un hábito que encuentras muy atractivo en una pareja",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo bueno sobre ti",
+                    "v": "algo bueno sobre ti",
                     "x": true,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un superpoder que desearías tener",
+                    "v": "un superpoder que desearías tener",
                     "x": true,
                     "h": true,
                     "id": 1
@@ -515,23 +515,23 @@
             "x": false,
             "h": false,
             "id": 40360,
-            "category":"tu segunda festividad favorita",
+            "category": "tu segunda festividad favorita",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una época del año que no te gusta",
+                    "v": "una época del año que no te gusta",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"la época más romántica del año",
+                    "v": "la época más romántica del año",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un día festivo que NO sabrías decir con seguridad en qué mes es",
+                    "v": "un día festivo que NO sabrías decir con seguridad en qué mes es",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -542,23 +542,23 @@
             "x": false,
             "h": false,
             "id": 40359,
-            "category":"un mensaje de texto que enviaste esta semana",
+            "category": "un mensaje de texto que enviaste esta semana",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"palabras impresas en una camiseta tuya",
+                    "v": "palabras impresas en una camiseta tuya",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un podcast que escuchas",
+                    "v": "un podcast que escuchas",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"algo que podrían decir tus abuelos",
+                    "v": "algo que podrían decir tus abuelos",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -569,23 +569,23 @@
             "x": false,
             "h": false,
             "id": 40357,
-            "category":"algo que podrías gritar cuando estás enojado/a y en el tráfico",
+            "category": "algo que podrías gritar cuando estás enojado/a y en el tráfico",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo que podrías gritar durante el sexo",
+                    "v": "algo que podrías gritar durante el sexo",
                     "x": true,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"algo que quieres decirle a tu jefe",
+                    "v": "algo que quieres decirle a tu jefe",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"el último comentario que hiciste en Internet",
+                    "v": "el último comentario que hiciste en el Internet",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -596,23 +596,23 @@
             "x": false,
             "h": false,
             "id": 40354,
-            "category":"la red de televisión que más ves",
+            "category": "la red de televisión que más ves",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"de donde obtienes la mayoría de tus noticias",
+                    "v": "el primer canal de televisión que recuerdas haber visto",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"si tuvieras tu propio programa de televisión, el canal en el que probablemente estaría",
+                    "v": "si tuvieras tu propio programa de televisión, el canal en el que probablemente estaría",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un canal de televisión por el que preferirías NO pagar",
+                    "v": "un canal de televisión por el que preferirías NO pagar",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -623,17 +623,17 @@
             "x": false,
             "h": false,
             "id": 40353,
-            "category":"una vela aromática que disfrutarías",
+            "category": "el nombre artístico que tendrías si fueras cantante",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"tu color de crayón favorito",
+                    "v": "el nombre artístico que tendrías si fueras drag queen",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el nombre artístico que tuvieses si fueras un/a bailarin/a exótico/a",
+                    "v": "el nombre artístico que tuvieses si fueras un bailarín exótico",
                     "x": true,
                     "h": true,
                     "id": 1
@@ -644,23 +644,23 @@
             "x": false,
             "h": false,
             "id": 40351,
-            "category":"un personaje de película que te parece realmente espeluznante",
+            "category": "un personaje de película que te parece realmente espeluznante",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un tatuaje que quieres hacerte",
+                    "v": "un tatuaje que quieres hacerte",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un póster que tenías en tu habitación cuando eras niño/a",
+                    "v": "un póster que tenías en tu habitación cuando eras niño/a",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"una persona a la que te han dicho que te pareces",
+                    "v": "una persona a la que te han dicho que te pareces",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -671,11 +671,11 @@
             "x": false,
             "h": false,
             "id": 40350,
-            "category":"una letra de música que te guste",
+            "category": "una letra de música que te guste",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo que dirías para ponerte romántico",
+                    "v": "algo que dirías para ponerte romántico",
                     "x": true,
                     "h": true,
                     "id": 0
@@ -686,23 +686,23 @@
             "x": false,
             "h": false,
             "id": 40349,
-            "category":"el nombre de alguien en esta sala",
+            "category": "el nombre de un amigo/a que tengas",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"alguien que te parezca atractivo",
+                    "v": "alguien que te parezca atractivo",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"alguien a quien has visto desnudo",
+                    "v": "alguien a quien has visto desnudo",
                     "x": true,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"alguien con una gran voz para cantar",
+                    "v": "alguien con una gran voz para cantar",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -713,23 +713,23 @@
             "x": false,
             "h": false,
             "id": 40985,
-            "category":"tu mes favorito",
+            "category": "tu mes favorito",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el mes más romántico",
+                    "v": "el mes más romántico",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el mejor mes para tomarse unas vacaciones",
+                    "v": "el mejor mes para tomarse unas vacaciones",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un mes que NO termina en \u201ce\u201d u \u201co\u201d",
+                    "v": "un mes que NO termina en “o”",
                     "x": false,
                     "h": true,
                     "id": 2
@@ -740,17 +740,17 @@
             "x": true,
             "h": false,
             "id": 40987,
-            "category":"tu tipo de comida extranjera favorita",
+            "category": "la nacionalidad de alguien que te gustaría conocer",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un idioma que crees que sería el más difícil de aprender",
+                    "v": "un idioma que crees que sería el más difícil de aprender",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"la nacionalidad del auto en el que más recientemente ha estado",
+                    "v": "la nacionalidad del auto en el que más recientemente has estado",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -761,35 +761,35 @@
             "x": false,
             "h": false,
             "id": 40989,
-            "category":"tu segundo ingrediente de pizza favorito",
+            "category": "tu segundo ingrediente de pizza favorito",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo que siempre tienes en tu refrigerador",
+                    "v": "algo que siempre tienes en tu refrigerador",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"a qué huele el interior de tu auto",
+                    "v": "a lo que huele el interior de tu auto",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un alimento que consumes con frecuencia cuando estás enfermo/a",
+                    "v": "un alimento que consumes con frecuencia cuando estás enfermo/a",
                     "x": false,
                     "h": true,
                     "id": 2
                 },
                 {
-                    "v":"un alimento que consumes mucho cuando te sientes deprimido/a",
+                    "v": "un alimento que consumes mucho cuando te sientes deprimido/a",
                     "x": true,
                     "h": false,
                     "id": 3
                 },
                 {
-                    "v":"el nombre de un alimento que es divertido decir en voz alta",
+                    "v": "el nombre de un alimento que es divertido decir en voz alta",
                     "x": false,
                     "h": false,
                     "id": 4
@@ -800,29 +800,29 @@
             "x": false,
             "h": false,
             "id": 40990,
-            "category":"un tipo de ejercicio que odias hacer",
+            "category": "un tipo de ejercicio que odias hacer",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algo bueno que puedes hacer cuando estás aburrido/a",
+                    "v": "algo bueno que puedes hacer cuando estás aburrido/a",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"una actividad divertida que hiciste en una primera cita",
+                    "v": "una actividad divertida que hiciste en una primera cita",
                     "x": true,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"tu forma preferida de deshacerte del hipo",
+                    "v": "tu forma preferida de deshacerte del hipo",
                     "x": false,
                     "h": false,
                     "id": 2
                 },
                 {
-                    "v":"algo que preferirías estar haciendo ahora mismo",
+                    "v": "algo que preferirías estar haciendo ahora mismo",
                     "x": false,
                     "h": false,
                     "id": 3
@@ -833,35 +833,35 @@
             "x": true,
             "h": false,
             "id": 40991,
-            "category":"la edad que tenías cuando tuviste tu primer beso",
+            "category": "la edad que tenías cuando tuviste tu primer beso",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"la cantidad de pares de zapatos que posees",
+                    "v": "la cantidad de pares de zapatos que posees",
                     "x": true,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"la cantidad de pares de ropa interior con agujeros que posees",
+                    "v": "la cantidad de pares de ropa interior con agujeros que posees",
                     "x": true,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"la cantidad de kilometros que puedes correr ahora mismo",
+                    "v": "la cantidad de kilometros que puedes correr ahora mismo",
                     "x": true,
                     "h": true,
                     "id": 2
                 },
                 {
-                    "v":"el número de hermanos que tienes",
+                    "v": "el número de hermanos que tienes",
                     "x": true,
                     "h": true,
                     "id": 3
                 },
                 {
-                    "v":"la que crees que debería ser la edad legal para beber",
+                    "v": "la que crees que debería ser la edad legal para beber",
                     "x": true,
                     "h": false,
                     "id": 4
@@ -872,23 +872,23 @@
             "x": false,
             "h": false,
             "id": 40992,
-            "category":"un programa de televisión del que todo el mundo habla pero que NO has visto",
+            "category": "un programa de televisión del que todo el mundo habla pero que NO has visto",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el programa de televisión que más se parece a tu vida",
+                    "v": "el programa de televisión que más se parece a tu vida",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un programa de televisión que te encanta",
+                    "v": "un programa de televisión que te encanta",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"un programa de televisión que debería convertirse en una película",
+                    "v": "un programa de televisión que debería convertirse en una película",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -899,11 +899,11 @@
             "x": false,
             "h": false,
             "id": 40348,
-            "category":"una cadena de restaurantes que te gusta",
+            "category": "un lugar o sitio para ir a comer",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"algún lugar al que te gustaría llevar a una cita",
+                    "v": "algún lugar al que te gustaría llevar a una cita",
                     "x": false,
                     "h": true,
                     "id": 0
@@ -914,23 +914,23 @@
             "x": false,
             "h": false,
             "id": 40347,
-            "category":"un programa de televisión que crees que es el peor",
+            "category": "un programa de televisión que crees que es el peor",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un programa de televisión que es malo, pero de todos modos te encanta",
+                    "v": "un programa de televisión que es malo, pero de todos modos te encanta",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un programa de televisión que a todo el mundo le encanta pero que tú NO has visto",
+                    "v": "un programa de televisión que a todo el mundo le encanta pero que tú NO has visto",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"algo que posees en DVD (o en medios digitales)",
+                    "v": "algo que posees en DVD (o en medios digitales)",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -941,23 +941,23 @@
             "x": false,
             "h": false,
             "id": 40346,
-            "category":"una canción que te deprime",
+            "category": "una canción que te deprime",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"tu canción de karaoke favorita",
+                    "v": "tu canción de karaoke favorita",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"una canción que quieres que suene en tu funeral",
+                    "v": "una canción que quieres que suene en tu funeral",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"una canción que es genial para besar",
+                    "v": "una canción que es genial para besar",
                     "x": true,
                     "h": true,
                     "id": 2
@@ -968,17 +968,17 @@
             "x": false,
             "h": false,
             "id": 40345,
-            "category":"tu primer trabajo",
+            "category": "tu primer trabajo",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un trabajo que nunca querrías tener",
+                    "v": "un trabajo que nunca querrías tener",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"lo que harías con tu tiempo si ganaras la lotería",
+                    "v": "lo que harías con tu tiempo si ganaras la lotería",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -989,17 +989,17 @@
             "x": false,
             "h": false,
             "id": 40344,
-            "category":"una tienda en la que frecuentemente compras",
+            "category": "una tienda en la que frecuentemente compras",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"la tienda donde compras tu ropa interior",
+                    "v": "la tienda donde compras tu ropa interior",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"una tienda en la que te intimida ir a comprar",
+                    "v": "una tienda en la que te intimida ir a comprar",
                     "x": false,
                     "h": true,
                     "id": 1
@@ -1010,23 +1010,23 @@
             "x": false,
             "h": false,
             "id": 40343,
-            "category":"un libro que amabas de niño/a",
+            "category": "un libro que amabas de niño/a",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el último libro que leíste",
+                    "v": "el último libro que leíste",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"un libro que se convirtió en una película increíble",
+                    "v": "un libro que se convirtió en una película increíble",
                     "x": false,
                     "h": true,
                     "id": 1
                 },
                 {
-                    "v":"un libro que realmente odias",
+                    "v": "un libro que realmente odias",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -1037,23 +1037,23 @@
             "x": false,
             "h": false,
             "id": 40341,
-            "category":"algo que comiste hoy",
+            "category": "algo que comiste hoy",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"lo que comerías en tu última comida",
+                    "v": "lo que comerías en tu última comida",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un alimento que normalmente se te antoja a altas horas de la noche",
+                    "v": "un alimento que normalmente se te antoja a altas horas de la noche",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"una comida que sería erótica para comer de otra persona",
+                    "v": "una comida que sería erótica para comer de otra persona",
                     "x": true,
                     "h": true,
                     "id": 2
@@ -1064,23 +1064,23 @@
             "x": true,
             "h": false,
             "id": 40305,
-            "category":"la mejor manera de terminar una cita",
+            "category": "la mejor manera de terminar una cita",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"el pasatiempo favorito de tus abuelos",
+                    "v": "el pasatiempo favorito de tus abuelos",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"tus planes para este fin de semana",
+                    "v": "tus planes para este fin de semana",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"algo que no haces en una primera cita",
+                    "v": "algo que no haces en una primera cita",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -1091,29 +1091,29 @@
             "x": false,
             "h": false,
             "id": 40297,
-            "category":"un nombre genial que desearías tener",
+            "category": "un nombre genial que desearías tener",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"tu segundo nombre",
+                    "v": "el nombre de tu profesor/a favorito/a",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un nombre que le darías a tu próxima mascota",
+                    "v": "un nombre que le darías a tu próxima mascota",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un nombre que te encantaría darle a un niño/a",
+                    "v": "un nombre que te encantaría darle a un niño/a",
                     "x": false,
                     "h": false,
                     "id": 2
                 },
                 {
-                    "v":"un nombre secreto que le darías a tus genitales",
+                    "v": "un nombre secreto que le darías a tus genitales",
                     "x": true,
                     "h": false,
                     "id": 3
@@ -1124,29 +1124,29 @@
             "x": false,
             "h": false,
             "id": 40288,
-            "category":"una celebridad",
+            "category": "una celebridad",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"una celebridad que conociste",
+                    "v": "una celebridad que conociste",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"una celebridad que no te gusta mucho",
+                    "v": "una celebridad que no te agrada mucho",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"alguien a quien crees que te pareces",
+                    "v": "alguien a quien crees que te pareces",
                     "x": false,
                     "h": true,
                     "id": 2
                 },
                 {
-                    "v":"una celebridad de la que imaginas que podrías ser un/a buen/a amigo/a si te conociera",
+                    "v": "una celebridad de la que imaginas que podrías ser un/a buen/a amigo/a si te conociera",
                     "x": false,
                     "h": false,
                     "id": 3
@@ -1157,23 +1157,23 @@
             "x": false,
             "h": false,
             "id": 40282,
-            "category":"un objeto que podrías usar para asesinar a alguien",
+            "category": "un objeto que podrías usar para asesinar a alguien",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un objeto actualmente en tu automóvil",
+                    "v": "un objeto actualmente en tu automóvil",
                     "x": false,
                     "h": false,
                     "id": 0
                 },
                 {
-                    "v":"el peor regalo que hayas dado",
+                    "v": "el peor regalo que hayas dado",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"algo en tu cocina",
+                    "v": "algo en tu cocina",
                     "x": false,
                     "h": false,
                     "id": 2
@@ -1184,29 +1184,29 @@
             "x": false,
             "h": false,
             "id": 40274,
-            "category":"un país que sabes cómo se escribe",
+            "category": "un país que sabes cómo se escribe",
             "type": "Input",
             "tasks": [
                 {
-                    "v":"un país en el que nunca has estado pero que te encantaría visitar",
+                    "v": "un país en el que nunca has estado pero que te encantaría visitar",
                     "x": false,
                     "h": true,
                     "id": 0
                 },
                 {
-                    "v":"un país que estarías muy nervioso/a de visitar",
+                    "v": "un país que estarías muy nervioso/a de visitar",
                     "x": false,
                     "h": false,
                     "id": 1
                 },
                 {
-                    "v":"un país en el que podrías vivir",
+                    "v": "un país en el que podrías vivir",
                     "x": false,
                     "h": false,
                     "id": 2
                 },
                 {
-                    "v":"un país del que no sabes nada",
+                    "v": "un país del que no sabes nada",
                     "x": false,
                     "h": true,
                     "id": 3

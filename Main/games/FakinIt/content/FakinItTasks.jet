@@ -124,7 +124,7 @@
             "x": false,
             "h": true,
             "id": 39945,
-            "category": "Apunta a la persona con más probabilidades de ganar <i>Jeopardy!</i>.",
+            "category": "Apunta a la persona con más probabilidades de ganar un programa de juegos.",
             "type": "Pointing"
         },
         {
@@ -236,7 +236,7 @@
             "x": false,
             "h": true,
             "id": 39975,
-            "category": "Apunta a la persona que es más probable que vaya a una feria del Renacimiento.",
+            "category": "Apunta a la persona que es más probable que vaya a una Comic-Con.",
             "type": "Pointing"
         },
         {
@@ -369,7 +369,7 @@
             "x": false,
             "h": true,
             "id": 40065,
-            "category": "Apunta a alguien que contratarías como patovica.",
+            "category": "Apunta a alguien que contratarías como guardaespaldas.",
             "type": "Pointing"
         },
         {
@@ -397,7 +397,7 @@
             "x": false,
             "h": false,
             "id": 40074,
-            "category": "Apunta a la persona que sospechas que es más difícil de enojar.",
+            "category": "Apunta a la persona que sospechas que es más difícil de hacerla enojar.",
             "type": "Pointing"
         },
         {
@@ -488,7 +488,7 @@
             "x": false,
             "h": true,
             "id": 40117,
-            "category": "Apunta al hablador más fluido.",
+            "category": "Apunta a quien sabe qué decir para conseguir lo que quiere.",
             "type": "Pointing"
         },
         {
@@ -523,7 +523,7 @@
             "x": true,
             "h": true,
             "id": 40128,
-            "category": "Apunta a la persona que más te gustaría ver intentando imitar a Kim Kardashian.",
+            "category": "Apunta a la persona que más te gustaría ver intentando imitar a Soraya Montenegro.",
             "type": "Pointing"
         },
         {
@@ -544,7 +544,7 @@
             "x": false,
             "h": false,
             "id": 39349,
-            "category": "Apunta a la persona que sería el/la mejor vampiro/a.",
+            "category": "Apunta a la persona que sería el/la mejor vampiro.",
             "type": "Pointing"
         },
         {
@@ -719,7 +719,7 @@
             "x": true,
             "h": true,
             "id": 39923,
-            "category": "Apunta a la persona que crees que es más probable que sea todo un/a pervertido/a.",
+            "category": "Apunta a la persona que crees que es más probable que sea la más pervertida.",
             "type": "Pointing"
         },
         {
@@ -768,7 +768,7 @@
             "x": false,
             "h": true,
             "id": 39930,
-            "category": "Apunta a la persona que se ve MÁS parecido a ti.",
+            "category": "Apunta a la persona que se ve MÁS parecida a ti.",
             "type": "Pointing"
         },
         {
@@ -789,7 +789,7 @@
             "x": false,
             "h": true,
             "id": 39933,
-            "category": "Apunta a alguien que tenga los ojos del mismo color que ti.",
+            "category": "Apunta a alguien que tenga los ojos del mismo color que tú.",
             "type": "Pointing"
         },
         {
@@ -852,7 +852,7 @@
             "x": false,
             "h": false,
             "id": 39710,
-            "category": "Levanta tantos dedos como tazas de café hayas tomado hoy.",
+            "category": "Levanta tantos dedos como tazas de café que hayas tomado hoy.",
             "type": "Counting"
         },
         {
@@ -950,21 +950,21 @@
             "x": true,
             "h": false,
             "id": 40035,
-            "category": "Levanta tantos dedos como números de citas necesarias antes de que crees que debería haber desnudez.",
+            "category": "Levanta tantos dedos como números de citas necesarias antes de que creas que debería haber desnudez.",
             "type": "Counting"
         },
         {
             "x": false,
             "h": false,
             "id": 40037,
-            "category": "Levanta tantos dedos como años crees que duró la Guerra Civil Estadounidense.",
+            "category": "Levanta tantos dedos como años crees que duró la Primera Guerra Mundial.",
             "type": "Counting"
         },
         {
             "x": true,
             "h": false,
             "id": 40039,
-            "category": "Levanta tantos dedos como veces hayas hecho el paseo de la vergüenza (salir de una residencia con la ropa de la noche anterior).",
+            "category": "Levanta tantos dedos como veces hayas hecho twerking.",
             "type": "Counting"
         },
         {
@@ -985,7 +985,7 @@
             "x": false,
             "h": false,
             "id": 40043,
-            "category": "Levanta tantos dedos como aderezos que normalmente pides en una pizza (ej aceitunas).",
+            "category": "Levanta tantos dedos como aderezos que normalmente le pones a un perro caliente (por ejemplo, kétchup).",
             "type": "Counting"
         },
         {
@@ -1034,7 +1034,7 @@
             "x": false,
             "h": true,
             "id": 40058,
-            "category": "Levanta tantos dedos como bolsillos tenga tu actual atuendo.",
+            "category": "Levanta tantos dedos como bolsillos tenga tu atuendo actual.",
             "type": "Counting"
         },
         {
@@ -1076,14 +1076,14 @@
             "x": false,
             "h": true,
             "id": 40139,
-            "category": "Levanta tantos dedos como miembros de Los Tres Chiflados que puedas nombrar.",
+            "category": "Levanta tantos dedos como miembros de El Chavo que puedas nombrar.",
             "type": "Counting"
         },
         {
             "x": false,
             "h": true,
             "id": 40142,
-            "category": "Levanta un número impar de dedos si tienes un ombligo exterior, un número par si tienes uno interior.",
+            "category": "Levanta un número impar de dedos si tienes un tatuaje, y un número par si no.",
             "type": "Counting"
         },
         {
@@ -1195,7 +1195,7 @@
             "x": false,
             "h": true,
             "id": 39751,
-            "category": "Levanta tantos dedos como desees en tu mano IZQUIERDA.",
+            "category": "Levanta tantos dedos como desees de tu mano IZQUIERDA.",
             "type": "Counting"
         },
         {
@@ -1223,7 +1223,7 @@
             "x": false,
             "h": true,
             "id": 39760,
-            "category": "Levanta tantos dedos como capas que estés usando actualmente.",
+            "category": "Levanta tantos dedos como capas de ropa que estés usando actualmente.",
             "type": "Counting"
         },
         {
@@ -1237,7 +1237,7 @@
             "x": false,
             "h": true,
             "id": 39763,
-            "category": "Levanta los dedos que representan la mitad de tu talla de zapato.",
+            "category": "Levanta tantos dedos como llaves que tengas.",
             "type": "Counting"
         },
         {
@@ -1272,14 +1272,14 @@
             "x": false,
             "h": false,
             "id": 39775,
-            "category": "Levanta tantos dedos como servicios de video pago que tengas (Netflix, Hulu, etc).",
+            "category": "Levanta tantos dedos como servicios de video pago que tengas (Netflix, Disney+, etc).",
             "type": "Counting"
         },
         {
             "x": false,
             "h": true,
             "id": 39777,
-            "category": "Levanta solo los dedos en los extremos.",
+            "category": "Levanta solo los dedos de los extremos.",
             "type": "Counting"
         },
         {
@@ -1356,7 +1356,7 @@
             "x": false,
             "h": true,
             "id": 39797,
-            "category": "Levanta el número de dedos que representa la altura de tu compañero ideal.",
+            "category": "Levanta el número de dedos que representa la altura de tu compañero/a ideal (siendo 1 bajito y 10 muy alto).",
             "type": "Counting"
         },
         {
@@ -1370,7 +1370,7 @@
             "x": false,
             "h": false,
             "id": 39799,
-            "category": "Levanta la cantidad de dedos que representa cuántas canciones de Weird Al podrías escuchar seguidas antes de enojarte.",
+            "category": "Levanta la cantidad de dedos que representa cuántas canciones infantiles seguidas podrías escuchar antes de enojarte.",
             "type": "Counting"
         },
         {
@@ -1426,7 +1426,7 @@
             "x": false,
             "h": false,
             "id": 39812,
-            "category": "Levanta tantos dedos como álbumes de Dave Matthews que hayas tenido.",
+            "category": "Levanta tantos dedos como álbumes de Alejandro Sergi que hayas escuchado.",
             "type": "Counting"
         },
         {
@@ -1440,7 +1440,7 @@
             "x": false,
             "h": false,
             "id": 39815,
-            "category": "Levanta tantos dedos como temporadas de <i>The Walking Dead</i> hayas visto.",
+            "category": "Levanta tantos dedos como temporadas de <i>The Walking Dead</i> que hayas visto.",
             "type": "Counting"
         },
         {
@@ -1531,21 +1531,21 @@
             "x": false,
             "h": false,
             "id": 39846,
-            "category": "Levanta tantos dedos como veces hayas visto la película <i>Sueño de fuga</i>.",
+            "category": "Levanta tantos dedos como veces que hayas visto la película <i>Sueño de fuga</i>.",
             "type": "Counting"
         },
         {
             "x": false,
             "h": true,
             "id": 39847,
-            "category": "Levanta el número de dedos que representa tu película favorita de <i>Star Wars</i>, por episodio el episodio IV es <i>Star Wars: Una nueva esperanza</i>, por ejemplo.",
+            "category": "Levanta el número de dedos que representa tu película favorita de <i>Star Wars</i>, por episodio. El episodio IV es <i>Star Wars: Una nueva esperanza</i>, por ejemplo.",
             "type": "Counting"
         },
         {
             "x": false,
             "h": false,
             "id": 39848,
-            "category": "Levanta tantos dedos como libros hayas leído en el último medio año.",
+            "category": "Levanta tantos dedos como libros que hayas leído en el último medio año.",
             "type": "Counting"
         },
         {
@@ -1559,7 +1559,7 @@
             "x": true,
             "h": false,
             "id": 39850,
-            "category": "Levanta tantos dedos como veces te hayan golpeado.",
+            "category": "Levanta tantos dedos como veces que te hayan golpeado.",
             "type": "Counting"
         },
         {
@@ -1615,7 +1615,7 @@
             "x": false,
             "h": false,
             "id": 39858,
-            "category": "Levanta tantos dedos como metros de altura que tengas.",
+            "category": "Levanta tantos dedos como personas en esta sala que sean más altas que tú.",
             "type": "Counting"
         },
         {
@@ -1636,7 +1636,7 @@
             "x": false,
             "h": false,
             "id": 39896,
-            "category": "Pon la cara que tendrías si vieras el Gran Cañón por primera vez.",
+            "category": "Pon la cara que tendrías si vieras la cordillera de los Andes por primera vez.",
             "type": "Faces"
         },
         {
@@ -1650,7 +1650,7 @@
             "x": true,
             "h": true,
             "id": 39202,
-            "category": "Levanta la mano si has visto a alguien desnudo en esta habitación.",
+            "category": "Levanta la mano si has visto a alguien de esta habitación desnudo.",
             "type": "Hands"
         },
         {
@@ -1734,14 +1734,14 @@
             "x": false,
             "h": false,
             "id": 39235,
-            "category": "Levanta la mano si tienes una cama de tamaño king.",
+            "category": "Levanta la mano si tienes una cama de dos plazas.",
             "type": "Hands"
         },
         {
             "x": false,
             "h": false,
             "id": 39236,
-            "category": "Levanta la mano si has cambiado una llanta pinchada.",
+            "category": "Levanta la mano si ha cambiado una llanta pinchada.",
             "type": "Hands"
         },
         {
@@ -1755,7 +1755,7 @@
             "x": true,
             "h": false,
             "id": 39243,
-            "category": "Levanta la mano si alguna vez se han bañado desnudos en una piscina/lago.",
+            "category": "Levanta la mano si alguna vez te has bañado desnudo en una piscina o lago.",
             "type": "Hands"
         },
         {
@@ -1818,7 +1818,7 @@
             "x": false,
             "h": false,
             "id": 39263,
-            "category": "Levanta la mano si tienes alergia alimentaria.",
+            "category": "Levanta la mano si eres alérgico/a a alguna comida.",
             "type": "Hands"
         },
         {
@@ -1860,7 +1860,7 @@
             "x": false,
             "h": false,
             "id": 39273,
-            "category": "Levanta la mano si alguna vez te tuvieron que coser en algun lado.",
+            "category": "Levanta la mano si alguna vez te tuvieron que coser en algún lado.",
             "type": "Hands"
         },
         {
@@ -1916,7 +1916,7 @@
             "x": true,
             "h": true,
             "id": 39299,
-            "category": "Levanta la mano si tienes una foto tuya desnuda en algún lugar.",
+            "category": "Levanta la mano si tienes una nude tuya en algún lado.",
             "type": "Hands"
         },
         {
@@ -1951,7 +1951,7 @@
             "x": false,
             "h": true,
             "id": 39307,
-            "category": "Levanta la mano si sabes quién es Andy Cohen.",
+            "category": "Levanta la mano si sabes quién es Anya Taylor-Joy.",
             "type": "Hands"
         },
         {
@@ -1986,7 +1986,7 @@
             "x": false,
             "h": false,
             "id": 39316,
-            "category": "Levanta la mano si has visto <i>Magnolias de acero</i>.",
+            "category": "Levanta la mano si has visto la película <i>Mujer bonita</i>.",
             "type": "Hands"
         },
         {
@@ -2028,7 +2028,7 @@
             "x": false,
             "h": false,
             "id": 39326,
-            "category": "Levanta la mano si NUNCA fuiste enviado/a a dirección en la escuela secundaria.",
+            "category": "Levanta la mano si NUNCA te han enviado a la dirección en la escuela secundaria.",
             "type": "Hands"
         },
         {
@@ -2077,7 +2077,7 @@
             "x": false,
             "h": false,
             "id": 39337,
-            "category": "Levanta la mano si leiste todos los libros de <i>Harry Potter</i>.",
+            "category": "Levanta la mano si leíste todos los libros de <i>Harry Potter</i>.",
             "type": "Hands"
         },
         {
@@ -2105,7 +2105,7 @@
             "x": false,
             "h": false,
             "id": 39356,
-            "category": "Levanta la mano si has sido asaltado/a.",
+            "category": "Levanta la mano si te han asaltado.",
             "type": "Hands"
         },
         {
@@ -2189,7 +2189,7 @@
             "x": true,
             "h": false,
             "id": 39391,
-            "category": "Levanta la mano si alguna vez has sido expulsado de un lugar (un evento, restaurante, etc).",
+            "category": "Levanta la mano si alguna vez te han expulsado de un lugar (un evento, restaurante, etc).",
             "type": "Hands"
         },
         {
@@ -2210,7 +2210,7 @@
             "x": false,
             "h": false,
             "id": 39402,
-            "category": "Levanta la mano si alguna vez has trabajado como niñera/o.",
+            "category": "Levanta la mano si alguna vez has trabajado como niñero/a.",
             "type": "Hands"
         },
         {
@@ -2245,7 +2245,7 @@
             "x": false,
             "h": false,
             "id": 39861,
-            "category": "Levanta la mano si has visto <i>Juego de Tronos</i>.",
+            "category": "Levanta la mano si has visto <i>Game of Thrones</i>.",
             "type": "Hands"
         },
         {
@@ -2490,14 +2490,14 @@
             "x": true,
             "h": true,
             "id": 39709,
-            "category": "Pon la cara luego de tener sexo.",
+            "category": "Pon tu cara luego de tener sexo.",
             "type": "Faces"
         },
         {
             "x": false,
             "h": true,
             "id": 39707,
-            "category": "Pon la cara que tenías al tomarte una foto de la escuela.",
+            "category": "Pon la cara que tenías al tomarte la foto escolar.",
             "type": "Faces"
         },
         {
@@ -2539,7 +2539,7 @@
             "x": true,
             "h": true,
             "id": 39692,
-            "category": "Pon la cara de Kardashian.",
+            "category": "Pon una cara de patito.",
             "type": "Faces"
         },
         {
@@ -2567,7 +2567,7 @@
             "x": false,
             "h": false,
             "id": 39685,
-            "category": "Pon la cara que harías si estuvieras en un concierto de Kid Rock.",
+            "category": "Pon la cara que harías si estuvieras en un concierto de Chayanne.",
             "type": "Faces"
         },
         {
@@ -2595,7 +2595,7 @@
             "x": false,
             "h": false,
             "id": 39667,
-            "category": "Pon la cara de intoxicación alimentaria.",
+            "category": "Pon la cara de intoxicación alimenticia.",
             "type": "Faces"
         },
         {
@@ -2623,7 +2623,7 @@
             "x": false,
             "h": false,
             "id": 39660,
-            "category": "Pon la cara de mago profesional.",
+            "category": "Pon tu cara de mago profesional.",
             "type": "Faces"
         },
         {
@@ -2637,14 +2637,14 @@
             "x": false,
             "h": false,
             "id": 39651,
-            "category": "Pon la cara de gángster.",
+            "category": "Pon tu cara de gángster.",
             "type": "Faces"
         },
         {
             "x": false,
             "h": false,
             "id": 39649,
-            "category": "Pon la cara que harías al escuchar a Howard Stern.",
+            "category": "Pon la cara que harías al escuchar al Papa Francisco.",
             "type": "Faces"
         },
         {
@@ -2686,7 +2686,7 @@
             "x": false,
             "h": true,
             "id": 39623,
-            "category": "Pon la cara que tendrías si estuvieras siendo auditado por la AFIP.",
+            "category": "Pon la cara que tendrías si fueras sujeto a una auditoría fiscal.",
             "type": "Faces"
         },
         {
@@ -2707,7 +2707,7 @@
             "x": false,
             "h": false,
             "id": 39614,
-            "category": "Pon la cara de Poker.",
+            "category": "Pon tu cara de Poker.",
             "type": "Faces"
         },
         {
@@ -2728,7 +2728,7 @@
             "x": true,
             "h": false,
             "id": 39610,
-            "category": "Pon la cara que tendrías si te quedases hablando con un idiota en una fiesta.",
+            "category": "Pon la cara que tendrías si te quedaras hablando con un idiota en una fiesta.",
             "type": "Faces"
         },
         {
@@ -2749,7 +2749,7 @@
             "x": false,
             "h": false,
             "id": 39603,
-            "category": "Pon la cara que tienes cuando ya lidiaste con ello.",
+            "category": "Pon la cara que tienes cuando estás harto de todo.",
             "type": "Faces"
         },
         {
@@ -2791,14 +2791,14 @@
             "x": false,
             "h": false,
             "id": 39590,
-            "category": "Pon la cara que tendrías si un compañero de trabajo comenzara a hablar sobre teorías de conspiración.",
+            "category": "Pon la cara que tendrías si un compañero de trabajo comenzara a hablar sobre teorías conspirativas.",
             "type": "Faces"
         },
         {
             "x": true,
             "h": true,
             "id": 39588,
-            "category": "Pon la cara que tendrías al ver nacer un bebé.",
+            "category": "Pon la cara que tendrías al observar el nacimiento de un bebé.",
             "type": "Faces"
         },
         {
@@ -2833,21 +2833,21 @@
             "x": false,
             "h": false,
             "id": 39576,
-            "category": "Pon la cara que tienes cuando estás leyendo <i>The New Yorker</i>.",
+            "category": "Pon la cara que tienes cuando estás leyendo la nueva <i>Cosmo</i>.",
             "type": "Faces"
         },
         {
             "x": false,
             "h": false,
             "id": 39574,
-            "category": "Pon tu cara en la pista de baile.",
+            "category": "Pon tu cara cuando estás en la pista de baile.",
             "type": "Faces"
         },
         {
             "x": false,
             "h": false,
             "id": 39572,
-            "category": "Pon la cara de “listo para la fiesta”.",
+            "category": "Pon tu cara de “listo para la fiesta”.",
             "type": "Faces"
         },
         {
@@ -2896,7 +2896,7 @@
             "x": true,
             "h": false,
             "id": 39556,
-            "category": "Pon la cara que tendrías en una pelea de UFC.",
+            "category": "Pon la cara que tendrías en una pelea de artes marciales.",
             "type": "Faces"
         },
         {
@@ -2931,14 +2931,14 @@
             "x": false,
             "h": false,
             "id": 39547,
-            "category": "Pon la cara que haces cuando te aguantas los pedos.",
+            "category": "Pon la cara que haces cuando te aguantas tus pedos.",
             "type": "Faces"
         },
         {
             "x": false,
             "h": true,
             "id": 39545,
-            "category": "Pon la cara que haces cuando tu grupo de raros le ganó a los niños ricos en un partido de softbol y salvaron la pista de patinaje.",
+            "category": "Pon la cara que haces cuando tu grupo de raros le gana a los bravucones en un partido de béisbol y así salvan el vecindario.",
             "type": "Faces"
         },
         {
@@ -3036,7 +3036,7 @@
             "x": true,
             "h": false,
             "id": 39522,
-            "category": "Pon la cara que pondrías si vieras a Frosty el Muñeco De Nieve derretirse.",
+            "category": "Pon la cara que pondrías si vieras a Olaf el Muñeco De Nieve derretirse.",
             "type": "Faces"
         },
         {
@@ -3057,7 +3057,7 @@
             "x": false,
             "h": false,
             "id": 39515,
-            "category": "Pon la cara que pondrías si tu trabajo te hiciera mudarte a Cleveland.",
+            "category": "Pon la cara que pondrías si tu trabajo te hiciera mudarte a Cuba.",
             "type": "Faces"
         },
         {
@@ -3078,14 +3078,14 @@
             "x": true,
             "h": true,
             "id": 39502,
-            "category": "Pon la cara que pones cuando alguien muere brutalmente en <i>Juego de Tronos</i>.",
+            "category": "Pon la cara que pones cuando alguien muere brutalmente en <i>Game of Thrones</i>.",
             "type": "Faces"
         },
         {
             "x": true,
             "h": false,
             "id": 39489,
-            "category": "Pon la cara que pondrías si tu enémigo de la infancia se disculpara contigo.",
+            "category": "Pon la cara que pondrías si tu enemigo de la infancia se disculpara contigo.",
             "type": "Faces"
         },
         {
@@ -3106,7 +3106,7 @@
             "x": true,
             "h": false,
             "id": 39453,
-            "category": "Pon la cara que tendrías en el medio de Mardi Gras.",
+            "category": "Pon la cara que tendrías en el medio del carnaval de Brasil.",
             "type": "Faces"
         },
         {
@@ -3134,7 +3134,7 @@
             "x": false,
             "h": true,
             "id": 39442,
-            "category": "Pon la cara que pondrías si ganarás la lotería.",
+            "category": "Pon la cara que pondrías si ganaras la lotería.",
             "type": "Faces"
         },
         {
@@ -3162,7 +3162,7 @@
             "x": true,
             "h": false,
             "id": 39427,
-            "category": "Pon la cara que harías si te encontraras a Kim Kardashian.",
+            "category": "Pon la cara que harías si te encontraras con Kim Kardashian.",
             "type": "Faces"
         },
         {
