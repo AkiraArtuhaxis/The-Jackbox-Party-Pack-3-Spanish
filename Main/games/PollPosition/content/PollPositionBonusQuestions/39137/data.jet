@@ -62,12 +62,12 @@
         },
         {
             "t": "S",
-            "v": "¿Qué personaje de <i>Juego de Tronos<\/i> ama más la gente?",
+            "v": "¿Qué personaje de <i>Game of Thrones<\/i> ama más la gente?",
             "n": "QText"
         },
         {
             "t": "S",
-            "v": "¿Quién es tu personaje favorito de <i>Juego de Tronos<\/i>?",
+            "v": "¿Quién es tu personaje favorito de <i>Game of Thrones<\/i>?",
             "n": "PollQ"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Haven\u2019t seen it",
+            "v": "No la vi",
             "n": "Choice5"
         },
         {
