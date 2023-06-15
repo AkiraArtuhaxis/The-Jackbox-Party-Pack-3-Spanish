@@ -5910,16 +5910,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "\u201cTwinkle Twinkle Little Star\u201d"
+                    "text": "\u201cEstrellita dónde estás\u201d"
                 },
                 {
-                    "text": "\u201cHot Cross Buns\u201d"
+                    "text": "\u201cPan de cruz\u201d"
                 },
                 {
-                    "text": "\u201cRain Rain Go Away\""
+                    "text": "\u201cLluvia aléjate\""
                 },
                 {
-                    "text": "\u201cCock-a-Doodle Doo\u201d"
+                    "text": "\u201cLa cucaracha\u201d"
                 }
             ]
         },
