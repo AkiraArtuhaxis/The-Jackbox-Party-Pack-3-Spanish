@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Redondeado a la centena más cercana, ¿cuál es la mayor cantidad de efectivo que la mayoría de las personas ha tenido en sus manos a la vez?",
+            "v": "Redondeado a la centena más cercana, ¿cuál es la mayor cantidad de efectivo que la mayoría de la gente ha tenido en sus manos a la vez?",
             "n": "QText"
         },
         {
@@ -72,17 +72,17 @@
         },
         {
             "t": "S",
-            "v": "$1,000",
+            "v": "$1.000",
             "n": "Choice0"
         },
         {
             "t": "S",
-            "v": "$3,000",
+            "v": "$3.000",
             "n": "Choice7"
         },
         {
             "t": "S",
-            "v": "$10,000",
+            "v": "$10.000",
             "n": "Choice8"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "£5,000",
+            "v": "£5.000",
             "n": "Choice5"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "$5,000",
+            "v": "$5.000",
             "n": "Choice3"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "$2,000",
+            "v": "$2.000",
             "n": "Choice1"
         },
         {
