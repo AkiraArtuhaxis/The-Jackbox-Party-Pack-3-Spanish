@@ -1027,7 +1027,7 @@
             "x": false,
             "h": false,
             "id": 40057,
-            "category": "Levanta tantos dedos como billetes de diez pesos/menor denominación que tengas actualmente en tu billetera.",
+            "category": "Levanta tantos dedos como billetes de menor denominación que tengas actualmente en tu billetera.",
             "type": "Counting"
         },
         {

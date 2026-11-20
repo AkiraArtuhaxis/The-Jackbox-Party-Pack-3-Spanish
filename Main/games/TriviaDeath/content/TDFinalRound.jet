@@ -3,6 +3,7 @@
     "content": [
         {
             "x": false,
+            "us": true,
             "id": 36320,
             "text": "Juegos de <i>The Price is Right<\/i>",
             "choices": [
@@ -110,6 +111,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36270,
             "text": "Países que contienen los Alpes",
             "choices": [
@@ -202,6 +204,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36263,
             "text": "Países de la Península Arábiga",
             "choices": [
@@ -304,6 +307,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36255,
             "text": "Gases nobles",
             "choices": [
@@ -401,6 +405,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36249,
             "text": "Power Rangers originales",
             "choices": [
@@ -488,6 +493,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36241,
             "text": "Tiburones",
             "choices": [
@@ -585,6 +591,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36240,
             "text": "Marcas de gomas de mascar",
             "choices": [
@@ -687,6 +694,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36239,
             "text": "Películas estrenadas en 3D",
             "choices": [
@@ -794,6 +802,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36236,
             "text": "Países de África occidental",
             "choices": [
@@ -891,6 +900,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36234,
             "text": "Criaturas míticas con cabezas humanas",
             "choices": [
@@ -968,6 +978,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36232,
             "text": "Territorios insulares de Estados Unidos",
             "choices": [
@@ -1035,6 +1046,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36225,
             "text": "Máquinas simples",
             "choices": [
@@ -1087,6 +1099,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36224,
             "text": "Fichas de Scrabble que valen 4 puntos o más",
             "choices": [
@@ -1169,6 +1182,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 41684,
             "text": "Serpientes venenosas",
             "choices": [
@@ -1241,6 +1255,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 41683,
             "text": "Países con capitales que comienzan con \u201cB\u201d",
             "choices": [
@@ -1348,6 +1363,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 41666,
             "text": "Juegos que requieren dados",
             "choices": [
@@ -1430,6 +1446,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 41662,
             "text": "Pokémon de agua",
             "choices": [
@@ -1517,6 +1534,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 41660,
             "text": "Graduados de Harvard",
             "choices": [
@@ -1599,6 +1617,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 41658,
             "text": "Miembros de Bone Thugs-n-Harmony",
             "choices": [
@@ -1656,6 +1675,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36260,
             "text": "Casinos de Las Vegas",
             "choices": [
@@ -1763,6 +1783,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36245,
             "text": "Personajes de las <i>Tortugas Ninja<\/i>",
             "choices": [
@@ -1865,6 +1886,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36064,
             "text": "Manzanas",
             "choices": [
@@ -1947,6 +1969,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35999,
             "text": "Trabajos de Hércules",
             "choices": [
@@ -2059,6 +2082,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35962,
             "text": "Alimentos de masa frita",
             "choices": [
@@ -2146,6 +2170,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35903,
             "text": "Películas con animales que hablan",
             "choices": [
@@ -2223,6 +2248,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35874,
             "text": "Tatuajes de Justin Bieber",
             "choices": [
@@ -2320,6 +2346,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35871,
             "text": "Tipos de pasta",
             "choices": [
@@ -2417,6 +2444,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35796,
             "text": "\u201cIronías\u201d en <i>Ironic<\/i> de Alanis Morissette",
             "choices": [
@@ -2494,6 +2522,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35732,
             "text": "Letras del alfabeto griego",
             "choices": [
@@ -2601,6 +2630,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35685,
             "text": "Marisco",
             "choices": [
@@ -2688,6 +2718,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35411,
             "text": "Animales que ponen huevos",
             "choices": [
@@ -2780,6 +2811,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36144,
             "text": "Bandas con tres miembros",
             "choices": [
@@ -2882,6 +2914,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36143,
             "text": "Animales de <i>El libro de la selva<\/i>",
             "choices": [
@@ -2969,6 +3002,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36142,
             "text": "Sabores de Mt. Dew",
             "choices": [
@@ -3076,6 +3110,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36141,
             "text": "Barrios de Nueva York",
             "choices": [
@@ -3183,6 +3218,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36140,
             "text": "Medicamentos para la disfunción eréctil",
             "choices": [
@@ -3270,6 +3306,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36139,
             "text": "Miembros fundadores de la ONU",
             "choices": [
@@ -3357,6 +3394,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36114,
             "text": "Ingredientes de la Coca-Cola Light",
             "choices": [
@@ -3434,6 +3472,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36111,
             "text": "Personajes de <i>Cheers<\/i>",
             "choices": [
@@ -3531,6 +3570,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36109,
             "text": "Productos de pastelería Hostess Snack Cake",
             "choices": [
@@ -3613,6 +3653,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36103,
             "text": "Ganadores del Masters de Augusta",
             "choices": [
@@ -3700,6 +3741,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36101,
             "text": "Fases de la luna",
             "choices": [
@@ -3787,6 +3829,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36100,
             "text": "Marcas de laxantes",
             "choices": [
@@ -3869,6 +3912,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36098,
             "text": "Eventos en un decatlón",
             "choices": [
@@ -3961,6 +4005,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36094,
             "text": "Categorías de <i>Trivial Pursuit: Genus Edition<\/i>",
             "choices": [
@@ -4043,6 +4088,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36091,
             "text": "Libros escritos por Donald Trump",
             "choices": [
@@ -4125,6 +4171,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36061,
             "text": "Galletas de las niñas exploradoras",
             "choices": [
@@ -4227,6 +4274,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36060,
             "text": "Rangos de Boy Scout",
             "choices": [
@@ -4304,6 +4352,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36059,
             "text": "Roedores",
             "choices": [
@@ -4391,6 +4440,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36058,
             "text": "Clases de personajes en <i>Calabozos y dragones<\/i>",
             "choices": [
@@ -4498,6 +4548,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36052,
             "text": "Alimentos que se pueden comer en la dieta paleolítica",
             "choices": [
@@ -4605,6 +4656,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36049,
             "text": "Partes del cerebro",
             "choices": [
@@ -4677,6 +4729,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 36048,
             "text": "Ciudades australianas",
             "choices": [
@@ -4774,6 +4827,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 36000,
             "text": "Primeros ministros británicos",
             "choices": [
@@ -4851,6 +4905,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35985,
             "text": "Presentadores de <i>The View<\/i>",
             "choices": [
@@ -4958,6 +5013,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35983,
             "text": "Demócratas",
             "choices": [
@@ -5040,6 +5096,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35982,
             "text": "Islas hawaianas",
             "choices": [
@@ -5127,6 +5184,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35979,
             "text": "Posturas de yoga",
             "choices": [
@@ -5214,6 +5272,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35975,
             "text": "Películas de Chuck Norris",
             "choices": [
@@ -5301,6 +5360,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35973,
             "text": "Juegos de <i>Call of Duty<\/i>",
             "choices": [
@@ -5373,6 +5433,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35972,
             "text": "Libros de <i>Escalofríos<\/i>",
             "choices": [
@@ -5480,6 +5541,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35969,
             "text": "Las siete maravillas del mundo antiguo",
             "choices": [
@@ -5552,6 +5614,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35968,
             "text": "Desiertos africanos",
             "choices": [
@@ -5639,6 +5702,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35966,
             "text": "Dioses egipcios",
             "choices": [
@@ -5686,6 +5750,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35961,
             "text": "Planetas y estrellas de <i>Star Wars<\/i>",
             "choices": [
@@ -5758,6 +5823,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35959,
             "text": "Animales en la lista de especies en peligro de extinción de 2016",
             "choices": [
@@ -5855,6 +5921,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35958,
             "text": "Los 7 hábitos de la gente altamente efectiva",
             "choices": [
@@ -5895,7 +5962,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Hablar sólo cuando se le hable",
+                    "text": "Hablar solamente cuando se le hable",
                     "easy": false
                 },
                 {
@@ -5937,6 +6004,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35957,
             "text": "Partículas subatómicas",
             "choices": [
@@ -6019,6 +6087,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35953,
             "text": "Historias de Sherlock Holmes",
             "choices": [
@@ -6106,6 +6175,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35949,
             "text": "Premio Óscar a la mejor canción original",
             "choices": [
@@ -6213,6 +6283,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35945,
             "text": "El hombre vivo más sexy en los 90\u2019s según la revista <i>People<\/i>",
             "choices": [
@@ -6320,6 +6391,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35943,
             "text": "Estados de México",
             "choices": [
@@ -6402,6 +6474,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35942,
             "text": "Embutidos",
             "choices": [
@@ -6489,6 +6562,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35941,
             "text": "Enemigos de Godzilla",
             "choices": [
@@ -6576,6 +6650,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35936,
             "text": "Árboles coníferos",
             "choices": [
@@ -6683,6 +6758,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35899,
             "text": "Títulos de películas de <i>Star Trek<\/i>",
             "choices": [
@@ -6765,6 +6841,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35888,
             "text": "Países insulares",
             "choices": [
@@ -6852,6 +6929,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35886,
             "text": "Mensajes de la bola 8 mágica",
             "choices": [
@@ -6949,6 +7027,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35882,
             "text": "Matices de púrpura",
             "choices": [
@@ -7056,6 +7135,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35876,
             "text": "Horrocruxes de Tom Riddle",
             "choices": [
@@ -7143,6 +7223,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35865,
             "text": "Transformers",
             "choices": [
@@ -7250,6 +7331,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35864,
             "text": "Dinosaurios carnívoros",
             "choices": [
@@ -7342,6 +7424,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35862,
             "text": "Barras de caramelo con turrón",
             "choices": [
@@ -7449,6 +7532,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35856,
             "text": "Sabores de Ben & Jerry\u2019s",
             "choices": [
@@ -7536,6 +7620,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35853,
             "text": "Números primos",
             "choices": [
@@ -7623,6 +7708,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35852,
             "text": "Ingredientes de la Sriracha",
             "choices": [
@@ -7685,6 +7771,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35846,
             "text": "Legumbres",
             "choices": [
@@ -7757,6 +7844,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35844,
             "text": "Automóviles hechos por KIA",
             "choices": [
@@ -7854,6 +7942,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35839,
             "text": "Firmantes de la Declaración de Independencia estadounidense",
             "choices": [
@@ -7926,6 +8015,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35837,
             "text": "Ganadores de la Triple Corona",
             "choices": [
@@ -7993,6 +8083,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35836,
             "text": "Cortes de carne en inglés",
             "choices": [
@@ -8080,6 +8171,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35834,
             "text": "Canciones en <i>Sgt. Pepper\u2019s Lonely Hearts Club Band<\/i>",
             "choices": [
@@ -8167,6 +8259,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35833,
             "text": "Países limítrofes con China",
             "choices": [
@@ -8254,6 +8347,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35832,
             "text": "Personajes de <i>Mortal Kombat<\/i>",
             "choices": [
@@ -8326,6 +8420,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35830,
             "text": "Países que tienen verde en su bandera",
             "choices": [
@@ -8388,6 +8483,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35828,
             "text": "Los doce apóstoles de Jesús",
             "choices": [
@@ -8495,6 +8591,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35827,
             "text": "Jugadores zurdos de la NBA",
             "choices": [
@@ -8557,6 +8654,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35825,
             "text": "Instrucciones en el \u201cCha Cha Slide\u201d",
             "choices": [
@@ -8664,6 +8762,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35823,
             "text": "Invertebrados",
             "choices": [
@@ -8741,6 +8840,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35799,
             "text": "Huesos humanos",
             "choices": [
@@ -8823,6 +8923,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35798,
             "text": "Campeones de boxeo de peso pesado",
             "choices": [
@@ -8910,6 +9011,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35790,
             "text": "Presentadores de <i>Family Feud<\/i>",
             "choices": [
@@ -8987,6 +9089,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35789,
             "text": "Usan pantalones",
             "choices": [
@@ -9094,6 +9197,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35787,
             "text": "Miembros de Wu-Tang Clan",
             "choices": [
@@ -9166,6 +9270,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35785,
             "text": "Filtros de Instagram",
             "choices": [
@@ -9273,6 +9378,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35784,
             "text": "Películas de Ernest",
             "choices": [
@@ -9360,6 +9466,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35772,
             "text": "Capitales europeas",
             "choices": [
@@ -9467,6 +9574,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35742,
             "text": "Instrumentos de viento-madera",
             "choices": [
@@ -9549,6 +9657,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35729,
             "text": "Novelas de <i>El Club de las Canguro<\/i>",
             "choices": [
@@ -9631,6 +9740,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35728,
             "text": "Monos",
             "choices": [
@@ -9683,6 +9793,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35724,
             "text": "Con voz de Frank Oz (la voz de Yoda)",
             "choices": [
@@ -9760,6 +9871,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35723,
             "text": "Meses con 31 días",
             "choices": [
@@ -9827,6 +9939,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35722,
             "text": "Personajes de dibujos animados de Hanna-Barbera",
             "choices": [
@@ -9919,6 +10032,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35721,
             "text": "Ganadores de <i>American Idol<\/i>",
             "choices": [
@@ -10026,6 +10140,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35718,
             "text": "Países que tienen presidente",
             "choices": [
@@ -10123,6 +10238,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35717,
             "text": "Rocas sedimentarias",
             "choices": [
@@ -10195,6 +10311,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35713,
             "text": "Casas en <i>Game of Thrones<\/i> ",
             "choices": [
@@ -10267,6 +10384,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35696,
             "text": "Clasificados como osos",
             "choices": [
@@ -10354,6 +10472,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35694,
             "text": "Fabricantes de automóviles alemanes",
             "choices": [
@@ -10431,6 +10550,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35691,
             "text": "Muñecas de American Girl",
             "choices": [
@@ -10508,6 +10628,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35690,
             "text": "Canciones de \u201cWeird Al\u201d Yankovic",
             "choices": [
@@ -10615,6 +10736,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35687,
             "text": "Equipos deportivos profesionales del estado de Nueva York",
             "choices": [
@@ -10722,6 +10844,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35686,
             "text": "Lenguas romances",
             "choices": [
@@ -10799,6 +10922,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35682,
             "text": "Egresados de <i>The Daily Show<\/i>",
             "choices": [
@@ -10886,6 +11010,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35680,
             "text": "Universidades de la Ivy League",
             "choices": [
@@ -10978,6 +11103,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35678,
             "text": "Personajes en <i>Star Wars: Episodio IV - Una nueva esperanza<\/i>",
             "choices": [
@@ -11060,6 +11186,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35676,
             "text": "Tipos de queso",
             "choices": [
@@ -11152,6 +11279,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35673,
             "text": "Ensaladas que contienen huevos duros",
             "choices": [
@@ -11194,6 +11322,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35672,
             "text": "Tocaron en el Woodstock original",
             "choices": [
@@ -11301,6 +11430,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35667,
             "text": "Hongos",
             "choices": [
@@ -11373,6 +11503,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35659,
             "text": "Aves no voladoras",
             "choices": [
@@ -11450,6 +11581,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35657,
             "text": "Películas de Robert De Niro",
             "choices": [
@@ -11557,6 +11689,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35656,
             "text": "Bateristas",
             "choices": [
@@ -11649,6 +11782,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35655,
             "text": "Personajes animados con bigote",
             "choices": [
@@ -11716,6 +11850,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35652,
             "text": "Ríos europeos",
             "choices": [
@@ -11773,6 +11908,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35651,
             "text": "Películas de James Bond",
             "choices": [
@@ -11870,6 +12006,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35647,
             "text": "Piedras de nacimiento",
             "choices": [
@@ -11977,6 +12114,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35646,
             "text": "Vino tinto",
             "choices": [
@@ -12044,6 +12182,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35645,
             "text": "Sabores de LaCroix",
             "choices": [
@@ -12131,6 +12270,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35644,
             "text": "Países del Caribe",
             "choices": [
@@ -12228,6 +12368,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35643,
             "text": "Elementos químicos",
             "choices": [
@@ -12335,6 +12476,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35641,
             "text": "Marsupiales",
             "choices": [
@@ -12412,6 +12554,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35637,
             "text": "Películas en las que Matthew McConaughey interpreta a un abogado",
             "choices": [
@@ -12459,6 +12602,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35601,
             "text": "Lanzadores de béisbol zurdos",
             "choices": [
@@ -12541,6 +12685,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35598,
             "text": "Cócteles a base de ron",
             "choices": [
@@ -12603,6 +12748,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35595,
             "text": "Animales del zodiaco chino",
             "choices": [
@@ -12710,6 +12856,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35590,
             "text": "Países sudamericanos",
             "choices": [
@@ -12817,6 +12964,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35572,
             "text": "Novelas escritas por mujeres",
             "choices": [
@@ -12899,6 +13047,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35567,
             "text": "Estados que limitan con Tennessee",
             "choices": [
@@ -12986,6 +13135,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35560,
             "text": "Países al norte del Ecuador",
             "choices": [
@@ -13093,6 +13243,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35474,
             "text": "Musicales de Rodgers y Hammerstein",
             "choices": [
@@ -13145,6 +13296,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35472,
             "text": "Personajes de <i>Los Simpson<\/i> con la voz de Hank Azaria",
             "choices": [
@@ -13232,6 +13384,7 @@
         },
         {
             "x": false,
+            "us": true,
             "id": 35467,
             "text": "Vicepresidentes de Estados Unidos",
             "choices": [
@@ -13329,6 +13482,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35401,
             "text": "Dioses griegos",
             "choices": [
@@ -13436,6 +13590,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35398,
             "text": "Fruta",
             "choices": [
@@ -13543,6 +13698,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35361,
             "text": "Mamíferos",
             "choices": [
@@ -13645,6 +13801,7 @@
         },
         {
             "x": false,
+            "us": false,
             "id": 35350,
             "text": "Países africanos",
             "choices": [

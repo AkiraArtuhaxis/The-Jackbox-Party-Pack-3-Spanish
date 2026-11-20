@@ -77,6 +77,14 @@
             "width": 1,
             "source": "HideRoomCode",
             "description": "Permite ocultar el código de sala para evitar que los jugadores se unan tempranamente."
+        },
+        {
+            "title": "Sin preguntas estadounidenses",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUSAQuestions",
+            "description": "¿No te es familiar la cultura del tío Sam? Esta opción deshabilita las preguntas que no sean globales."
         }
     ]
 }
